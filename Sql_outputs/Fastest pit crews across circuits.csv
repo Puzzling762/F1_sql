@@ -1,0 +1,639 @@
+circuit_name,team_name,avg_pit_time_sec
+"Albert Park Grand Prix Circuit","RB F1 Team",18.019
+Hockenheimring,"Force India",19.601
+Hockenheimring,"Red Bull",19.630
+Hockenheimring,HRT,19.858
+Nürburgring,"Lotus F1",19.861
+Hockenheimring,Ferrari,19.923
+Hockenheimring,McLaren,19.966
+"Valencia Street Circuit","Red Bull",20.378
+Hockenheimring,Sauber,20.400
+Hockenheimring,Marussia,20.400
+"Miami International Autodrome",AlphaTauri,20.486
+Hockenheimring,Renault,20.632
+Nürburgring,Marussia,20.648
+Hockenheimring,"Toro Rosso",20.654
+"Valencia Street Circuit","Force India",20.697
+Nürburgring,Mercedes,20.791
+"Miami International Autodrome","Red Bull",20.825
+"Las Vegas Strip Street Circuit","Alpine F1 Team",20.832
+"Yas Marina Circuit",Lotus,20.853
+Hockenheimring,Caterham,20.867
+"Las Vegas Strip Street Circuit","RB F1 Team",21.017
+"Circuit Park Zandvoort","RB F1 Team",21.024
+Nürburgring,McLaren,21.031
+"Red Bull Ring","Manor Marussia",21.032
+Hockenheimring,"Lotus F1",21.098
+"Istanbul Park","Force India",21.105
+Nürburgring,Ferrari,21.134
+"Korean International Circuit","Red Bull",21.172
+"Yas Marina Circuit",Virgin,21.177
+"Miami International Autodrome",Mercedes,21.208
+"Las Vegas Strip Street Circuit",AlphaTauri,21.252
+"Valencia Street Circuit","Toro Rosso",21.297
+Hockenheimring,"Racing Point",21.308
+Hungaroring,"RB F1 Team",21.310
+Nürburgring,"Force India",21.319
+"Red Bull Ring","Racing Point",21.353
+"Circuit de Barcelona-Catalunya","Red Bull",21.357
+"Circuit de Barcelona-Catalunya",Ferrari,21.359
+"Valencia Street Circuit",McLaren,21.371
+"Las Vegas Strip Street Circuit",Williams,21.402
+Nürburgring,Sauber,21.403
+"Circuit Park Zandvoort",Sauber,21.407
+"Valencia Street Circuit",Williams,21.427
+"Baku City Circuit","RB F1 Team",21.453
+"Korean International Circuit",Ferrari,21.476
+Hungaroring,"Lotus F1",21.494
+"Korean International Circuit",Renault,21.511
+"Yas Marina Circuit","Lotus F1",21.554
+"Red Bull Ring",Renault,21.600
+"Las Vegas Strip Street Circuit",Ferrari,21.613
+"Valencia Street Circuit","Lotus F1",21.661
+Nürburgring,Renault,21.678
+"Miami International Autodrome","Alpine F1 Team",21.691
+"Istanbul Park","Red Bull",21.705
+"Valencia Street Circuit",Renault,21.708
+"Red Bull Ring","Haas F1 Team",21.713
+"Red Bull Ring","Red Bull",21.723
+"Red Bull Ring","Force India",21.734
+"Yas Marina Circuit",Ferrari,21.744
+Nürburgring,Caterham,21.749
+"Miami International Autodrome","Aston Martin",21.751
+Nürburgring,"Toro Rosso",21.768
+Hungaroring,"Toro Rosso",21.776
+"Miami International Autodrome",Ferrari,21.789
+"Red Bull Ring",Mercedes,21.796
+Hungaroring,"Manor Marussia",21.801
+"Red Bull Ring","RB F1 Team",21.822
+"Shanghai International Circuit","Lotus F1",21.831
+"Red Bull Ring","Aston Martin",21.854
+"Miami International Autodrome","Alfa Romeo",21.856
+"Shanghai International Circuit",Ferrari,21.866
+Hockenheimring,Williams,21.872
+"Shanghai International Circuit","Red Bull",21.884
+"Yas Marina Circuit","Red Bull",21.889
+"Korean International Circuit",Williams,21.896
+Hungaroring,Sauber,21.897
+"Circuit de Barcelona-Catalunya",Mercedes,21.898
+"Las Vegas Strip Street Circuit",Mercedes,21.904
+"Korean International Circuit","Lotus F1",21.911
+"Suzuka Circuit",Lotus,21.915
+"Yas Marina Circuit",Mercedes,21.936
+Nürburgring,Virgin,21.964
+"Valencia Street Circuit",Mercedes,21.979
+"Yas Marina Circuit",Renault,21.997
+"Circuit de Barcelona-Catalunya",Lotus,21.997
+"Yas Marina Circuit","Force India",22.018
+"Baku City Circuit","Racing Point",22.019
+"Valencia Street Circuit",Virgin,22.031
+"Circuit de Barcelona-Catalunya",McLaren,22.040
+Hockenheimring,"Haas F1 Team",22.043
+"Istanbul Park","Toro Rosso",22.055
+Hockenheimring,"Manor Marussia",22.087
+"Yas Marina Circuit",HRT,22.101
+"Autódromo José Carlos Pace",Lotus,22.103
+"Yas Marina Circuit","Alpine F1 Team",22.122
+"Buddh International Circuit","Red Bull",22.153
+Hungaroring,Lotus,22.184
+"Red Bull Ring",AlphaTauri,22.204
+"Las Vegas Strip Street Circuit",McLaren,22.220
+"Red Bull Ring","Alpine F1 Team",22.229
+"Yas Marina Circuit",AlphaTauri,22.231
+"Circuit de Barcelona-Catalunya",Virgin,22.235
+"Albert Park Grand Prix Circuit","Lotus F1",22.235
+"Circuit de Barcelona-Catalunya","RB F1 Team",22.237
+Hockenheimring,Mercedes,22.242
+"Shanghai International Circuit",Mercedes,22.252
+"Yas Marina Circuit","Aston Martin",22.278
+"Las Vegas Strip Street Circuit",Sauber,22.291
+Hungaroring,"Racing Point",22.317
+"Las Vegas Strip Street Circuit","Haas F1 Team",22.323
+"Red Bull Ring",McLaren,22.334
+"Miami International Autodrome","RB F1 Team",22.347
+"Circuit de Barcelona-Catalunya",Marussia,22.363
+"Yas Marina Circuit","Alfa Romeo",22.364
+"Valencia Street Circuit",Sauber,22.386
+"Korean International Circuit","Toro Rosso",22.396
+"Shanghai International Circuit",Lotus,22.416
+"Shanghai International Circuit",Renault,22.421
+"Istanbul Park",Renault,22.424
+"Circuit de Barcelona-Catalunya",Caterham,22.425
+"Korean International Circuit",Caterham,22.442
+"Yas Marina Circuit",Williams,22.456
+"Valencia Street Circuit",Ferrari,22.456
+"Miami International Autodrome",McLaren,22.464
+"Korean International Circuit",Lotus,22.478
+"Valencia Street Circuit",Lotus,22.491
+"Circuit de Barcelona-Catalunya",Williams,22.505
+"Circuit de Barcelona-Catalunya",Renault,22.505
+"Istanbul Park",Mercedes,22.506
+"Autódromo Hermanos Rodríguez","Racing Point",22.551
+"Shanghai International Circuit",Marussia,22.576
+"Yas Marina Circuit",McLaren,22.582
+Hungaroring,"Force India",22.590
+"Shanghai International Circuit","Force India",22.598
+"Circuit de Barcelona-Catalunya","Aston Martin",22.603
+"Autódromo José Carlos Pace",Virgin,22.618
+"Istanbul Park",Lotus,22.625
+"Yas Marina Circuit",Marussia,22.626
+"Red Bull Ring","Alfa Romeo",22.633
+"Buddh International Circuit",Mercedes,22.641
+Hungaroring,Marussia,22.652
+"Red Bull Ring","Lotus F1",22.652
+"Red Bull Ring",Williams,22.674
+"Red Bull Ring",Ferrari,22.690
+"Circuit de Barcelona-Catalunya",Sauber,22.711
+"Shanghai International Circuit","RB F1 Team",22.715
+Nürburgring,"Racing Point",22.720
+"Buddh International Circuit","Force India",22.724
+"Circuit de Barcelona-Catalunya","Toro Rosso",22.727
+"Circuit de Barcelona-Catalunya","Racing Point",22.730
+Hungaroring,Caterham,22.733
+"Autódromo Hermanos Rodríguez",Renault,22.755
+"Yas Marina Circuit","Haas F1 Team",22.767
+"Autódromo Hermanos Rodríguez","Toro Rosso",22.800
+Nürburgring,HRT,22.807
+"Circuit Gilles Villeneuve","Force India",22.808
+"Circuit de Spa-Francorchamps","RB F1 Team",22.808
+"Circuit de Barcelona-Catalunya",HRT,22.820
+"Korean International Circuit",Sauber,22.835
+"Albert Park Grand Prix Circuit","Racing Point",22.853
+"Buddh International Circuit",Ferrari,22.857
+"Circuit Gilles Villeneuve",Caterham,22.887
+"Korean International Circuit",Marussia,22.890
+"Circuit Gilles Villeneuve",Marussia,22.891
+Hockenheimring,"Alfa Romeo",22.902
+Hungaroring,HRT,22.917
+"Shanghai International Circuit",HRT,22.923
+"Circuit de Barcelona-Catalunya","Alpine F1 Team",22.935
+"Circuit of the Americas",Marussia,22.941
+"Circuit Gilles Villeneuve","Lotus F1",22.970
+Hungaroring,Renault,22.978
+"Yas Marina Circuit",Caterham,22.996
+"Shanghai International Circuit",McLaren,23.001
+"Circuit de Spa-Francorchamps",Marussia,23.002
+"Circuit de Barcelona-Catalunya","Lotus F1",23.010
+"Shanghai International Circuit",Sauber,23.060
+"Shanghai International Circuit","Toro Rosso",23.076
+"Buddh International Circuit",McLaren,23.140
+"Suzuka Circuit","Racing Point",23.158
+"Miami International Autodrome",Sauber,23.171
+Nürburgring,"Haas F1 Team",23.255
+"Valencia Street Circuit",Caterham,23.274
+"Circuit de Barcelona-Catalunya",AlphaTauri,23.283
+"Suzuka Circuit",Virgin,23.284
+"Circuit de Spa-Francorchamps",Lotus,23.299
+"Circuit de Spa-Francorchamps",Virgin,23.331
+"Autódromo Internacional do Algarve","Alpine F1 Team",23.344
+"Korean International Circuit",HRT,23.346
+"Suzuka Circuit",Renault,23.361
+"Autódromo Internacional do Algarve","Aston Martin",23.373
+"Buddh International Circuit",Renault,23.381
+"Istanbul Park",Williams,23.387
+"Circuit of the Americas",Caterham,23.401
+"Korean International Circuit",McLaren,23.409
+"Istanbul Park",Sauber,23.425
+"Autódromo Hermanos Rodríguez","Force India",23.429
+"Buddh International Circuit","Lotus F1",23.432
+"Istanbul Park",McLaren,23.473
+"Circuit de Spa-Francorchamps","Aston Martin",23.480
+"Circuit de Spa-Francorchamps","Alpine F1 Team",23.486
+"Circuit Gilles Villeneuve","Red Bull",23.495
+"Istanbul Park",Ferrari,23.500
+"Valencia Street Circuit",HRT,23.505
+"Red Bull Ring",Sauber,23.517
+"Red Bull Ring","Toro Rosso",23.523
+"Circuit de Spa-Francorchamps","Lotus F1",23.526
+"Korean International Circuit",Mercedes,23.537
+"Las Vegas Strip Street Circuit","Red Bull",23.557
+"Shanghai International Circuit","Racing Point",23.571
+"Shanghai International Circuit",Caterham,23.574
+"Korean International Circuit",Virgin,23.583
+"Circuit de Barcelona-Catalunya","Force India",23.587
+"Autódromo José Carlos Pace",Marussia,23.592
+"Autódromo José Carlos Pace","Racing Point",23.602
+"Circuit de Spa-Francorchamps","Racing Point",23.604
+"Red Bull Ring",Caterham,23.612
+"Yas Marina Circuit","Toro Rosso",23.614
+"Buddh International Circuit","Toro Rosso",23.635
+"Red Bull Ring",Marussia,23.715
+"Yas Marina Circuit","Racing Point",23.722
+"Circuit de Spa-Francorchamps",AlphaTauri,23.764
+"Yas Marina Circuit",Sauber,23.776
+"Circuit de Barcelona-Catalunya","Haas F1 Team",23.804
+"Istanbul Park",Virgin,23.808
+"Sepang International Circuit",Mercedes,23.851
+"Buddh International Circuit",Sauber,23.865
+"Shanghai International Circuit",Williams,23.888
+"Circuit Gilles Villeneuve","Racing Point",23.902
+"Shanghai International Circuit","Haas F1 Team",23.941
+"Autodromo Nazionale di Monza",Virgin,23.966
+Nürburgring,Lotus,23.986
+"Circuit of the Americas","RB F1 Team",24.016
+"Circuit Gilles Villeneuve",Williams,24.034
+"Autódromo Hermanos Rodríguez","Lotus F1",24.105
+"Bahrain International Circuit",Caterham,24.114
+"Circuit Gilles Villeneuve",Renault,24.153
+"Suzuka Circuit",HRT,24.155
+"Circuit of the Americas",Mercedes,24.172
+"Buddh International Circuit",Virgin,24.179
+"Istanbul Park","Racing Point",24.181
+"Circuit Gilles Villeneuve",AlphaTauri,24.223
+"Sepang International Circuit",Ferrari,24.227
+"Circuit Gilles Villeneuve","Aston Martin",24.299
+"Autodromo Nazionale di Monza","Force India",24.309
+"Autódromo Internacional do Algarve",Ferrari,24.345
+"Circuit Gilles Villeneuve",McLaren,24.347
+"Miami International Autodrome","Haas F1 Team",24.384
+"Autódromo José Carlos Pace","Lotus F1",24.386
+"Autódromo Hermanos Rodríguez",Sauber,24.403
+"Circuit of the Americas",AlphaTauri,24.418
+"Circuit Gilles Villeneuve",Ferrari,24.428
+"Albert Park Grand Prix Circuit",Caterham,24.444
+"Autodromo Nazionale di Monza","Toro Rosso",24.500
+"Circuit de Barcelona-Catalunya","Alfa Romeo",24.510
+"Circuit of the Americas",Ferrari,24.522
+"Autódromo José Carlos Pace",Caterham,24.563
+"Las Vegas Strip Street Circuit","Aston Martin",24.572
+"Shanghai International Circuit","Manor Marussia",24.575
+"Istanbul Park",AlphaTauri,24.603
+"Autodromo Nazionale di Monza",Ferrari,24.631
+"Circuit de Barcelona-Catalunya","Manor Marussia",24.631
+"Circuit of the Americas",HRT,24.648
+"Circuit of the Americas",McLaren,24.655
+"Circuit of the Americas","Racing Point",24.656
+"Circuit Paul Ricard",Sauber,24.661
+"Autódromo Internacional do Algarve","Haas F1 Team",24.661
+"Bahrain International Circuit","Force India",24.662
+"Circuit of the Americas",Renault,24.668
+"Autódromo Internacional do Algarve",Mercedes,24.681
+"Autódromo Internacional do Algarve","Red Bull",24.704
+"Bahrain International Circuit","RB F1 Team",24.723
+Nürburgring,AlphaTauri,24.724
+"Bahrain International Circuit",Marussia,24.733
+"Shanghai International Circuit","Alfa Romeo",24.736
+"Circuit Gilles Villeneuve","Alpine F1 Team",24.736
+"Circuit of the Americas","Red Bull",24.749
+"Yas Marina Circuit","Manor Marussia",24.784
+"Circuit Gilles Villeneuve",Mercedes,24.791
+"Circuit of the Americas","Alfa Romeo",24.797
+"Shanghai International Circuit",Virgin,24.824
+"Bahrain International Circuit",HRT,24.859
+"Circuit Gilles Villeneuve",Virgin,24.864
+"Albert Park Grand Prix Circuit",Lotus,24.871
+"Circuit Gilles Villeneuve","Alfa Romeo",24.883
+"Circuit de Spa-Francorchamps",HRT,24.897
+"Sepang International Circuit",Sauber,24.914
+"Sepang International Circuit",Virgin,24.929
+"Autodromo Nazionale di Monza",Lotus,24.930
+"Autódromo José Carlos Pace",HRT,24.937
+"Autodromo Nazionale di Monza","Aston Martin",24.952
+"Sepang International Circuit",Renault,25.003
+"Yas Marina Circuit","RB F1 Team",25.042
+"Autodromo Nazionale di Monza",Marussia,25.106
+"Autodromo Nazionale di Monza","Lotus F1",25.113
+"Circuit of the Americas","Force India",25.164
+"Albert Park Grand Prix Circuit",Virgin,25.166
+Nürburgring,"Alfa Romeo",25.284
+"Autódromo Internacional do Algarve",AlphaTauri,25.357
+"Buddh International Circuit",Caterham,25.366
+"Sepang International Circuit",Williams,25.379
+"Autodromo Nazionale di Monza","Alpine F1 Team",25.385
+"Autódromo Internacional do Algarve",Williams,25.394
+"Bahrain International Circuit","Aston Martin",25.424
+"Circuit de Spa-Francorchamps","Alfa Romeo",25.427
+"Autódromo Internacional do Algarve","Alfa Romeo",25.483
+"Autodromo Nazionale di Monza",Caterham,25.504
+"Circuit of the Americas","Haas F1 Team",25.521
+"Miami International Autodrome",Williams,25.524
+"Circuit of the Americas","Aston Martin",25.610
+"Sepang International Circuit","Haas F1 Team",25.617
+"Circuit of the Americas",Williams,25.791
+"Autódromo Hermanos Rodríguez","Manor Marussia",25.797
+"Sepang International Circuit","Lotus F1",25.817
+"Buddh International Circuit",Williams,25.940
+"Autódromo Internacional do Algarve",McLaren,25.969
+"Sepang International Circuit",Lotus,25.979
+"Circuit de Monaco",Lotus,26.004
+Hungaroring,Virgin,26.048
+"Korean International Circuit","Force India",26.077
+"Suzuka Circuit","Manor Marussia",26.093
+"Silverstone Circuit",Virgin,26.136
+"Istanbul Park","Alfa Romeo",26.175
+"Circuit of the Americas","Toro Rosso",26.187
+"Circuit Gilles Villeneuve","Haas F1 Team",26.197
+"Sepang International Circuit","Toro Rosso",26.241
+"Circuit Gilles Villeneuve",Sauber,26.248
+"Circuit of the Americas","Lotus F1",26.283
+"Sepang International Circuit","Red Bull",26.297
+"Bahrain International Circuit","Manor Marussia",26.321
+"Buddh International Circuit",Lotus,26.401
+"Silverstone Circuit",Marussia,26.410
+"Buddh International Circuit",Marussia,26.420
+"Autódromo Hermanos Rodríguez","RB F1 Team",26.443
+"Albert Park Grand Prix Circuit",Marussia,26.447
+"Circuit de Monaco","Racing Point",26.527
+"Circuit Gilles Villeneuve","RB F1 Team",26.576
+"Shanghai International Circuit","Alpine F1 Team",26.580
+"Circuit Gilles Villeneuve","Toro Rosso",26.630
+"Silverstone Circuit","Lotus F1",26.763
+"Autodromo Nazionale di Monza","Manor Marussia",26.830
+"Circuit of the Americas",Sauber,26.839
+"Circuit of the Americas","Alpine F1 Team",26.850
+"Circuit de Monaco",Virgin,26.956
+"Circuit Gilles Villeneuve","Manor Marussia",26.982
+"Bahrain International Circuit","Toro Rosso",26.986
+"Silverstone Circuit",Caterham,26.995
+"Sepang International Circuit",McLaren,27.060
+"Circuit de Monaco","Lotus F1",27.111
+"Circuit de Monaco","Force India",27.134
+"Losail International Circuit","Red Bull",27.188
+"Silverstone Circuit",HRT,27.218
+"Bahrain International Circuit",Sauber,27.230
+"Bahrain International Circuit","Alpine F1 Team",27.233
+"Valencia Street Circuit",Marussia,27.237
+"Circuit de Spa-Francorchamps",Caterham,27.319
+"Circuit de Monaco",Renault,27.322
+"Sepang International Circuit",Caterham,27.340
+"Circuit of the Americas","Manor Marussia",27.342
+"Losail International Circuit",AlphaTauri,27.342
+"Buddh International Circuit",HRT,27.443
+"Sepang International Circuit","Manor Marussia",27.454
+"Istanbul Park","Aston Martin",27.508
+"Circuit de Monaco","Manor Marussia",27.578
+"Losail International Circuit",McLaren,27.721
+"Autódromo Internacional do Algarve",Renault,27.767
+Nürburgring,Williams,27.775
+"Losail International Circuit","Alfa Romeo",27.810
+"Sepang International Circuit",Marussia,27.879
+"Circuit Paul Ricard",Renault,28.089
+"Circuit Paul Ricard","Toro Rosso",28.270
+"Losail International Circuit",Ferrari,28.313
+"Circuit de Monaco",Marussia,28.323
+"Silverstone Circuit","Toro Rosso",28.425
+"Circuit de Monaco","Haas F1 Team",28.467
+"Bahrain International Circuit","Lotus F1",28.499
+"Losail International Circuit","Alpine F1 Team",28.553
+"Circuit de Monaco",Caterham,28.760
+"Losail International Circuit",Sauber,28.879
+"Circuit de Monaco","Toro Rosso",28.940
+"Istanbul Park","Alpine F1 Team",29.116
+"Silverstone Circuit","Force India",29.128
+"Las Vegas Strip Street Circuit","Alfa Romeo",29.215
+"Marina Bay Street Circuit","Red Bull",29.216
+"Losail International Circuit",Mercedes,29.301
+"Marina Bay Street Circuit",Mercedes,29.471
+"Marina Bay Street Circuit",Ferrari,29.565
+"Silverstone Circuit","RB F1 Team",29.602
+"Losail International Circuit","Aston Martin",29.616
+"Losail International Circuit","Haas F1 Team",29.638
+"Marina Bay Street Circuit","RB F1 Team",29.674
+"Silverstone Circuit","Racing Point",29.777
+"Baku City Circuit","Manor Marussia",29.796
+"Autodromo Enzo e Dino Ferrari","RB F1 Team",29.848
+"Marina Bay Street Circuit","Force India",29.890
+"Silverstone Circuit",Renault,29.969
+"Circuit Paul Ricard",McLaren,29.973
+"Sochi Autodrom","Racing Point",30.014
+"Losail International Circuit",Williams,30.071
+Nürburgring,"Red Bull",30.078
+"Marina Bay Street Circuit","Toro Rosso",30.102
+"Sepang International Circuit",HRT,30.103
+"Sochi Autodrom",Williams,30.106
+"Circuit de Monaco",HRT,30.164
+"Marina Bay Street Circuit","Alfa Romeo",30.192
+"Circuit Paul Ricard","Red Bull",30.221
+"Autodromo Enzo e Dino Ferrari",Sauber,30.242
+"Sochi Autodrom",AlphaTauri,30.272
+"Autodromo Nazionale di Monza","RB F1 Team",30.317
+"Autodromo Enzo e Dino Ferrari",Renault,30.382
+"Sochi Autodrom",Ferrari,30.466
+"Sochi Autodrom","Force India",30.489
+"Sochi Autodrom",Sauber,30.628
+"Marina Bay Street Circuit","Alpine F1 Team",30.667
+"Sochi Autodrom",Mercedes,30.730
+"Losail International Circuit","RB F1 Team",30.761
+"Sochi Autodrom","Toro Rosso",30.789
+"Circuit Gilles Villeneuve",HRT,30.806
+"Jeddah Corniche Circuit",Sauber,30.819
+"Marina Bay Street Circuit",McLaren,30.879
+"Sochi Autodrom",Caterham,30.890
+"Marina Bay Street Circuit",Renault,30.911
+"Marina Bay Street Circuit",Marussia,30.914
+"Sochi Autodrom","Alpine F1 Team",31.006
+"Circuit Paul Ricard",Mercedes,31.092
+"Sochi Autodrom",McLaren,31.128
+"Marina Bay Street Circuit",AlphaTauri,31.169
+"Sochi Autodrom",Renault,31.258
+"Marina Bay Street Circuit","Haas F1 Team",31.261
+"Sochi Autodrom",Marussia,31.374
+"Sochi Autodrom","Haas F1 Team",31.412
+"Marina Bay Street Circuit",Sauber,31.490
+"Marina Bay Street Circuit",Williams,31.496
+"Silverstone Circuit",Sauber,31.506
+"Autodromo Enzo e Dino Ferrari",Williams,31.536
+"Autódromo Internacional do Algarve","Racing Point",31.652
+"Marina Bay Street Circuit",Virgin,31.678
+"Sochi Autodrom","Alfa Romeo",31.733
+"Sepang International Circuit","Force India",31.745
+"Marina Bay Street Circuit",Lotus,31.761
+"Marina Bay Street Circuit","Racing Point",31.803
+"Marina Bay Street Circuit","Lotus F1",32.092
+"Marina Bay Street Circuit",Caterham,32.182
+"Circuit Paul Ricard",Ferrari,32.281
+"Circuit Paul Ricard",Williams,32.377
+"Istanbul Park",HRT,32.395
+"Circuit Paul Ricard","Haas F1 Team",32.641
+"Sochi Autodrom","Red Bull",32.694
+"Autodromo Enzo e Dino Ferrari","Racing Point",32.785
+"Circuit Paul Ricard",AlphaTauri,33.656
+"Marina Bay Street Circuit","Aston Martin",33.669
+"Sochi Autodrom","Aston Martin",33.684
+"Circuit Paul Ricard","Racing Point",34.068
+"Circuit Paul Ricard","Aston Martin",34.645
+"Shanghai International Circuit","Aston Martin",34.814
+"Circuit Paul Ricard","Alfa Romeo",35.115
+"Circuit Paul Ricard","Alpine F1 Team",35.692
+"Silverstone Circuit","Manor Marussia",35.733
+"Marina Bay Street Circuit",HRT,35.934
+"Circuit Gilles Villeneuve",Lotus,36.048
+"Sochi Autodrom","Lotus F1",36.154
+"Sochi Autodrom","Manor Marussia",37.295
+"Marina Bay Street Circuit","Manor Marussia",38.044
+"Jeddah Corniche Circuit","RB F1 Team",42.529
+Hungaroring,Mercedes,43.001
+Hungaroring,"Red Bull",43.748
+Hungaroring,McLaren,44.777
+Hungaroring,Ferrari,45.807
+"Istanbul Park","Haas F1 Team",47.391
+"Circuit de Spa-Francorchamps",McLaren,48.374
+"Circuit de Spa-Francorchamps",Sauber,53.756
+"Bahrain International Circuit","Haas F1 Team",54.499
+"Circuit de Spa-Francorchamps","Toro Rosso",55.605
+"Bahrain International Circuit",Mercedes,58.103
+"Bahrain International Circuit",Williams,58.498
+"Autodromo Nazionale di Monza",Sauber,58.729
+"Bahrain International Circuit",Ferrari,58.871
+"Circuit de Spa-Francorchamps",Williams,58.875
+"Bahrain International Circuit",McLaren,60.377
+Hungaroring,Williams,61.036
+"Bahrain International Circuit","Red Bull",61.052
+"Circuit de Spa-Francorchamps",Ferrari,61.123
+"Circuit de Spa-Francorchamps",Mercedes,61.946
+"Circuit de Spa-Francorchamps","Red Bull",65.038
+"Autódromo Hermanos Rodríguez","Red Bull",70.989
+"Circuit de Spa-Francorchamps",Renault,72.001
+"Autodromo Nazionale di Monza","Haas F1 Team",79.476
+"Circuit de Spa-Francorchamps","Force India",80.591
+"Autódromo Hermanos Rodríguez","Haas F1 Team",80.674
+"Suzuka Circuit","Alfa Romeo",84.587
+"Suzuka Circuit","Force India",85.384
+"Circuit de Spa-Francorchamps","Haas F1 Team",86.494
+"Albert Park Grand Prix Circuit","Toro Rosso",87.838
+"Suzuka Circuit","Toro Rosso",89.372
+"Suzuka Circuit",AlphaTauri,94.819
+"Bahrain International Circuit","Alfa Romeo",101.536
+"Autodromo Nazionale di Monza","Red Bull",101.893
+"Autódromo Hermanos Rodríguez",Mercedes,102.679
+"Autodromo Nazionale di Monza",Mercedes,103.137
+"Autodromo Nazionale di Monza",McLaren,103.148
+"Albert Park Grand Prix Circuit",Sauber,103.273
+"Albert Park Grand Prix Circuit","Force India",105.295
+"Autodromo Nazionale di Monza",Williams,105.964
+"Suzuka Circuit",Williams,109.058
+"Albert Park Grand Prix Circuit",Williams,115.915
+"Autódromo Hermanos Rodríguez",Ferrari,118.341
+Hungaroring,"Haas F1 Team",118.990
+Hungaroring,"Aston Martin",119.102
+"Autódromo Hermanos Rodríguez",Williams,119.499
+"Baku City Circuit","Toro Rosso",120.355
+"Bahrain International Circuit",AlphaTauri,120.630
+"Bahrain International Circuit",Renault,123.939
+"Suzuka Circuit","Lotus F1",124.838
+"Autódromo Hermanos Rodríguez",McLaren,132.780
+"Suzuka Circuit",McLaren,134.665
+"Baku City Circuit",Renault,138.037
+"Autodromo Enzo e Dino Ferrari",Mercedes,138.196
+"Autódromo José Carlos Pace",Ferrari,138.200
+"Circuit de Monaco","Red Bull",143.062
+"Autódromo José Carlos Pace",Renault,145.587
+"Suzuka Circuit",Ferrari,147.325
+"Autódromo José Carlos Pace",Williams,149.306
+"Autódromo José Carlos Pace","Alfa Romeo",149.339
+"Suzuka Circuit",Mercedes,149.919
+Hungaroring,"Alfa Romeo",150.178
+"Autódromo José Carlos Pace",AlphaTauri,151.731
+"Albert Park Grand Prix Circuit",Ferrari,152.469
+"Suzuka Circuit",Caterham,153.176
+"Circuit Park Zandvoort","Alfa Romeo",153.438
+"Baku City Circuit",Sauber,153.753
+"Circuit Park Zandvoort",Williams,155.677
+"Circuit Park Zandvoort",Ferrari,155.909
+"Silverstone Circuit","Red Bull",156.496
+"Baku City Circuit","Red Bull",156.757
+"Albert Park Grand Prix Circuit",Renault,156.901
+"Circuit de Spa-Francorchamps","Manor Marussia",164.158
+"Silverstone Circuit",Mercedes,167.125
+"Silverstone Circuit",Williams,168.196
+"Autódromo José Carlos Pace","Toro Rosso",169.512
+"Circuit de Monaco",Williams,170.802
+"Suzuka Circuit",Sauber,172.794
+Hungaroring,AlphaTauri,175.046
+"Suzuka Circuit","Haas F1 Team",179.113
+"Autódromo José Carlos Pace",Sauber,181.599
+"Autódromo José Carlos Pace","Red Bull",182.540
+"Jeddah Corniche Circuit","Haas F1 Team",187.755
+"Suzuka Circuit","Red Bull",188.063
+"Autódromo José Carlos Pace",Mercedes,190.856
+"Silverstone Circuit",Ferrari,190.858
+"Circuit de Monaco",Sauber,195.793
+"Baku City Circuit","Haas F1 Team",197.672
+"Autódromo José Carlos Pace","Force India",199.656
+"Circuit de Monaco",McLaren,200.031
+"Circuit Park Zandvoort",Mercedes,200.088
+"Baku City Circuit","Alpine F1 Team",201.453
+"Autodromo Nazionale di Monza",Renault,201.555
+"Silverstone Circuit",McLaren,206.108
+"Circuit Park Zandvoort","Red Bull",208.867
+"Suzuka Circuit",Marussia,210.407
+"Circuit Park Zandvoort","Aston Martin",213.410
+"Autodromo Nazionale di Monza","Alfa Romeo",213.924
+"Autódromo José Carlos Pace",McLaren,214.388
+"Autódromo José Carlos Pace","Haas F1 Team",214.903
+"Baku City Circuit","Aston Martin",218.523
+"Autodromo Enzo e Dino Ferrari","Haas F1 Team",219.011
+"Albert Park Grand Prix Circuit",McLaren,219.084
+"Circuit de Monaco",Mercedes,220.168
+"Autódromo José Carlos Pace","Aston Martin",220.944
+"Circuit Park Zandvoort","Haas F1 Team",221.534
+"Albert Park Grand Prix Circuit",Mercedes,222.691
+"Baku City Circuit",McLaren,226.479
+"Circuit de Monaco",Ferrari,229.667
+"Circuit Park Zandvoort",McLaren,232.090
+"Bahrain International Circuit","Racing Point",232.250
+"Circuit de Monaco",AlphaTauri,235.602
+"Circuit de Monaco","Alfa Romeo",236.794
+"Albert Park Grand Prix Circuit","Red Bull",238.933
+"Baku City Circuit",Mercedes,240.107
+"Autodromo Enzo e Dino Ferrari","Aston Martin",241.471
+"Baku City Circuit",Williams,241.513
+"Autódromo Hermanos Rodríguez","Aston Martin",242.602
+"Autódromo Hermanos Rodríguez","Alfa Romeo",244.289
+"Circuit Park Zandvoort",AlphaTauri,251.459
+"Circuit Park Zandvoort","Alpine F1 Team",251.596
+"Autodromo Enzo e Dino Ferrari",McLaren,251.997
+"Baku City Circuit","Force India",260.147
+Hungaroring,"Alpine F1 Team",263.054
+"Baku City Circuit",Ferrari,264.269
+"Autodromo Nazionale di Monza",HRT,272.682
+"Autodromo Enzo e Dino Ferrari","Red Bull",272.747
+"Autódromo José Carlos Pace","Alpine F1 Team",275.284
+"Autodromo Enzo e Dino Ferrari","Alpine F1 Team",277.297
+"Suzuka Circuit","Alpine F1 Team",282.082
+"Suzuka Circuit","Aston Martin",282.435
+"Baku City Circuit","Alfa Romeo",286.472
+"Albert Park Grand Prix Circuit","Manor Marussia",288.866
+"Autódromo Hermanos Rodríguez","Alpine F1 Team",290.406
+"Albert Park Grand Prix Circuit","Alpine F1 Team",292.249
+"Autodromo Enzo e Dino Ferrari",Ferrari,292.773
+"Autodromo Enzo e Dino Ferrari",AlphaTauri,298.108
+"Autodromo Enzo e Dino Ferrari","Alfa Romeo",303.391
+"Jeddah Corniche Circuit","Alfa Romeo",317.472
+"Jeddah Corniche Circuit","Red Bull",323.285
+"Jeddah Corniche Circuit",Williams,329.918
+"Albert Park Grand Prix Circuit","Haas F1 Team",332.696
+"Autodromo Nazionale di Monza",AlphaTauri,357.313
+"Silverstone Circuit","Haas F1 Team",358.583
+"Jeddah Corniche Circuit",Mercedes,361.376
+"Autódromo Hermanos Rodríguez",AlphaTauri,365.986
+"Jeddah Corniche Circuit",McLaren,367.182
+"Jeddah Corniche Circuit",Ferrari,395.113
+"Jeddah Corniche Circuit","Alpine F1 Team",395.933
+"Baku City Circuit",AlphaTauri,418.357
+"Jeddah Corniche Circuit","Aston Martin",437.606
+"Circuit de Monaco","Alpine F1 Team",450.179
+"Autodromo Internazionale del Mugello","Alfa Romeo",456.895
+"Circuit de Monaco","Aston Martin",464.245
+"Autodromo Internazionale del Mugello",Renault,470.243
+"Silverstone Circuit","Alfa Romeo",474.338
+"Albert Park Grand Prix Circuit","Alfa Romeo",495.650
+"Autodromo Internazionale del Mugello",Ferrari,509.005
+"Autodromo Nazionale di Monza","Racing Point",522.931
+"Autodromo Internazionale del Mugello","Racing Point",535.616
+"Jeddah Corniche Circuit",AlphaTauri,536.792
+"Autodromo Internazionale del Mugello","Haas F1 Team",541.003
+"Suzuka Circuit","RB F1 Team",543.799
+"Albert Park Grand Prix Circuit",AlphaTauri,545.645
+"Autodromo Internazionale del Mugello",Williams,556.337
+"Autodromo Internazionale del Mugello",AlphaTauri,559.912
+"Silverstone Circuit",AlphaTauri,559.983
+"Autodromo Internazionale del Mugello",Mercedes,560.267
+"Autodromo Internazionale del Mugello","Red Bull",560.791
+"Autodromo Internazionale del Mugello",McLaren,561.057
+"Albert Park Grand Prix Circuit","Aston Martin",571.058
+"Silverstone Circuit","Aston Martin",662.957
+"Autódromo José Carlos Pace","RB F1 Team",723.838
+"Silverstone Circuit","Alpine F1 Team",744.434
+"Autódromo José Carlos Pace","Manor Marussia",790.882
+"Circuit de Monaco","RB F1 Team",2381.694

@@ -1,0 +1,19 @@
+year,race_name,sprint_winner,sprint_team,race_Winner,race_team,sprint_vs_race_Winner
+2021,"British Grand Prix","Max Verstappen","Red Bull","Lewis Hamilton",Mercedes,Different
+2021,"Italian Grand Prix","Valtteri Bottas",Mercedes,"Daniel Ricciardo",McLaren,Different
+2021,"São Paulo Grand Prix","Valtteri Bottas",Mercedes,"Lewis Hamilton",Mercedes,Different
+2022,"Emilia Romagna Grand Prix","Max Verstappen","Red Bull","Max Verstappen","Red Bull",Same
+2022,"Austrian Grand Prix","Max Verstappen","Red Bull","Charles Leclerc",Ferrari,Different
+2022,"São Paulo Grand Prix","George Russell",Mercedes,"George Russell",Mercedes,Same
+2023,"Azerbaijan Grand Prix","Sergio Pérez","Red Bull","Sergio Pérez","Red Bull",Same
+2023,"Austrian Grand Prix","Max Verstappen","Red Bull","Max Verstappen","Red Bull",Same
+2023,"Belgian Grand Prix","Max Verstappen","Red Bull","Max Verstappen","Red Bull",Same
+2023,"Qatar Grand Prix","Oscar Piastri",McLaren,"Max Verstappen","Red Bull",Different
+2023,"United States Grand Prix","Max Verstappen","Red Bull","Max Verstappen","Red Bull",Same
+2023,"São Paulo Grand Prix","Max Verstappen","Red Bull","Max Verstappen","Red Bull",Same
+2024,"Chinese Grand Prix","Max Verstappen","Red Bull","Max Verstappen","Red Bull",Same
+2024,"Miami Grand Prix","Max Verstappen","Red Bull","Lando Norris",McLaren,Different
+2024,"Austrian Grand Prix","Max Verstappen","Red Bull","George Russell",Mercedes,Different
+2024,"United States Grand Prix","Max Verstappen","Red Bull","Charles Leclerc",Ferrari,Different
+2024,"São Paulo Grand Prix","Lando Norris",McLaren,"Max Verstappen","Red Bull",Different
+2024,"Qatar Grand Prix","Oscar Piastri",McLaren,"Max Verstappen","Red Bull",Different

@@ -1,0 +1,43 @@
+1. Driver Performance Views
+
+vw_driver_career_stats - Overall career statistics (wins, podiums, races)
+vw_driver_normalized_points - Career points using modern 25-18-15 system
+vw_driver_yearly_progression - Year-by-year championship standings
+vw_driver_dnf_stats - DNF counts and percentages
+vw_driver_grid_performance - Grid vs finish position analysis
+vw_driver_teammate_comparison - Head-to-head teammate battles
+
+2. Constructor Performance Views
+
+vw_constructor_championships - Championship standings by year
+vw_constructor_avg_performance - Average points per race by season
+vw_constructor_decade_dominance - Most dominant teams by decade
+vw_best_driver_constructor_combos - Best driver-team partnerships
+
+3. Race & Season Analysis Views
+
+vw_race_retirements - Retirement statistics per race
+vw_race_overtakes - Overtaking/position change analysis
+vw_circuit_dnf_rates - Circuit-specific crash/retirement rates
+vw_driver_circuit_performance - Driver performance at specific circuits
+
+4. Qualifying & Sprint Views
+
+vw_driver_qualifying_race_performance - Grid vs race performance
+vw_sprint_vs_race_winners - Sprint vs main race winner comparison
+
+5. Pitstop & Laptime Views
+
+vw_driver_laptime_performance - Lap time statistics by driver/season
+vw_driver_pitstop_stats - Individual driver pitstop performance
+vw_team_pitstop_performance - Team pitstop performance by season
+vw_pitstop_strategy - Strategic analysis of pitstop timing
+
+6. Championship Trends Views
+
+vw_championship_leadership - Mid-season vs final championship leaders
+vw_close_title_fights - Close championship battles analysis
+
+7. Summary Views
+
+vw_f1_summary_stats - Overall F1 statistics summary

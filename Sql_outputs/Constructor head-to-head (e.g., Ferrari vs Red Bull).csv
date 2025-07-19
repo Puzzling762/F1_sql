@@ -1,0 +1,6623 @@
+constructor_A,constructor_B,seasons_compared,A_wins,B_wins
+Ferrari,Williams,49,36,13
+Ferrari,McLaren,55,33,22
+McLaren,Williams,49,30,19
+Ferrari,Tyrrell,29,25,4
+McLaren,Tyrrell,28,23,5
+Ferrari,Sauber,23,23,0
+McLaren,Ferrari,55,22,33
+Ferrari,"Team Lotus",29,22,7
+McLaren,Sauber,23,22,1
+Ferrari,Minardi,21,21,0
+Williams,Minardi,21,21,0
+McLaren,Minardi,21,21,0
+Williams,Tyrrell,23,20,3
+Williams,McLaren,49,19,30
+Ferrari,Renault,24,19,5
+Williams,Sauber,23,19,4
+McLaren,"Team Lotus",23,19,4
+Ferrari,Arrows,19,19,0
+McLaren,Arrows,19,19,0
+McLaren,Ligier,21,18,3
+Williams,Ligier,20,18,2
+Ferrari,Brabham,22,17,5
+Ferrari,Ligier,21,17,4
+"Red Bull",Williams,20,17,3
+Williams,Arrows,19,17,2
+Benetton,Minardi,16,16,0
+McLaren,Renault,24,15,9
+"Red Bull",McLaren,20,15,5
+McLaren,Brabham,19,15,4
+Ferrari,"Alfa Romeo",16,15,1
+Ferrari,Jordan,15,15,0
+McLaren,Jordan,15,15,0
+Mercedes,Williams,15,15,0
+Ferrari,BRM,23,14,9
+"Team Lotus",Brabham,21,14,7
+"Team Lotus",Ligier,19,14,5
+Williams,Jordan,15,14,1
+Ferrari,"Toro Rosso",14,14,0
+Williams,Ferrari,49,13,36
+"Team Lotus",Tyrrell,24,13,11
+Williams,"Team Lotus",19,13,6
+Williams,Benetton,16,13,3
+Jordan,Minardi,15,13,2
+"Red Bull","Toro Rosso",14,13,1
+Sauber,Minardi,13,13,0
+Benetton,Tyrrell,13,13,0
+Renault,Williams,23,12,11
+McLaren,"Toro Rosso",14,12,2
+Tyrrell,Minardi,14,12,2
+Ferrari,March,13,12,1
+McLaren,March,12,12,0
+McLaren,"Alfa Romeo",12,12,0
+Tyrrell,"Team Lotus",24,11,13
+Williams,Renault,23,11,12
+Ligier,Tyrrell,21,11,10
+"Red Bull",Ferrari,20,11,9
+Tyrrell,Brabham,20,11,9
+Mercedes,Ferrari,17,11,6
+Ferrari,Benetton,16,11,5
+McLaren,Benetton,16,11,5
+Mercedes,McLaren,15,11,4
+"Team Lotus",March,13,11,2
+Tyrrell,March,13,11,2
+"Red Bull","Force India",11,11,0
+Ferrari,"Force India",11,11,0
+"Red Bull",Sauber,11,11,0
+Ferrari,Lola,11,11,0
+"Team Lotus",Osella,11,11,0
+Ligier,Osella,11,11,0
+Arrows,Osella,11,11,0
+Ferrari,Osella,11,11,0
+Williams,Osella,11,11,0
+McLaren,Osella,11,11,0
+Ferrari,"Kurtis Kraft",11,11,0
+Tyrrell,Ligier,21,10,11
+Williams,Brabham,14,10,4
+"Team Lotus",Arrows,13,10,3
+Arrows,Minardi,12,10,2
+"Force India","Toro Rosso",11,10,1
+Benetton,Ligier,11,10,1
+Tyrrell,Osella,11,10,1
+Benetton,Arrows,10,10,0
+Brabham,Osella,10,10,0
+Mercedes,Sauber,10,10,0
+Mercedes,"Toro Rosso",10,10,0
+"Team Lotus",Ensign,10,10,0
+Tyrrell,Ensign,10,10,0
+Ferrari,Ensign,10,10,0
+McLaren,Ensign,10,10,0
+Ferrari,Kuzma,10,10,0
+"Kurtis Kraft",Kuzma,10,10,0
+Renault,McLaren,24,9,15
+BRM,Ferrari,23,9,14
+Ferrari,"Red Bull",20,9,11
+Brabham,Tyrrell,20,9,11
+Williams,"Toro Rosso",14,9,5
+Brabham,Ligier,14,9,5
+Ligier,Minardi,12,9,3
+Williams,"Alfa Romeo",12,9,3
+Benetton,Jordan,11,9,2
+Ferrari,Maserati,11,9,2
+Maserati,Kuzma,10,9,1
+Renault,"Toro Rosso",10,9,1
+Renault,Sauber,9,9,0
+Mercedes,"Force India",9,9,0
+Renault,"Alfa Romeo",9,9,0
+Ferrari,Surtees,9,9,0
+Ferrari,Cooper,9,9,0
+Ferrari,Lesovsky,9,9,0
+Ferrari,Watson,9,9,0
+Mercedes,"Haas F1 Team",9,9,0
+"Red Bull","Haas F1 Team",9,9,0
+Ferrari,"Haas F1 Team",9,9,0
+Tyrrell,Arrows,15,8,7
+Mercedes,"Red Bull",15,8,7
+"Red Bull",Renault,12,8,4
+"Team Lotus",BRM,12,8,4
+Brabham,March,11,8,3
+Renault,Arrows,9,8,1
+Benetton,Sauber,9,8,1
+"Force India",Sauber,9,8,1
+Tyrrell,Surtees,9,8,1
+Ferrari,Toyota,8,8,0
+McLaren,Toyota,8,8,0
+Ferrari,Honda,8,8,0
+McLaren,Lola,8,8,0
+Benetton,Larrousse,8,8,0
+Ferrari,Larrousse,8,8,0
+Williams,Larrousse,8,8,0
+McLaren,Larrousse,8,8,0
+Ferrari,ATS,8,8,0
+Brabham,Ensign,8,8,0
+"Team Lotus",Fittipaldi,8,8,0
+Tyrrell,Fittipaldi,8,8,0
+Ferrari,Fittipaldi,8,8,0
+McLaren,Fittipaldi,8,8,0
+"Team Lotus",Surtees,8,8,0
+Ferrari,Porsche,8,8,0
+Maserati,Connaught,8,8,0
+Ferrari,Connaught,8,8,0
+"Kurtis Kraft",Connaught,8,8,0
+"Team Lotus",Ferrari,29,7,22
+Brabham,"Team Lotus",21,7,14
+Arrows,Tyrrell,15,7,8
+"Red Bull",Mercedes,15,7,8
+Sauber,Jordan,13,7,6
+Ligier,Arrows,13,7,6
+McLaren,"Force India",11,7,4
+Brabham,Arrows,11,7,4
+Maserati,"Kurtis Kraft",11,7,4
+"Team Lotus",Minardi,10,7,3
+Benetton,"Team Lotus",9,7,2
+BRM,Cooper-Maserati,9,7,2
+Ferrari,Cooper-Maserati,9,7,2
+McLaren,"Haas F1 Team",9,7,2
+Maserati,Lesovsky,9,7,2
+Maserati,Watson,9,7,2
+"Kurtis Kraft",Lesovsky,9,7,2
+"Kurtis Kraft",Watson,9,7,2
+BRM,Porsche,8,7,1
+Renault,Toyota,8,7,1
+Jordan,Tyrrell,8,7,1
+Tyrrell,Larrousse,8,7,1
+"Team Lotus",ATS,8,7,1
+McLaren,Surtees,8,7,1
+Tyrrell,BRM,8,7,1
+Ferrari,BAR,7,7,0
+Mercedes,Renault,7,7,0
+Brabham,"Alfa Romeo",7,7,0
+Brabham,ATS,7,7,0
+Ligier,ATS,7,7,0
+Arrows,ATS,7,7,0
+Renault,ATS,7,7,0
+Williams,ATS,7,7,0
+McLaren,ATS,7,7,0
+Ligier,Ensign,7,7,0
+Ligier,Fittipaldi,7,7,0
+"Team Lotus",Shadow,7,7,0
+Tyrrell,Shadow,7,7,0
+Ferrari,Shadow,7,7,0
+McLaren,Shadow,7,7,0
+Ferrari,Phillips,7,7,0
+Ferrari,Vanwall,7,7,0
+"Team Lotus",Williams,19,6,13
+Ferrari,Mercedes,17,6,11
+Jordan,Sauber,13,6,7
+Arrows,Ligier,13,6,7
+"Force India",Williams,11,6,5
+Renault,Tyrrell,9,6,3
+BRM,Cooper-Climax,9,6,3
+Maserati,Cooper,8,6,2
+"Team Lotus",Larrousse,8,6,2
+"Team Lotus",Lola,8,6,2
+Brabham,Renault,8,6,2
+"Team Lotus","Alfa Romeo",8,6,2
+Brabham,Surtees,8,6,2
+McLaren,BRM,8,6,2
+BAR,Minardi,7,6,1
+Williams,BAR,7,6,1
+McLaren,BAR,7,6,1
+Tyrrell,Lola,7,6,1
+Tyrrell,ATS,7,6,1
+Williams,Ensign,7,6,1
+Shadow,Ensign,7,6,1
+March,Surtees,7,6,1
+March,BRM,7,6,1
+Maserati,Phillips,7,6,1
+"Kurtis Kraft",Phillips,7,6,1
+BRM,Lotus-BRM,6,6,0
+Ferrari,Lotus-BRM,6,6,0
+Cooper-Climax,Porsche,6,6,0
+Ferrari,"Aston Martin",6,6,0
+Maserati,Stevens,6,6,0
+Ferrari,Stevens,6,6,0
+"Kurtis Kraft",Stevens,6,6,0
+Jordan,Arrows,6,6,0
+Sauber,Arrows,6,6,0
+Sauber,Tyrrell,6,6,0
+Williams,Lola,6,6,0
+Benetton,Footwork,6,6,0
+Williams,Footwork,6,6,0
+McLaren,Footwork,6,6,0
+Benetton,Brabham,6,6,0
+"Team Lotus",AGS,6,6,0
+Tyrrell,AGS,6,6,0
+Benetton,AGS,6,6,0
+Ferrari,AGS,6,6,0
+Williams,AGS,6,6,0
+McLaren,AGS,6,6,0
+Renault,Osella,6,6,0
+Brabham,Fittipaldi,6,6,0
+BRM,Brabham-Climax,6,6,0
+Tyrrell,McLaren,28,5,23
+Renault,Ferrari,24,5,19
+Brabham,Ferrari,22,5,17
+McLaren,"Red Bull",20,5,15
+Ligier,"Team Lotus",19,5,14
+Benetton,Ferrari,16,5,11
+Benetton,McLaren,16,5,11
+"Toro Rosso",Williams,14,5,9
+Ligier,Brabham,14,5,9
+Williams,"Force India",11,5,6
+Sauber,"Toro Rosso",9,5,4
+"Team Lotus",Renault,9,5,4
+Brabham,BRM,9,5,4
+Ferrari,Cooper-Climax,9,5,4
+"Haas F1 Team",Williams,9,5,4
+Ligier,Larrousse,8,5,3
+Minardi,Larrousse,8,5,3
+Ligier,March,8,5,3
+Williams,March,8,5,3
+Fittipaldi,Ensign,8,5,3
+Kuzma,Connaught,8,5,3
+"Kurtis Kraft",Cooper,8,5,3
+Cooper-Climax,Cooper-Maserati,7,5,2
+BRM,Lotus-Climax,7,5,2
+Maserati,Vanwall,7,5,2
+"Kurtis Kraft",Vanwall,7,5,2
+Cooper,Connaught,7,5,2
+Renault,"Force India",7,5,2
+Brabham,Minardi,7,5,2
+Brabham,Lola,7,5,2
+Ligier,"Alfa Romeo",7,5,2
+"Alfa Romeo",ATS,7,5,2
+March,Ensign,7,5,2
+Williams,Fittipaldi,7,5,2
+Ligier,Footwork,6,5,1
+Ferrari,Footwork,6,5,1
+Ligier,AGS,6,5,1
+Minardi,AGS,6,5,1
+Minardi,Osella,6,5,1
+"Alfa Romeo",Osella,6,5,1
+Ferrari,Brabham-Ford,6,5,1
+BRM,Lola,6,5,1
+Ferrari,Brabham-Climax,6,5,1
+Lotus-Climax,Cooper-Climax,6,5,1
+BRM,Lesovsky,6,5,1
+BRM,Watson,6,5,1
+BRM,Honda,5,5,0
+Ferrari,Epperly,5,5,0
+Vanwall,Cooper,5,5,0
+Ferrari,Gordini,5,5,0
+Gordini,Stevens,5,5,0
+Gordini,Kuzma,5,5,0
+Gordini,Connaught,5,5,0
+Gordini,Cooper,5,5,0
+Kuzma,Stevens,5,5,0
+Maserati,HWM,5,5,0
+Ferrari,HWM,5,5,0
+"Kurtis Kraft",HWM,5,5,0
+Mercedes,"Alfa Romeo",5,5,0
+"Alfa Romeo","Haas F1 Team",5,5,0
+"Red Bull","Alfa Romeo",5,5,0
+Renault,Minardi,5,5,0
+Jaguar,Minardi,5,5,0
+BAR,Jaguar,5,5,0
+Sauber,Jaguar,5,5,0
+Ferrari,Jaguar,5,5,0
+Williams,Jaguar,5,5,0
+McLaren,Jaguar,5,5,0
+Benetton,Prost,5,5,0
+Jordan,Prost,5,5,0
+Ferrari,Prost,5,5,0
+Williams,Prost,5,5,0
+McLaren,Prost,5,5,0
+Tyrrell,Dallara,5,5,0
+Benetton,Dallara,5,5,0
+Ferrari,Dallara,5,5,0
+Williams,Dallara,5,5,0
+McLaren,Dallara,5,5,0
+AGS,Coloni,5,5,0
+Brabham,AGS,5,5,0
+Larrousse,Coloni,5,5,0
+"Team Lotus",Coloni,5,5,0
+Ligier,Coloni,5,5,0
+Tyrrell,Coloni,5,5,0
+Benetton,Coloni,5,5,0
+Minardi,Coloni,5,5,0
+Ferrari,Coloni,5,5,0
+Williams,Coloni,5,5,0
+McLaren,Coloni,5,5,0
+Benetton,Osella,5,5,0
+Arrows,AGS,5,5,0
+"Team Lotus",Zakspeed,5,5,0
+Tyrrell,Zakspeed,5,5,0
+Arrows,Zakspeed,5,5,0
+Arrows,March,5,5,0
+Ferrari,Zakspeed,5,5,0
+Williams,Zakspeed,5,5,0
+McLaren,Zakspeed,5,5,0
+Brabham,Toleman,5,5,0
+Ferrari,Toleman,5,5,0
+Renault,Toleman,5,5,0
+Williams,Toleman,5,5,0
+McLaren,Toleman,5,5,0
+Arrows,Ensign,5,5,0
+Brabham,Shadow,5,5,0
+Tyrrell,Hesketh,5,5,0
+Ferrari,Hesketh,5,5,0
+McLaren,Hesketh,5,5,0
+Ferrari,Matra,5,5,0
+Sauber,Williams,23,4,19
+Ligier,Ferrari,21,4,17
+Brabham,McLaren,19,4,15
+McLaren,Mercedes,15,4,11
+Brabham,Williams,14,4,10
+Renault,"Red Bull",12,4,8
+BRM,"Team Lotus",12,4,8
+"Force India",McLaren,11,4,7
+Arrows,Brabham,11,4,7
+"Kurtis Kraft",Maserati,11,4,7
+Cooper-Climax,Ferrari,9,4,5
+Watson,Lesovsky,9,4,5
+"Toro Rosso",Sauber,9,4,5
+Ligier,Renault,9,4,5
+Renault,"Team Lotus",9,4,5
+Renault,Ligier,9,4,5
+BRM,Brabham,9,4,5
+Williams,"Haas F1 Team",9,4,5
+Kuzma,Lesovsky,8,4,4
+Watson,Kuzma,8,4,4
+Toyota,Williams,8,4,4
+Williams,Toyota,8,4,4
+Surtees,BRM,8,4,4
+BRM,Surtees,8,4,4
+BAR,Jordan,7,4,3
+BAR,Sauber,7,4,3
+Tyrrell,"Alfa Romeo",7,4,3
+Arrows,"Alfa Romeo",7,4,3
+Ferrari,Lotus-Climax,7,4,3
+Kuzma,Phillips,7,4,3
+Cooper,Kuzma,7,4,3
+Lotus-Climax,Lotus-BRM,6,4,2
+BRM,Kuzma,6,4,2
+Vanwall,Connaught,6,4,2
+Connaught,Lesovsky,6,4,2
+Connaught,Watson,6,4,2
+Cooper,Lesovsky,6,4,2
+Cooper,Watson,6,4,2
+Footwork,Minardi,6,4,2
+Tyrrell,Footwork,6,4,2
+Jordan,Footwork,6,4,2
+Renault,Ensign,6,4,2
+Renault,Fittipaldi,6,4,2
+Surtees,Ensign,6,4,2
+Minardi,Lola,5,4,1
+"Team Lotus",Dallara,5,4,1
+Larrousse,AGS,5,4,1
+AGS,Osella,5,4,1
+March,Osella,5,4,1
+Ligier,Zakspeed,5,4,1
+"Alfa Romeo",Toleman,5,4,1
+"Team Lotus",Toleman,5,4,1
+Arrows,Toleman,5,4,1
+March,Fittipaldi,5,4,1
+Arrows,Fittipaldi,5,4,1
+Shadow,Surtees,5,4,1
+"Team Lotus",Hesketh,5,4,1
+BRM,Matra,5,4,1
+Cooper-Maserati,Brabham-Climax,5,4,1
+Renault,"Haas F1 Team",5,4,1
+Cooper-Climax,Lotus-BRM,5,4,1
+Phillips,Lesovsky,5,4,1
+Epperly,Kuzma,5,4,1
+Epperly,"Kurtis Kraft",5,4,1
+Epperly,Phillips,5,4,1
+Watson,Phillips,5,4,1
+Maserati,Gordini,5,4,1
+"Kurtis Kraft",Gordini,5,4,1
+Brabham-Climax,Cooper-Climax,4,4,0
+Lotus-Climax,Porsche,4,4,0
+Cooper-Climax,"Team Lotus",4,4,0
+Ferrari,Trevis,4,4,0
+Epperly,Lesovsky,4,4,0
+Epperly,Porsche,4,4,0
+Maserati,OSCA,4,4,0
+Ferrari,OSCA,4,4,0
+"Kurtis Kraft",OSCA,4,4,0
+Gordini,HWM,4,4,0
+Ferrari,Schroeder,4,4,0
+"Kurtis Kraft",Schroeder,4,4,0
+Maserati,Bromme,4,4,0
+Ferrari,Bromme,4,4,0
+"Kurtis Kraft",Bromme,4,4,0
+Ferrari,Simca,4,4,0
+Toyota,"Toro Rosso",4,4,0
+Ferrari,"BMW Sauber",4,4,0
+"BMW Sauber","Toro Rosso",4,4,0
+"BMW Sauber",Williams,4,4,0
+McLaren,"BMW Sauber",4,4,0
+Toyota,Minardi,4,4,0
+Renault,Jordan,4,4,0
+BAR,Arrows,4,4,0
+Benetton,Lola,4,4,0
+Ligier,Sauber,4,4,0
+Sauber,Footwork,4,4,0
+Ligier,Lola,4,4,0
+Benetton,March,4,4,0
+Dallara,Coloni,4,4,0
+Brabham,Coloni,4,4,0
+Larrousse,Osella,4,4,0
+Arrows,Coloni,4,4,0
+Brabham,Zakspeed,4,4,0
+Benetton,Zakspeed,4,4,0
+Brabham,Theodore,4,4,0
+"Team Lotus",Theodore,4,4,0
+Ligier,Theodore,4,4,0
+Tyrrell,Theodore,4,4,0
+Arrows,Theodore,4,4,0
+Ferrari,Theodore,4,4,0
+Renault,Theodore,4,4,0
+Williams,Theodore,4,4,0
+McLaren,Theodore,4,4,0
+"Team Lotus",Wolf,4,4,0
+Ferrari,Wolf,4,4,0
+McLaren,Wolf,4,4,0
+Brabham,Hesketh,4,4,0
+March,Penske,4,4,0
+"Team Lotus",Penske,4,4,0
+Tyrrell,Penske,4,4,0
+Ferrari,Penske,4,4,0
+McLaren,Penske,4,4,0
+Hesketh,BRM,4,4,0
+Brabham-Repco,Brabham-Climax,4,4,0
+"Kurtis Kraft",Simca,4,4,0
+"Lotus F1",Sauber,4,4,0
+"Red Bull","Lotus F1",4,4,0
+Ferrari,"Lotus F1",4,4,0
+"Haas F1 Team",Sauber,4,4,0
+AlphaTauri,"Haas F1 Team",4,4,0
+Mercedes,AlphaTauri,4,4,0
+"Red Bull",AlphaTauri,4,4,0
+Ferrari,AlphaTauri,4,4,0
+McLaren,AlphaTauri,4,4,0
+"Alpine F1 Team","Haas F1 Team",4,4,0
+"Alpine F1 Team",Williams,4,4,0
+Mercedes,"Alpine F1 Team",4,4,0
+Mercedes,"Aston Martin",4,4,0
+"Aston Martin","Haas F1 Team",4,4,0
+"Aston Martin",Williams,4,4,0
+"Red Bull","Alpine F1 Team",4,4,0
+"Red Bull","Aston Martin",4,4,0
+Ferrari,"Alpine F1 Team",4,4,0
+Tyrrell,Ferrari,29,3,26
+Tyrrell,Williams,23,3,20
+"Team Lotus",McLaren,23,3,20
+Ligier,McLaren,21,3,18
+Williams,"Red Bull",20,3,17
+Benetton,Williams,16,3,13
+Arrows,"Team Lotus",13,3,10
+Minardi,Ligier,12,3,9
+"Alfa Romeo",Williams,12,3,9
+March,Brabham,11,3,8
+Tyrrell,Renault,9,3,6
+Cooper-Climax,BRM,9,3,6
+Lesovsky,Watson,9,3,6
+Kuzma,Watson,8,3,5
+Cooper,"Kurtis Kraft",8,3,5
+Larrousse,Ligier,8,3,5
+Larrousse,Minardi,8,3,5
+March,Ligier,8,3,5
+March,Williams,8,3,5
+Ensign,Fittipaldi,8,3,5
+Jordan,BAR,7,3,4
+Sauber,BAR,7,3,4
+"Alfa Romeo",Tyrrell,7,3,4
+"Alfa Romeo",Arrows,7,3,4
+Lotus-Climax,Ferrari,7,3,4
+Kuzma,Vanwall,7,3,4
+Phillips,Kuzma,7,3,4
+Vanwall,Kuzma,7,3,4
+Vanwall,Phillips,7,3,4
+Kuzma,Cooper,7,3,4
+Maserati,BRM,6,3,3
+BRM,Maserati,6,3,3
+BRM,"Kurtis Kraft",6,3,3
+"Kurtis Kraft",BRM,6,3,3
+Ligier,Jordan,6,3,3
+Jordan,Ligier,6,3,3
+Lotus-Ford,BRM,6,3,3
+Lotus-Ford,Ferrari,6,3,3
+BRM,Lotus-Ford,6,3,3
+Ferrari,Lotus-Ford,6,3,3
+Toyota,"Red Bull",5,3,2
+Jordan,Jaguar,5,3,2
+Prost,Arrows,5,3,2
+Prost,Minardi,5,3,2
+Sauber,Prost,5,3,2
+Dallara,Larrousse,5,3,2
+Dallara,Ligier,5,3,2
+Brabham,Larrousse,5,3,2
+Minardi,Dallara,5,3,2
+Minardi,Zakspeed,5,3,2
+Osella,Toleman,5,3,2
+Ligier,Toleman,5,3,2
+Tyrrell,Toleman,5,3,2
+ATS,Osella,5,3,2
+Fittipaldi,ATS,5,3,2
+ATS,Ensign,5,3,2
+Shadow,Fittipaldi,5,3,2
+Ligier,Shadow,5,3,2
+Surtees,Hesketh,5,3,2
+Ensign,Hesketh,5,3,2
+Ensign,BRM,5,3,2
+BRM,Brabham-Ford,5,3,2
+McLaren-Ford,BRM,5,3,2
+Ferrari,McLaren-Ford,5,3,2
+Lotus-Ford,Cooper-Maserati,5,3,2
+Honda,Brabham-Climax,5,3,2
+Lotus-Climax,Cooper-Maserati,5,3,2
+"Team Lotus",Porsche,5,3,2
+Maserati,Epperly,5,3,2
+BRM,Phillips,5,3,2
+Watson,Vanwall,5,3,2
+Vanwall,BRM,5,3,2
+Vanwall,Lesovsky,5,3,2
+Vanwall,Epperly,5,3,2
+Connaught,Stevens,5,3,2
+HWM,Kuzma,5,3,2
+Cooper-Climax,Lola,4,3,1
+Brabham-Climax,Lotus-BRM,4,3,1
+Lotus-Climax,Brabham-Climax,4,3,1
+Lotus-Climax,Honda,4,3,1
+Maserati,Trevis,4,3,1
+BRM,Epperly,4,3,1
+"Kurtis Kraft",Trevis,4,3,1
+"Kurtis Kraft",Porsche,4,3,1
+Watson,Porsche,4,3,1
+Porsche,Kuzma,4,3,1
+Porsche,Phillips,4,3,1
+Epperly,Connaught,4,3,1
+Lesovsky,Stevens,4,3,1
+Maserati,Schroeder,4,3,1
+Kuzma,Schroeder,4,3,1
+Cooper,HWM,4,3,1
+Kuzma,Bromme,4,3,1
+HWM,Bromme,4,3,1
+Simca,Lesovsky,4,3,1
+Simca,Watson,4,3,1
+Maserati,Simca,4,3,1
+"BMW Sauber","Red Bull",4,3,1
+"BMW Sauber",Toyota,4,3,1
+"BMW Sauber",Renault,4,3,1
+McLaren,Honda,4,3,1
+BAR,Toyota,4,3,1
+Sauber,Toyota,4,3,1
+Toyota,Jordan,4,3,1
+Renault,BAR,4,3,1
+Jordan,Larrousse,4,3,1
+March,Larrousse,4,3,1
+Dallara,Brabham,4,3,1
+Dallara,AGS,4,3,1
+Arrows,Larrousse,4,3,1
+"Alfa Romeo",Ensign,4,3,1
+Williams,Shadow,4,3,1
+Wolf,Ensign,4,3,1
+Ligier,Wolf,4,3,1
+Tyrrell,Wolf,4,3,1
+Surtees,Fittipaldi,4,3,1
+Shadow,Hesketh,4,3,1
+Fittipaldi,Hesketh,4,3,1
+Shadow,BRM,4,3,1
+Penske,BRM,4,3,1
+Lotus-Ford,Brabham-Climax,4,3,1
+Brabham-Climax,Brabham-Ford,4,3,1
+"Lotus F1","Toro Rosso",4,3,1
+Mercedes,"Lotus F1",4,3,1
+"Toro Rosso","Haas F1 Team",4,3,1
+AlphaTauri,"Alfa Romeo",4,3,1
+AlphaTauri,Williams,4,3,1
+McLaren,"Alpine F1 Team",4,3,1
+McLaren,"Aston Martin",4,3,1
+"Kurtis Kraft",Veritas,3,3,0
+HWM,Lesovsky,3,3,0
+HWM,Watson,3,3,0
+HWM,Veritas,3,3,0
+HWM,OSCA,3,3,0
+Simca,Alta,3,3,0
+Maserati,Deidt,3,3,0
+Maserati,ERA,3,3,0
+Maserati,Alta,3,3,0
+Ferrari,Deidt,3,3,0
+Ferrari,ERA,3,3,0
+Ferrari,Alta,3,3,0
+"Kurtis Kraft",Deidt,3,3,0
+"Kurtis Kraft",ERA,3,3,0
+"Kurtis Kraft",Alta,3,3,0
+"Lotus F1",Caterham,3,3,0
+"Lotus F1",Marussia,3,3,0
+Mercedes,Caterham,3,3,0
+Mercedes,Marussia,3,3,0
+"Force India",Caterham,3,3,0
+"Force India",Marussia,3,3,0
+"Red Bull",Caterham,3,3,0
+"Red Bull",Marussia,3,3,0
+Ferrari,Caterham,3,3,0
+Ferrari,Marussia,3,3,0
+"Toro Rosso",Caterham,3,3,0
+"Toro Rosso",Marussia,3,3,0
+Williams,Caterham,3,3,0
+Williams,Marussia,3,3,0
+McLaren,Caterham,3,3,0
+McLaren,Marussia,3,3,0
+"Force India","Haas F1 Team",3,3,0
+"Alpine F1 Team",AlphaTauri,3,3,0
+"Alpine F1 Team","Alfa Romeo",3,3,0
+"Aston Martin","Alfa Romeo",3,3,0
+Brabham-Repco,Eagle-Weslake,3,3,0
+Cooper-Maserati,Eagle-Weslake,3,3,0
+BRM,Eagle-Weslake,3,3,0
+BRM,LDS,3,3,0
+Honda,Eagle-Weslake,3,3,0
+Ferrari,Eagle-Weslake,3,3,0
+Ferrari,LDS,3,3,0
+Lola,LDS,3,3,0
+Lotus-BRM,Brabham-Ford,3,3,0
+Cooper-Climax,Brabham-Ford,3,3,0
+Lotus-Climax,Lola,3,3,0
+Brabham-Climax,Brabham-BRM,3,3,0
+Lotus-Climax,Brabham-BRM,3,3,0
+BRM,Brabham-BRM,3,3,0
+Ferrari,Brabham-BRM,3,3,0
+Lotus-Climax,Gilby,3,3,0
+Cooper-Climax,Gilby,3,3,0
+Porsche,Gilby,3,3,0
+BRM,Gilby,3,3,0
+Ferrari,Gilby,3,3,0
+Ferrari,Emeryson,3,3,0
+Cooper-Climax,JBW,3,3,0
+Cooper-Maserati,JBW,3,3,0
+Porsche,JBW,3,3,0
+BRM,JBW,3,3,0
+Ferrari,JBW,3,3,0
+"Team Lotus",Kuzma,3,3,0
+"Team Lotus","Kurtis Kraft",3,3,0
+"Team Lotus",Lesovsky,3,3,0
+"Team Lotus",Phillips,3,3,0
+Maserati,Dunn,3,3,0
+BRM,Dunn,3,3,0
+Ferrari,Dunn,3,3,0
+Ferrari,Moore,3,3,0
+"Kurtis Kraft",Dunn,3,3,0
+"Kurtis Kraft",Moore,3,3,0
+Epperly,Dunn,3,3,0
+Cooper,OSCA,3,3,0
+Gordini,Vanwall,3,3,0
+Gordini,Lesovsky,3,3,0
+Gordini,Phillips,3,3,0
+Gordini,Watson,3,3,0
+Vanwall,Stevens,3,3,0
+Gordini,Schroeder,3,3,0
+Maserati,Pawl,3,3,0
+Ferrari,Pawl,3,3,0
+"Kurtis Kraft",Pawl,3,3,0
+Gordini,Bromme,3,3,0
+Cooper,Bromme,3,3,0
+Maserati,Veritas,3,3,0
+Ferrari,Veritas,3,3,0
+Honda,"Super Aguri",3,3,0
+"Red Bull","Super Aguri",3,3,0
+Toyota,"Super Aguri",3,3,0
+Ferrari,"Super Aguri",3,3,0
+"Toro Rosso","Super Aguri",3,3,0
+Renault,Honda,3,3,0
+Renault,"Super Aguri",3,3,0
+Williams,"Super Aguri",3,3,0
+"BMW Sauber","Super Aguri",3,3,0
+McLaren,"Super Aguri",3,3,0
+Jaguar,Toyota,3,3,0
+Renault,Jaguar,3,3,0
+Jaguar,Arrows,3,3,0
+Stewart,Minardi,3,3,0
+Jordan,Stewart,3,3,0
+Ferrari,Stewart,3,3,0
+Williams,Stewart,3,3,0
+McLaren,Stewart,3,3,0
+Arrows,Lola,3,3,0
+Jordan,Lola,3,3,0
+AGS,"Euro Brun",3,3,0
+Dallara,Osella,3,3,0
+Dallara,"Euro Brun",3,3,0
+Larrousse,"Euro Brun",3,3,0
+"Team Lotus","Euro Brun",3,3,0
+Ligier,"Euro Brun",3,3,0
+Tyrrell,"Euro Brun",3,3,0
+Benetton,"Euro Brun",3,3,0
+Arrows,"Euro Brun",3,3,0
+Arrows,Dallara,3,3,0
+Minardi,"Euro Brun",3,3,0
+Ferrari,"Euro Brun",3,3,0
+Williams,"Euro Brun",3,3,0
+McLaren,"Euro Brun",3,3,0
+Mercedes,HRT,3,3,0
+Sauber,HRT,3,3,0
+"Force India",HRT,3,3,0
+"Red Bull",HRT,3,3,0
+Ferrari,HRT,3,3,0
+"Toro Rosso",HRT,3,3,0
+Williams,HRT,3,3,0
+McLaren,HRT,3,3,0
+March,Coloni,3,3,0
+"Alfa Romeo",Spirit,3,3,0
+"Alfa Romeo",RAM,3,3,0
+Osella,RAM,3,3,0
+Brabham,Spirit,3,3,0
+Brabham,RAM,3,3,0
+"Team Lotus",Spirit,3,3,0
+"Team Lotus",RAM,3,3,0
+Ligier,Spirit,3,3,0
+Ligier,RAM,3,3,0
+Tyrrell,RAM,3,3,0
+Arrows,Spirit,3,3,0
+Arrows,RAM,3,3,0
+Ferrari,Spirit,3,3,0
+Ferrari,RAM,3,3,0
+Renault,Spirit,3,3,0
+Renault,RAM,3,3,0
+Williams,Spirit,3,3,0
+Williams,RAM,3,3,0
+McLaren,Spirit,3,3,0
+McLaren,RAM,3,3,0
+"Alfa Romeo",Theodore,3,3,0
+Ensign,Theodore,3,3,0
+Arrows,Shadow,3,3,0
+Ligier,Hesketh,3,3,0
+Ligier,Surtees,3,3,0
+Brabham,Penske,3,3,0
+March,Parnelli,3,3,0
+March,Maki,3,3,0
+"Team Lotus",Parnelli,3,3,0
+"Team Lotus",Maki,3,3,0
+Tyrrell,Parnelli,3,3,0
+Tyrrell,Maki,3,3,0
+Ferrari,Parnelli,3,3,0
+Ferrari,Maki,3,3,0
+McLaren,Parnelli,3,3,0
+McLaren,Maki,3,3,0
+Parnelli,Maki,3,3,0
+Hesketh,Parnelli,3,3,0
+Hesketh,Maki,3,3,0
+Surtees,Maki,3,3,0
+Lotus-Ford,Matra,3,3,0
+McLaren-Ford,Matra,3,3,0
+BRM,"De Tomaso",3,3,0
+Brabham,"De Tomaso",3,3,0
+Ferrari,"De Tomaso",3,3,0
+Brabham-Repco,Eagle-Climax,3,3,0
+Lotus-Ford,McLaren-Ford,3,3,0
+BRM,Eagle-Climax,3,3,0
+Ferrari,Eagle-Climax,3,3,0
+Cooper-Maserati,Eagle-Climax,3,3,0
+Ligier,Williams,20,2,18
+Arrows,Williams,19,2,17
+Minardi,Jordan,15,2,13
+"Toro Rosso",McLaren,14,2,12
+Minardi,Tyrrell,14,2,12
+March,"Team Lotus",13,2,11
+March,Tyrrell,13,2,11
+Minardi,Arrows,12,2,10
+Jordan,Benetton,11,2,9
+Maserati,Ferrari,11,2,9
+Minardi,"Team Lotus",10,2,8
+"Team Lotus",Benetton,9,2,7
+Cooper-Maserati,BRM,9,2,7
+Cooper-Maserati,Ferrari,9,2,7
+"Haas F1 Team",McLaren,9,2,7
+Lesovsky,Maserati,9,2,7
+Lesovsky,"Kurtis Kraft",9,2,7
+Watson,Maserati,9,2,7
+Watson,"Kurtis Kraft",9,2,7
+Lesovsky,Kuzma,8,2,6
+Connaught,Kuzma,8,2,6
+Cooper,Maserati,8,2,6
+Larrousse,"Team Lotus",8,2,6
+Lola,"Team Lotus",8,2,6
+Renault,Brabham,8,2,6
+Surtees,Brabham,8,2,6
+BRM,McLaren,8,2,6
+"Force India",Renault,7,2,5
+Minardi,Brabham,7,2,5
+Lola,Brabham,7,2,5
+"Alfa Romeo",Ligier,7,2,5
+Ensign,March,7,2,5
+Fittipaldi,Williams,7,2,5
+Cooper-Maserati,Cooper-Climax,7,2,5
+Lotus-Climax,BRM,7,2,5
+Vanwall,"Kurtis Kraft",7,2,5
+Lotus-BRM,Lotus-Climax,6,2,4
+Kuzma,BRM,6,2,4
+Phillips,Connaught,6,2,4
+Watson,Connaught,6,2,4
+Connaught,Phillips,6,2,4
+Lesovsky,Cooper,6,2,4
+Cooper,Stevens,6,2,4
+Footwork,Tyrrell,6,2,4
+Footwork,Jordan,6,2,4
+Minardi,Footwork,6,2,4
+Fittipaldi,Renault,6,2,4
+Ensign,Surtees,6,2,4
+"Red Bull",Toyota,5,2,3
+Jaguar,Jordan,5,2,3
+Arrows,Prost,5,2,3
+Prost,Sauber,5,2,3
+Minardi,Prost,5,2,3
+Dallara,Minardi,5,2,3
+Larrousse,Dallara,5,2,3
+Larrousse,Brabham,5,2,3
+Ligier,Dallara,5,2,3
+Zakspeed,Osella,5,2,3
+Zakspeed,Minardi,5,2,3
+Osella,Zakspeed,5,2,3
+Toleman,Osella,5,2,3
+Toleman,Ligier,5,2,3
+Toleman,Tyrrell,5,2,3
+Osella,ATS,5,2,3
+Ensign,ATS,5,2,3
+Shadow,Ligier,5,2,3
+Fittipaldi,Shadow,5,2,3
+Hesketh,Surtees,5,2,3
+Hesketh,Ensign,5,2,3
+BRM,Ensign,5,2,3
+McLaren-Ford,Ferrari,5,2,3
+BRM,McLaren-Ford,5,2,3
+Brabham-Climax,Honda,5,2,3
+Cooper-Maserati,Lotus-Climax,5,2,3
+Porsche,"Team Lotus",5,2,3
+BRM,Vanwall,5,2,3
+Lesovsky,Vanwall,5,2,3
+Epperly,Maserati,5,2,3
+Epperly,Vanwall,5,2,3
+Vanwall,Watson,5,2,3
+Cooper,Phillips,5,2,3
+Phillips,Cooper,5,2,3
+Kuzma,HWM,5,2,3
+Lotus-Ford,Cooper-Climax,4,2,2
+Cooper-Climax,Lotus-Ford,4,2,2
+Cooper-Climax,Honda,4,2,2
+Cooper-Maserati,Honda,4,2,2
+Honda,Cooper-Climax,4,2,2
+Honda,Cooper-Maserati,4,2,2
+Lotus-BRM,Cooper-Maserati,4,2,2
+Lotus-BRM,Honda,4,2,2
+Cooper-Maserati,Lotus-BRM,4,2,2
+Honda,Lotus-BRM,4,2,2
+Porsche,Cooper-Maserati,4,2,2
+Cooper-Maserati,Porsche,4,2,2
+Cooper,BRM,4,2,2
+Maserati,Porsche,4,2,2
+Kuzma,Trevis,4,2,2
+Lesovsky,Porsche,4,2,2
+Epperly,Watson,4,2,2
+Watson,Epperly,4,2,2
+Vanwall,Porsche,4,2,2
+Porsche,Lesovsky,4,2,2
+Porsche,Vanwall,4,2,2
+BRM,Connaught,4,2,2
+Connaught,BRM,4,2,2
+OSCA,Lesovsky,4,2,2
+OSCA,Watson,4,2,2
+Kuzma,OSCA,4,2,2
+HWM,Stevens,4,2,2
+Larrousse,Footwork,4,2,2
+"Team Lotus",Footwork,4,2,2
+"Team Lotus",Jordan,4,2,2
+Footwork,Larrousse,4,2,2
+Footwork,"Team Lotus",4,2,2
+Jordan,"Team Lotus",4,2,2
+March,Minardi,4,2,2
+Minardi,March,4,2,2
+Coloni,Osella,4,2,2
+Zakspeed,AGS,4,2,2
+AGS,Zakspeed,4,2,2
+ATS,Toleman,4,2,2
+Toleman,ATS,4,2,2
+Theodore,ATS,4,2,2
+ATS,Theodore,4,2,2
+Fittipaldi,"Alfa Romeo",4,2,2
+"Alfa Romeo",Fittipaldi,4,2,2
+Shadow,Renault,4,2,2
+Renault,Shadow,4,2,2
+Wolf,Shadow,4,2,2
+Wolf,Fittipaldi,4,2,2
+Shadow,Wolf,4,2,2
+Fittipaldi,Wolf,4,2,2
+Surtees,Penske,4,2,2
+Shadow,March,4,2,2
+March,Shadow,4,2,2
+March,Hesketh,4,2,2
+Penske,Surtees,4,2,2
+Penske,Ensign,4,2,2
+Penske,Hesketh,4,2,2
+Hesketh,March,4,2,2
+Hesketh,Penske,4,2,2
+Brabham-Repco,McLaren-Ford,4,2,2
+Brabham-Repco,BRM,4,2,2
+Brabham-Repco,Ferrari,4,2,2
+Brabham-Repco,Cooper-Maserati,4,2,2
+McLaren-Ford,Brabham-Repco,4,2,2
+McLaren-Ford,Cooper-Maserati,4,2,2
+McLaren-Ford,Brabham-Climax,4,2,2
+BRM,Brabham-Repco,4,2,2
+Ferrari,Brabham-Repco,4,2,2
+Cooper-Maserati,McLaren-Ford,4,2,2
+Brabham-Climax,McLaren-Ford,4,2,2
+"Lotus F1","Force India",4,2,2
+"Lotus F1",Williams,4,2,2
+"Lotus F1",McLaren,4,2,2
+"Force India","Lotus F1",4,2,2
+Williams,"Lotus F1",4,2,2
+McLaren,"Lotus F1",4,2,2
+"Alpine F1 Team","Aston Martin",4,2,2
+"Aston Martin","Alpine F1 Team",4,2,2
+Kuzma,Simca,3,2,1
+Kuzma,Veritas,3,2,1
+HWM,Simca,3,2,1
+Veritas,Bromme,3,2,1
+Veritas,Watson,3,2,1
+Veritas,OSCA,3,2,1
+OSCA,Bromme,3,2,1
+Simca,Deidt,3,2,1
+Simca,ERA,3,2,1
+Deidt,Lesovsky,3,2,1
+Deidt,Watson,3,2,1
+Deidt,ERA,3,2,1
+Deidt,Alta,3,2,1
+Lesovsky,Alta,3,2,1
+ERA,Lesovsky,3,2,1
+ERA,Watson,3,2,1
+ERA,Alta,3,2,1
+Sauber,Caterham,3,2,1
+Sauber,Marussia,3,2,1
+"Aston Martin",AlphaTauri,3,2,1
+Brabham-Repco,Honda,3,2,1
+Eagle-Weslake,Brabham-Climax,3,2,1
+Lotus-Ford,Honda,3,2,1
+Lotus-Ford,Lola,3,2,1
+Cooper-Climax,LDS,3,2,1
+Cooper-Maserati,Lola,3,2,1
+Honda,McLaren-Ford,3,2,1
+McLaren-Ford,Eagle-Weslake,3,2,1
+Lotus-BRM,Lotus-Ford,3,2,1
+Lotus-BRM,Lola,3,2,1
+Honda,Brabham-Ford,3,2,1
+Lotus-Climax,Lotus-Ford,3,2,1
+Lotus-Climax,Brabham-Ford,3,2,1
+Brabham-BRM,Lotus-BRM,3,2,1
+Honda,Brabham-BRM,3,2,1
+BRM,"Alfa Romeo",3,2,1
+Lotus-BRM,Porsche,3,2,1
+"Team Lotus",Cooper-Maserati,3,2,1
+BRM,Emeryson,3,2,1
+Cooper,Porsche,3,2,1
+"Team Lotus",Maserati,3,2,1
+"Team Lotus",Epperly,3,2,1
+"Team Lotus",Watson,3,2,1
+"Team Lotus",Vanwall,3,2,1
+Maserati,Moore,3,2,1
+Porsche,Dunn,3,2,1
+Porsche,Connaught,3,2,1
+Moore,Lesovsky,3,2,1
+Moore,Watson,3,2,1
+Kuzma,Dunn,3,2,1
+Lesovsky,Dunn,3,2,1
+Phillips,Dunn,3,2,1
+Watson,Dunn,3,2,1
+Vanwall,Dunn,3,2,1
+Cooper,Epperly,3,2,1
+Connaught,OSCA,3,2,1
+Phillips,Stevens,3,2,1
+HWM,Trevis,3,2,1
+Stevens,Schroeder,3,2,1
+Kuzma,Pawl,3,2,1
+Cooper,Schroeder,3,2,1
+Stevens,Bromme,3,2,1
+Connaught,Bromme,3,2,1
+Simca,Bromme,3,2,1
+Simca,Stevens,3,2,1
+Simca,Veritas,3,2,1
+Simca,OSCA,3,2,1
+Cooper,Simca,3,2,1
+Honda,"Toro Rosso",3,2,1
+"Red Bull",Honda,3,2,1
+Toyota,Honda,3,2,1
+Williams,Honda,3,2,1
+"BMW Sauber",Honda,3,2,1
+BAR,Benetton,3,2,1
+BAR,Prost,3,2,1
+Stewart,Prost,3,2,1
+Benetton,Stewart,3,2,1
+Arrows,Stewart,3,2,1
+Sauber,Stewart,3,2,1
+Dallara,March,3,2,1
+Coloni,"Euro Brun",3,2,1
+Coloni,Zakspeed,3,2,1
+March,Zakspeed,3,2,1
+March,AGS,3,2,1
+Larrousse,Zakspeed,3,2,1
+Spirit,RAM,3,2,1
+Osella,Spirit,3,2,1
+Tyrrell,Spirit,3,2,1
+Toleman,Spirit,3,2,1
+Toleman,RAM,3,2,1
+Theodore,Osella,3,2,1
+Toleman,Theodore,3,2,1
+Ensign,Osella,3,2,1
+Fittipaldi,Theodore,3,2,1
+Osella,Fittipaldi,3,2,1
+Renault,March,3,2,1
+Shadow,ATS,3,2,1
+Wolf,Renault,3,2,1
+Wolf,Williams,3,2,1
+Hesketh,Williams,3,2,1
+Wolf,Hesketh,3,2,1
+Wolf,Surtees,3,2,1
+Williams,Surtees,3,2,1
+Shadow,Penske,3,2,1
+Fittipaldi,BRM,3,2,1
+Penske,Fittipaldi,3,2,1
+Penske,Maki,3,2,1
+BRM,Maki,3,2,1
+Parnelli,Penske,3,2,1
+Parnelli,BRM,3,2,1
+Parnelli,Ensign,3,2,1
+Surtees,Parnelli,3,2,1
+Ensign,Maki,3,2,1
+Matra,Brabham,3,2,1
+Surtees,Matra,3,2,1
+Tyrrell,Matra,3,2,1
+McLaren,Matra,3,2,1
+McLaren-Ford,Eagle-Climax,3,2,1
+Brabham-Ford,Lotus-Ford,3,2,1
+Brabham-Ford,Cooper-Maserati,3,2,1
+Lotus-Ford,Brabham-Repco,3,2,1
+Toyota,"Force India",2,2,0
+"BMW Sauber","Force India",2,2,0
+Jaguar,Prost,2,2,0
+Stewart,Tyrrell,2,2,0
+Prost,Tyrrell,2,2,0
+Sauber,Lola,2,2,0
+Footwork,Forti,2,2,0
+Ligier,Forti,2,2,0
+Tyrrell,Forti,2,2,0
+Benetton,Forti,2,2,0
+Minardi,Forti,2,2,0
+Jordan,Forti,2,2,0
+Sauber,Forti,2,2,0
+Ferrari,Forti,2,2,0
+Williams,Forti,2,2,0
+McLaren,Forti,2,2,0
+Footwork,Simtek,2,2,0
+Footwork,Pacific,2,2,0
+Ligier,Simtek,2,2,0
+Ligier,Pacific,2,2,0
+Tyrrell,Simtek,2,2,0
+Tyrrell,Pacific,2,2,0
+Benetton,Simtek,2,2,0
+Benetton,Pacific,2,2,0
+Minardi,Simtek,2,2,0
+Minardi,Pacific,2,2,0
+Jordan,Simtek,2,2,0
+Jordan,Pacific,2,2,0
+Sauber,Simtek,2,2,0
+Sauber,Pacific,2,2,0
+Ferrari,Simtek,2,2,0
+Ferrari,Pacific,2,2,0
+Williams,Simtek,2,2,0
+Williams,Pacific,2,2,0
+McLaren,Simtek,2,2,0
+McLaren,Pacific,2,2,0
+Sauber,Larrousse,2,2,0
+Sauber,"Team Lotus",2,2,0
+Dallara,Fondmetal,2,2,0
+Larrousse,Fondmetal,2,2,0
+"Team Lotus",Fondmetal,2,2,0
+Ligier,Fondmetal,2,2,0
+Tyrrell,Fondmetal,2,2,0
+Benetton,Fondmetal,2,2,0
+Minardi,Fondmetal,2,2,0
+Jordan,Fondmetal,2,2,0
+Jordan,Brabham,2,2,0
+Ferrari,Fondmetal,2,2,0
+Williams,Fondmetal,2,2,0
+McLaren,Fondmetal,2,2,0
+"Leyton House",Coloni,2,2,0
+"Leyton House",AGS,2,2,0
+"Leyton House",Brabham,2,2,0
+"Leyton House",Ligier,2,2,0
+Tyrrell,"Leyton House",2,2,0
+Benetton,"Leyton House",2,2,0
+Ferrari,"Leyton House",2,2,0
+Williams,"Leyton House",2,2,0
+McLaren,"Leyton House",2,2,0
+Lola,AGS,2,2,0
+Onyx,Osella,2,2,0
+Onyx,"Euro Brun",2,2,0
+Onyx,Coloni,2,2,0
+Onyx,AGS,2,2,0
+Brabham,Onyx,2,2,0
+Brabham,"Euro Brun",2,2,0
+"Team Lotus",Onyx,2,2,0
+Ligier,Onyx,2,2,0
+Tyrrell,Onyx,2,2,0
+Benetton,Onyx,2,2,0
+Arrows,Onyx,2,2,0
+Minardi,Onyx,2,2,0
+Ferrari,Onyx,2,2,0
+Williams,Onyx,2,2,0
+McLaren,Onyx,2,2,0
+Mercedes,Lotus,2,2,0
+Mercedes,Virgin,2,2,0
+Sauber,Lotus,2,2,0
+Sauber,Virgin,2,2,0
+"Force India",Lotus,2,2,0
+"Force India",Virgin,2,2,0
+"Red Bull",Lotus,2,2,0
+"Red Bull",Virgin,2,2,0
+Ferrari,Lotus,2,2,0
+Ferrari,Virgin,2,2,0
+"Toro Rosso",Lotus,2,2,0
+"Toro Rosso",Virgin,2,2,0
+Renault,Lotus,2,2,0
+Renault,Virgin,2,2,0
+Renault,HRT,2,2,0
+Williams,Lotus,2,2,0
+Williams,Virgin,2,2,0
+McLaren,Lotus,2,2,0
+McLaren,Virgin,2,2,0
+Rial,Zakspeed,2,2,0
+Rial,Osella,2,2,0
+Rial,"Euro Brun",2,2,0
+Rial,Coloni,2,2,0
+March,Rial,2,2,0
+March,"Euro Brun",2,2,0
+Dallara,Zakspeed,2,2,0
+"Team Lotus",Rial,2,2,0
+Tyrrell,Rial,2,2,0
+Benetton,Rial,2,2,0
+Arrows,Rial,2,2,0
+Ferrari,Rial,2,2,0
+Williams,Rial,2,2,0
+McLaren,Rial,2,2,0
+ATS,RAM,2,2,0
+Fittipaldi,Toleman,2,2,0
+"Alfa Romeo",March,2,2,0
+March,Toleman,2,2,0
+"Brabham-Alfa Romeo",Wolf,2,2,0
+"Brabham-Alfa Romeo",Ensign,2,2,0
+"Brabham-Alfa Romeo",Fittipaldi,2,2,0
+"Brabham-Alfa Romeo",Brabham-Ford,2,2,0
+Wolf,Merzario,2,2,0
+Shadow,Merzario,2,2,0
+Shadow,Brabham-Ford,2,2,0
+Fittipaldi,Merzario,2,2,0
+Fittipaldi,Brabham-Ford,2,2,0
+ATS,Merzario,2,2,0
+"Team Lotus","Brabham-Alfa Romeo",2,2,0
+"Team Lotus",Merzario,2,2,0
+"Team Lotus",Brabham-Ford,2,2,0
+Ligier,"Brabham-Alfa Romeo",2,2,0
+Ligier,Merzario,2,2,0
+Ligier,Brabham-Ford,2,2,0
+Tyrrell,"Brabham-Alfa Romeo",2,2,0
+Tyrrell,Merzario,2,2,0
+Tyrrell,Brabham-Ford,2,2,0
+Arrows,Merzario,2,2,0
+Ferrari,"Brabham-Alfa Romeo",2,2,0
+Ferrari,Merzario,2,2,0
+Renault,Merzario,2,2,0
+Williams,Merzario,2,2,0
+Williams,Brabham-Ford,2,2,0
+McLaren,"Brabham-Alfa Romeo",2,2,0
+McLaren,Merzario,2,2,0
+McLaren,Brabham-Ford,2,2,0
+Brabham-Ford,"Alfa Romeo",2,2,0
+Surtees,Renault,2,2,0
+Surtees,Boro,2,2,0
+Surtees,Kojima,2,2,0
+Wolf,BRM,2,2,0
+Wolf,Boro,2,2,0
+Wolf,Kojima,2,2,0
+Shadow,Boro,2,2,0
+Shadow,Kojima,2,2,0
+Ensign,Boro,2,2,0
+Ensign,Kojima,2,2,0
+Fittipaldi,Boro,2,2,0
+Fittipaldi,Kojima,2,2,0
+March,Boro,2,2,0
+March,Kojima,2,2,0
+"Team Lotus",Boro,2,2,0
+"Team Lotus",Kojima,2,2,0
+Ligier,BRM,2,2,0
+Ligier,Boro,2,2,0
+Ligier,Kojima,2,2,0
+Tyrrell,Boro,2,2,0
+Tyrrell,Kojima,2,2,0
+Ferrari,Boro,2,2,0
+Ferrari,Kojima,2,2,0
+McLaren,Boro,2,2,0
+McLaren,Kojima,2,2,0
+Penske,Boro,2,2,0
+Penske,Kojima,2,2,0
+Hesketh,Boro,2,2,0
+Hesketh,Kojima,2,2,0
+Penske,Williams,2,2,0
+Shadow,Parnelli,2,2,0
+Shadow,Maki,2,2,0
+Fittipaldi,Maki,2,2,0
+Williams,BRM,2,2,0
+Williams,Maki,2,2,0
+Parnelli,Williams,2,2,0
+Parnelli,Lyncar,2,2,0
+BRM,Lyncar,2,2,0
+Hesketh,Lola,2,2,0
+Hesketh,Lyncar,2,2,0
+Surtees,Lyncar,2,2,0
+March,Lola,2,2,0
+March,Lyncar,2,2,0
+Brabham,Parnelli,2,2,0
+Brabham,Maki,2,2,0
+Brabham,Lyncar,2,2,0
+"Team Lotus",Lyncar,2,2,0
+Lola,Maki,2,2,0
+Lola,Lyncar,2,2,0
+Tyrrell,Lyncar,2,2,0
+Ferrari,Lyncar,2,2,0
+McLaren,Lyncar,2,2,0
+"Iso Marlboro",Ensign,2,2,0
+BRM,"Iso Marlboro",2,2,0
+Shadow,"Iso Marlboro",2,2,0
+March,"Iso Marlboro",2,2,0
+Brabham,"Iso Marlboro",2,2,0
+"Team Lotus","Iso Marlboro",2,2,0
+Tyrrell,"Iso Marlboro",2,2,0
+Ferrari,"Iso Marlboro",2,2,0
+McLaren,"Iso Marlboro",2,2,0
+BRM,Tecno,2,2,0
+Surtees,Tecno,2,2,0
+March,Tecno,2,2,0
+Brabham,Tecno,2,2,0
+"Team Lotus",Tecno,2,2,0
+Tyrrell,Tecno,2,2,0
+Ferrari,Tecno,2,2,0
+McLaren,Tecno,2,2,0
+March,Matra,2,2,0
+"Team Lotus",Matra,2,2,0
+Lotus-Ford,McLaren,2,2,0
+Matra,Bellasi,2,2,0
+BRM,Bellasi,2,2,0
+Surtees,Bellasi,2,2,0
+Brabham,Bellasi,2,2,0
+Ferrari,Bellasi,2,2,0
+Matra-Ford,Brabham-Repco,2,2,0
+Matra-Ford,BRM,2,2,0
+Matra-Ford,Ferrari,2,2,0
+Matra-Ford,Cooper-Maserati,2,2,0
+Matra-Ford,Brabham-Climax,2,2,0
+Brabham-Ford,Eagle-Climax,2,2,0
+Lotus-Ford,Eagle-Climax,2,2,0
+Kuzma,AFM,2,2,0
+Kuzma,BMW,2,2,0
+"Kurtis Kraft",AFM,2,2,0
+"Kurtis Kraft",BMW,2,2,0
+HWM,AFM,2,2,0
+HWM,BMW,2,2,0
+Connaught,Simca,2,2,0
+Connaught,Veritas,2,2,0
+Connaught,AFM,2,2,0
+Connaught,BMW,2,2,0
+Veritas,AFM,2,2,0
+Veritas,BMW,2,2,0
+Simca,Sherman,2,2,0
+Simca,Trevis,2,2,0
+HWM,Alta,2,2,0
+Ferrari,Sherman,2,2,0
+"Kurtis Kraft",Sherman,2,2,0
+Talbot-Lago,Maserati,2,2,0
+Talbot-Lago,Marchese,2,2,0
+Talbot-Lago,Deidt,2,2,0
+Talbot-Lago,Moore,2,2,0
+Talbot-Lago,"Kurtis Kraft",2,2,0
+Talbot-Lago,Lesovsky,2,2,0
+Talbot-Lago,Watson,2,2,0
+Talbot-Lago,Simca,2,2,0
+Talbot-Lago,ERA,2,2,0
+Talbot-Lago,Alta,2,2,0
+Maserati,Marchese,2,2,0
+"Alfa Romeo",Talbot-Lago,2,2,0
+"Alfa Romeo",Maserati,2,2,0
+"Alfa Romeo",Marchese,2,2,0
+"Alfa Romeo",Deidt,2,2,0
+"Alfa Romeo",Moore,2,2,0
+"Alfa Romeo","Kurtis Kraft",2,2,0
+"Alfa Romeo",Lesovsky,2,2,0
+"Alfa Romeo",Watson,2,2,0
+"Alfa Romeo",Simca,2,2,0
+"Alfa Romeo",ERA,2,2,0
+"Alfa Romeo",Alta,2,2,0
+Ferrari,Marchese,2,2,0
+Deidt,Marchese,2,2,0
+Moore,Marchese,2,2,0
+Moore,Alta,2,2,0
+"Kurtis Kraft",Marchese,2,2,0
+Simca,Marchese,2,2,0
+Simca,Moore,2,2,0
+ERA,Marchese,2,2,0
+Mercedes,"Manor Marussia",2,2,0
+Sauber,"Manor Marussia",2,2,0
+"Force India","Manor Marussia",2,2,0
+"Red Bull","Manor Marussia",2,2,0
+Ferrari,"Manor Marussia",2,2,0
+"Toro Rosso","Manor Marussia",2,2,0
+Williams,"Manor Marussia",2,2,0
+McLaren,"Manor Marussia",2,2,0
+"Racing Point","Haas F1 Team",2,2,0
+"Racing Point","Alfa Romeo",2,2,0
+"Racing Point",Williams,2,2,0
+Mercedes,"Racing Point",2,2,0
+"Red Bull","Racing Point",2,2,0
+McLaren-BRM,Lola,2,2,0
+Brabham-Repco,McLaren-BRM,2,2,0
+Brabham-Repco,Cooper-Climax,2,2,0
+Brabham-Repco,Matra,2,2,0
+Brabham-Repco,Lola,2,2,0
+Eagle-Weslake,Cooper-Climax,2,2,0
+Eagle-Weslake,Lola,2,2,0
+Lotus-Ford,McLaren-BRM,2,2,0
+Lotus-Ford,Eagle-Weslake,2,2,0
+BRM,McLaren-BRM,2,2,0
+Honda,McLaren-BRM,2,2,0
+Honda,Matra,2,2,0
+Honda,Lola,2,2,0
+Ferrari,McLaren-BRM,2,2,0
+McLaren-Ford,Lola,2,2,0
+Brabham-Repco,Lotus-BRM,2,2,0
+Brabham-Repco,Lotus-Climax,2,2,0
+Brabham-Climax,LDS-Climax,2,2,0
+Lotus-BRM,Eagle-Climax,2,2,0
+Lotus-BRM,LDS-Climax,2,2,0
+Lotus-BRM,McLaren-Ford,2,2,0
+Cooper-Climax,LDS-Climax,2,2,0
+BRM,LDS-Climax,2,2,0
+Honda,LDS-Climax,2,2,0
+Lotus-Climax,Eagle-Climax,2,2,0
+Ferrari,LDS-Climax,2,2,0
+Brabham-Ford,LDS-Climax,2,2,0
+Brabham-BRM,Brabham-Ford,2,2,0
+Lotus-BRM,"Alfa Romeo",2,2,0
+Lotus-Climax,"Alfa Romeo",2,2,0
+Cooper-Climax,Brabham-BRM,2,2,0
+Cooper-Climax,"Alfa Romeo",2,2,0
+Lotus-BRM,Scirocco,2,2,0
+Lotus-Climax,BRP,2,2,0
+Lotus-Climax,Scirocco,2,2,0
+Cooper-Climax,BRP,2,2,0
+Cooper-Climax,Scirocco,2,2,0
+BRP,Scirocco,2,2,0
+BRM,BRP,2,2,0
+BRM,Scirocco,2,2,0
+Ferrari,BRP,2,2,0
+Ferrari,Scirocco,2,2,0
+Lotus-BRM,"De Tomaso",2,2,0
+Lotus-BRM,Gilby,2,2,0
+Lotus-BRM,Lotus-Borgward,2,2,0
+Lotus-BRM,"Team Lotus",2,2,0
+Lotus-BRM,LDS,2,2,0
+Lotus-Climax,"De Tomaso",2,2,0
+Lotus-Climax,Brabham,2,2,0
+Lotus-Climax,Lotus-Borgward,2,2,0
+Lotus-Climax,Lotus-Maserati,2,2,0
+Lotus-Climax,"Team Lotus",2,2,0
+Lotus-Climax,LDS,2,2,0
+Cooper-Climax,"De Tomaso",2,2,0
+Cooper-Climax,Brabham,2,2,0
+Cooper-Climax,Lotus-Borgward,2,2,0
+Cooper-Climax,Lotus-Maserati,2,2,0
+Porsche,"De Tomaso",2,2,0
+Porsche,Lola,2,2,0
+Porsche,Lotus-Borgward,2,2,0
+Porsche,Lotus-Maserati,2,2,0
+Porsche,LDS,2,2,0
+BRM,Lotus-Borgward,2,2,0
+BRM,Lotus-Maserati,2,2,0
+Brabham,Lotus-BRM,2,2,0
+Brabham,Gilby,2,2,0
+Brabham,Lotus-Borgward,2,2,0
+Brabham,LDS,2,2,0
+Lola,"De Tomaso",2,2,0
+Lola,Gilby,2,2,0
+Lola,Lotus-Borgward,2,2,0
+Ferrari,Lotus-Borgward,2,2,0
+Ferrari,Lotus-Maserati,2,2,0
+Lotus-Climax,Emeryson,2,2,0
+Lotus-Climax,"De Tomaso-Alfa Romeo",2,2,0
+Lotus-Climax,"De Tomaso-Osca",2,2,0
+Cooper-Climax,Emeryson,2,2,0
+Cooper-Climax,"De Tomaso-Alfa Romeo",2,2,0
+Cooper-Climax,"De Tomaso-Osca",2,2,0
+Porsche,Emeryson,2,2,0
+Porsche,"De Tomaso-Alfa Romeo",2,2,0
+Porsche,"De Tomaso-Osca",2,2,0
+BRM,"De Tomaso-Alfa Romeo",2,2,0
+BRM,"De Tomaso-Osca",2,2,0
+Ferrari,"De Tomaso-Alfa Romeo",2,2,0
+Ferrari,"De Tomaso-Osca",2,2,0
+Cooper-Climax,Maserati,2,2,0
+Cooper-Climax,Christensen,2,2,0
+Cooper-Climax,Kuzma,2,2,0
+Cooper-Climax,"Kurtis Kraft",2,2,0
+Cooper-Climax,Lesovsky,2,2,0
+Cooper-Climax,Phillips,2,2,0
+Cooper-Climax,Epperly,2,2,0
+Cooper-Climax,Watson,2,2,0
+Cooper-Climax,"Aston Martin",2,2,0
+Cooper-Climax,Vanwall,2,2,0
+Cooper-Maserati,Maserati,2,2,0
+Cooper-Maserati,Christensen,2,2,0
+Cooper-Maserati,Kuzma,2,2,0
+Cooper-Maserati,"Kurtis Kraft",2,2,0
+Cooper-Maserati,Lesovsky,2,2,0
+Cooper-Maserati,Phillips,2,2,0
+Cooper-Maserati,Vanwall,2,2,0
+BRM,Christensen,2,2,0
+BRM,Trevis,2,2,0
+BRM,"Aston Martin",2,2,0
+"Team Lotus",JBW,2,2,0
+"Team Lotus",Christensen,2,2,0
+"Team Lotus","Aston Martin",2,2,0
+Ferrari,Ewing,2,2,0
+Ferrari,Christensen,2,2,0
+"Kurtis Kraft",JBW,2,2,0
+"Kurtis Kraft",Ewing,2,2,0
+"Kurtis Kraft",Christensen,2,2,0
+Lesovsky,JBW,2,2,0
+Lesovsky,Ewing,2,2,0
+Lesovsky,Christensen,2,2,0
+Epperly,JBW,2,2,0
+Epperly,Christensen,2,2,0
+Epperly,"Aston Martin",2,2,0
+Watson,Cooper-Maserati,2,2,0
+Watson,JBW,2,2,0
+Watson,Christensen,2,2,0
+Watson,"Aston Martin",2,2,0
+Porsche,Christensen,2,2,0
+BRM,Moore,2,2,0
+"Team Lotus",Dunn,2,2,0
+"Team Lotus",Connaught,2,2,0
+Cooper,Dunn,2,2,0
+BRM,OSCA,2,2,0
+Mercedes,Lancia,2,2,0
+Mercedes,Gordini,2,2,0
+Mercedes,HWM,2,2,0
+Mercedes,Vanwall,2,2,0
+Mercedes,Pankratz,2,2,0
+Mercedes,Pawl,2,2,0
+Mercedes,Schroeder,2,2,0
+Mercedes,Stevens,2,2,0
+Mercedes,Kuzma,2,2,0
+Mercedes,"Kurtis Kraft",2,2,0
+Mercedes,Phillips,2,2,0
+Mercedes,Connaught,2,2,0
+Mercedes,Cooper,2,2,0
+Gordini,Pankratz,2,2,0
+Gordini,Pawl,2,2,0
+Gordini,Trevis,2,2,0
+Maserati,Lancia,2,2,0
+Maserati,Pankratz,2,2,0
+Ferrari,Lancia,2,2,0
+Ferrari,Pankratz,2,2,0
+Vanwall,HWM,2,2,0
+Vanwall,Pankratz,2,2,0
+Vanwall,Pawl,2,2,0
+Vanwall,Schroeder,2,2,0
+Kuzma,Pankratz,2,2,0
+"Kurtis Kraft",Lancia,2,2,0
+"Kurtis Kraft",Pankratz,2,2,0
+Maserati,Nichels,2,2,0
+Ferrari,Nichels,2,2,0
+"Kurtis Kraft",Nichels,2,2,0
+Gordini,Simca,2,2,0
+Gordini,Veritas,2,2,0
+Gordini,OSCA,2,2,0
+Gordini,AFM,2,2,0
+Gordini,BMW,2,2,0
+Maserati,AFM,2,2,0
+Maserati,BMW,2,2,0
+Cooper,Veritas,2,2,0
+Cooper,AFM,2,2,0
+Cooper,BMW,2,2,0
+Ferrari,AFM,2,2,0
+Ferrari,BMW,2,2,0
+Sauber,McLaren,23,1,22
+"Alfa Romeo",Ferrari,16,1,15
+Jordan,Williams,15,1,14
+"Toro Rosso","Red Bull",14,1,13
+March,Ferrari,13,1,12
+"Toro Rosso","Force India",11,1,10
+Ligier,Benetton,11,1,10
+Osella,Tyrrell,11,1,10
+"Toro Rosso",Renault,10,1,9
+Arrows,Renault,9,1,8
+Sauber,Benetton,9,1,8
+Sauber,"Force India",9,1,8
+Surtees,Tyrrell,9,1,8
+Toyota,Renault,8,1,7
+Tyrrell,Jordan,8,1,7
+Larrousse,Tyrrell,8,1,7
+"Alfa Romeo","Team Lotus",8,1,7
+Surtees,McLaren,8,1,7
+BRM,Tyrrell,8,1,7
+Porsche,BRM,8,1,7
+Phillips,Maserati,7,1,6
+Phillips,"Kurtis Kraft",7,1,6
+Phillips,Vanwall,7,1,6
+Vanwall,Maserati,7,1,6
+Connaught,Cooper,7,1,6
+Minardi,BAR,7,1,6
+BAR,Williams,7,1,6
+BAR,McLaren,7,1,6
+Lola,Tyrrell,7,1,6
+ATS,"Alfa Romeo",7,1,6
+ATS,Tyrrell,7,1,6
+Ensign,Williams,7,1,6
+Ensign,Shadow,7,1,6
+Surtees,March,7,1,6
+BRM,March,7,1,6
+Footwork,Ligier,6,1,5
+Footwork,Ferrari,6,1,5
+AGS,Ligier,6,1,5
+AGS,Minardi,6,1,5
+Osella,Minardi,6,1,5
+Osella,"Alfa Romeo",6,1,5
+Ensign,Renault,6,1,5
+Brabham-Ford,Ferrari,6,1,5
+Brabham-Climax,Ferrari,6,1,5
+Cooper-Climax,Lotus-Climax,6,1,5
+Lesovsky,BRM,6,1,5
+Watson,BRM,6,1,5
+Lesovsky,Connaught,6,1,5
+Connaught,Vanwall,6,1,5
+Watson,Cooper,6,1,5
+Stevens,Cooper,6,1,5
+Brabham-Climax,Cooper-Maserati,5,1,4
+Lotus-BRM,Cooper-Climax,5,1,4
+Kuzma,Epperly,5,1,4
+"Kurtis Kraft",Epperly,5,1,4
+Lesovsky,Phillips,5,1,4
+Phillips,BRM,5,1,4
+Phillips,Watson,5,1,4
+Gordini,Maserati,5,1,4
+Gordini,"Kurtis Kraft",5,1,4
+Stevens,Connaught,5,1,4
+Lola,Minardi,5,1,4
+Dallara,"Team Lotus",5,1,4
+AGS,Larrousse,5,1,4
+Zakspeed,Ligier,5,1,4
+Osella,March,5,1,4
+Toleman,"Alfa Romeo",5,1,4
+Toleman,"Team Lotus",5,1,4
+Toleman,Arrows,5,1,4
+Fittipaldi,March,5,1,4
+Fittipaldi,Arrows,5,1,4
+ATS,Fittipaldi,5,1,4
+Hesketh,"Team Lotus",5,1,4
+Surtees,Shadow,5,1,4
+Brabham-Ford,BRM,5,1,4
+Matra,BRM,5,1,4
+"Haas F1 Team",Renault,5,1,4
+"Lotus F1",Mercedes,4,1,3
+"Toro Rosso","Lotus F1",4,1,3
+"Haas F1 Team","Toro Rosso",4,1,3
+"Alfa Romeo",AlphaTauri,4,1,3
+Williams,AlphaTauri,4,1,3
+"Alpine F1 Team",McLaren,4,1,3
+"Aston Martin",McLaren,4,1,3
+Lola,Cooper-Climax,4,1,3
+Brabham-Climax,Lotus-Climax,4,1,3
+Lotus-BRM,Brabham-Climax,4,1,3
+Honda,Lotus-Climax,4,1,3
+BRM,Cooper,4,1,3
+Kuzma,Porsche,4,1,3
+Trevis,Maserati,4,1,3
+Trevis,Kuzma,4,1,3
+Trevis,"Kurtis Kraft",4,1,3
+Phillips,Porsche,4,1,3
+Epperly,BRM,4,1,3
+Porsche,Maserati,4,1,3
+Porsche,"Kurtis Kraft",4,1,3
+OSCA,Kuzma,4,1,3
+Lesovsky,OSCA,4,1,3
+Watson,OSCA,4,1,3
+Stevens,Lesovsky,4,1,3
+Stevens,Watson,4,1,3
+Watson,Stevens,4,1,3
+HWM,Schroeder,4,1,3
+HWM,Connaught,4,1,3
+Schroeder,Maserati,4,1,3
+Schroeder,HWM,4,1,3
+Schroeder,Kuzma,4,1,3
+Stevens,HWM,4,1,3
+Connaught,HWM,4,1,3
+Simca,Maserati,4,1,3
+"Red Bull","BMW Sauber",4,1,3
+Toyota,"BMW Sauber",4,1,3
+Renault,"BMW Sauber",4,1,3
+Honda,McLaren,4,1,3
+Jordan,Toyota,4,1,3
+BAR,Renault,4,1,3
+Toyota,BAR,4,1,3
+Toyota,Sauber,4,1,3
+Larrousse,Jordan,4,1,3
+Brabham,Dallara,4,1,3
+Larrousse,March,4,1,3
+Larrousse,Arrows,4,1,3
+Shadow,Williams,4,1,3
+Wolf,Ligier,4,1,3
+Wolf,Tyrrell,4,1,3
+Ensign,Wolf,4,1,3
+Hesketh,Shadow,4,1,3
+Hesketh,Fittipaldi,4,1,3
+Fittipaldi,Surtees,4,1,3
+Ensign,Penske,4,1,3
+BRM,Shadow,4,1,3
+BRM,Penske,4,1,3
+Brabham-Ford,Brabham-Climax,4,1,3
+Cooper-Maserati,Brabham-Repco,4,1,3
+Brabham-Climax,Lotus-Ford,4,1,3
+Honda,"Red Bull",3,1,2
+Honda,Toyota,3,1,2
+Honda,Williams,3,1,2
+Honda,"BMW Sauber",3,1,2
+"Toro Rosso",Honda,3,1,2
+Benetton,BAR,3,1,2
+Prost,BAR,3,1,2
+Stewart,Benetton,3,1,2
+Stewart,Arrows,3,1,2
+Stewart,Sauber,3,1,2
+Prost,Stewart,3,1,2
+March,Dallara,3,1,2
+Osella,"Euro Brun",3,1,2
+Zakspeed,Coloni,3,1,2
+Zakspeed,March,3,1,2
+Zakspeed,Larrousse,3,1,2
+AGS,March,3,1,2
+Spirit,Osella,3,1,2
+Spirit,Tyrrell,3,1,2
+RAM,Spirit,3,1,2
+RAM,Toleman,3,1,2
+Theodore,Toleman,3,1,2
+Osella,Theodore,3,1,2
+Fittipaldi,Osella,3,1,2
+Theodore,Fittipaldi,3,1,2
+Osella,Ensign,3,1,2
+March,Renault,3,1,2
+ATS,Shadow,3,1,2
+Renault,Wolf,3,1,2
+Williams,Wolf,3,1,2
+Hesketh,Wolf,3,1,2
+Surtees,Wolf,3,1,2
+Surtees,Williams,3,1,2
+Williams,Hesketh,3,1,2
+Fittipaldi,Penske,3,1,2
+BRM,Fittipaldi,3,1,2
+Penske,Parnelli,3,1,2
+BRM,Parnelli,3,1,2
+Parnelli,Surtees,3,1,2
+Ensign,Parnelli,3,1,2
+Matra,Surtees,3,1,2
+Matra,Tyrrell,3,1,2
+Matra,McLaren,3,1,2
+Brabham,Matra,3,1,2
+"Team Lotus","De Tomaso",3,1,2
+Brabham-Repco,Lotus-Ford,3,1,2
+Lotus-Ford,Brabham-Ford,3,1,2
+Cooper-Maserati,Brabham-Ford,3,1,2
+Eagle-Climax,McLaren-Ford,3,1,2
+Eagle-Climax,Brabham-Climax,3,1,2
+Stevens,Simca,3,1,2
+Lesovsky,Bromme,3,1,2
+Lesovsky,Veritas,3,1,2
+Veritas,Simca,3,1,2
+Veritas,Lesovsky,3,1,2
+OSCA,Simca,3,1,2
+OSCA,Veritas,3,1,2
+Deidt,Simca,3,1,2
+Lesovsky,Deidt,3,1,2
+Lesovsky,ERA,3,1,2
+ERA,Simca,3,1,2
+Alta,Watson,3,1,2
+Marussia,Caterham,3,1,2
+Marussia,Sauber,3,1,2
+AlphaTauri,"Aston Martin",3,1,2
+Brabham-Climax,Eagle-Climax,3,1,2
+Eagle-Weslake,McLaren-Ford,3,1,2
+Brabham-Climax,Eagle-Weslake,3,1,2
+Honda,Brabham-Repco,3,1,2
+Honda,Lotus-Ford,3,1,2
+McLaren-Ford,Honda,3,1,2
+Lola,Lotus-Ford,3,1,2
+Lola,Cooper-Maserati,3,1,2
+Lotus-Ford,Lotus-BRM,3,1,2
+Lotus-Ford,Lotus-Climax,3,1,2
+Brabham-Ford,Lotus-Climax,3,1,2
+Lola,Lotus-BRM,3,1,2
+Brabham-BRM,Honda,3,1,2
+Lotus-BRM,Brabham-BRM,3,1,2
+"Alfa Romeo",BRM,3,1,2
+Porsche,Lotus-BRM,3,1,2
+Porsche,Cooper,3,1,2
+Maserati,"Team Lotus",3,1,2
+Lesovsky,Trevis,3,1,2
+Epperly,"Team Lotus",3,1,2
+Watson,"Team Lotus",3,1,2
+Watson,Trevis,3,1,2
+Vanwall,"Team Lotus",3,1,2
+Moore,Maserati,3,1,2
+Lesovsky,Moore,3,1,2
+Watson,Moore,3,1,2
+Connaught,Porsche,3,1,2
+Connaught,Dunn,3,1,2
+HWM,Pawl,3,1,2
+Schroeder,Pawl,3,1,2
+Connaught,Schroeder,3,1,2
+Schroeder,Bromme,3,1,2
+Simca,Cooper,3,1,2
+Simca,Kuzma,3,1,2
+Simca,HWM,3,1,2
+McLaren-BRM,Eagle-Weslake,2,1,1
+McLaren-BRM,Brabham-Climax,2,1,1
+McLaren-BRM,Cooper-Climax,2,1,1
+McLaren-BRM,Cooper-Maserati,2,1,1
+McLaren-BRM,McLaren-Ford,2,1,1
+McLaren-BRM,Matra,2,1,1
+Eagle-Weslake,McLaren-BRM,2,1,1
+Eagle-Weslake,Matra,2,1,1
+Brabham-Climax,McLaren-BRM,2,1,1
+Brabham-Climax,Matra,2,1,1
+Brabham-Climax,Lola,2,1,1
+Lotus-Ford,LDS,2,1,1
+Cooper-Climax,McLaren-Ford,2,1,1
+Cooper-Climax,Matra,2,1,1
+Cooper-Maserati,McLaren-BRM,2,1,1
+Cooper-Maserati,LDS,2,1,1
+Cooper-Maserati,Matra,2,1,1
+McLaren-Ford,McLaren-BRM,2,1,1
+McLaren-Ford,Cooper-Climax,2,1,1
+Matra,McLaren-BRM,2,1,1
+Matra,Eagle-Weslake,2,1,1
+Matra,Brabham-Climax,2,1,1
+Matra,Cooper-Climax,2,1,1
+Matra,Cooper-Maserati,2,1,1
+Matra,Lola,2,1,1
+Lola,Matra,2,1,1
+Eagle-Climax,Honda,2,1,1
+Eagle-Climax,Eagle-Weslake,2,1,1
+Lotus-BRM,Eagle-Weslake,2,1,1
+Cooper-Maserati,LDS-Climax,2,1,1
+Honda,Eagle-Climax,2,1,1
+Eagle-Weslake,Eagle-Climax,2,1,1
+Eagle-Weslake,Lotus-BRM,2,1,1
+Eagle-Weslake,Lotus-Climax,2,1,1
+Lotus-Climax,LDS-Climax,2,1,1
+Lotus-Climax,Eagle-Weslake,2,1,1
+Lotus-Climax,McLaren-Ford,2,1,1
+Lotus-Ford,LDS-Climax,2,1,1
+McLaren-Ford,Lotus-Climax,2,1,1
+Brabham-BRM,Cooper-Maserati,2,1,1
+Cooper-Maserati,Brabham-BRM,2,1,1
+"Alfa Romeo",Lotus-Ford,2,1,1
+"Alfa Romeo",Cooper-Maserati,2,1,1
+Lotus-BRM,BRP,2,1,1
+BRP,Lotus-BRM,2,1,1
+BRP,Porsche,2,1,1
+Porsche,BRP,2,1,1
+Porsche,Scirocco,2,1,1
+Porsche,Brabham,2,1,1
+Brabham,Porsche,2,1,1
+Cooper-Maserati,Gilby,2,1,1
+Cooper-Maserati,Lotus-Maserati,2,1,1
+Cooper,"Team Lotus",2,1,1
+Cooper-Maserati,Epperly,2,1,1
+Cooper-Maserati,"Aston Martin",2,1,1
+Maserati,JBW,2,1,1
+Maserati,Ewing,2,1,1
+Maserati,Christensen,2,1,1
+Kuzma,JBW,2,1,1
+Kuzma,Christensen,2,1,1
+"Kurtis Kraft","Aston Martin",2,1,1
+Trevis,Vanwall,2,1,1
+Lesovsky,"Aston Martin",2,1,1
+Phillips,JBW,2,1,1
+Phillips,Christensen,2,1,1
+Phillips,Trevis,2,1,1
+Phillips,"Aston Martin",2,1,1
+Epperly,Cooper-Maserati,2,1,1
+Epperly,Trevis,2,1,1
+Watson,Ewing,2,1,1
+"Aston Martin",Cooper-Maserati,2,1,1
+"Aston Martin",Maserati,2,1,1
+"Aston Martin",JBW,2,1,1
+"Aston Martin",Christensen,2,1,1
+"Aston Martin",Kuzma,2,1,1
+"Aston Martin","Kurtis Kraft",2,1,1
+"Aston Martin",Lesovsky,2,1,1
+"Aston Martin",Phillips,2,1,1
+"Aston Martin",Vanwall,2,1,1
+"Aston Martin",Porsche,2,1,1
+Vanwall,Trevis,2,1,1
+Porsche,"Aston Martin",2,1,1
+Moore,Kuzma,2,1,1
+Kuzma,Moore,2,1,1
+Lancia,Gordini,2,1,1
+Lancia,HWM,2,1,1
+Lancia,Vanwall,2,1,1
+Lancia,Pankratz,2,1,1
+Lancia,Pawl,2,1,1
+Lancia,Schroeder,2,1,1
+Lancia,Stevens,2,1,1
+Lancia,Kuzma,2,1,1
+Lancia,Phillips,2,1,1
+Lancia,Connaught,2,1,1
+Lancia,Cooper,2,1,1
+Mercedes,Maserati,2,1,1
+Gordini,Lancia,2,1,1
+Maserati,Mercedes,2,1,1
+Vanwall,Lancia,2,1,1
+Schroeder,Trevis,2,1,1
+Stevens,Lancia,2,1,1
+Stevens,Pankratz,2,1,1
+Stevens,Pawl,2,1,1
+Kuzma,Lancia,2,1,1
+Phillips,Lancia,2,1,1
+Phillips,HWM,2,1,1
+Phillips,Pankratz,2,1,1
+Phillips,Pawl,2,1,1
+Phillips,Schroeder,2,1,1
+Connaught,Trevis,2,1,1
+Cooper,Lancia,2,1,1
+Cooper,Pankratz,2,1,1
+Cooper,Pawl,2,1,1
+Cooper,Trevis,2,1,1
+Nichels,Stevens,2,1,1
+Nichels,Cooper,2,1,1
+Stevens,Nichels,2,1,1
+Cooper,Nichels,2,1,1
+Simca,Schroeder,2,1,1
+Simca,AFM,2,1,1
+Simca,BMW,2,1,1
+Benetton,Jaguar,2,1,1
+Jaguar,Benetton,2,1,1
+Simtek,Pacific,2,1,1
+Pacific,Simtek,2,1,1
+Larrousse,Lola,2,1,1
+Footwork,Lola,2,1,1
+Lola,Larrousse,2,1,1
+Lola,Footwork,2,1,1
+Fondmetal,Brabham,2,1,1
+Dallara,Footwork,2,1,1
+Dallara,Jordan,2,1,1
+Brabham,Fondmetal,2,1,1
+Brabham,Footwork,2,1,1
+Footwork,Fondmetal,2,1,1
+Footwork,Dallara,2,1,1
+Footwork,Brabham,2,1,1
+Jordan,Dallara,2,1,1
+"Leyton House",Dallara,2,1,1
+"Leyton House",Larrousse,2,1,1
+"Leyton House","Team Lotus",2,1,1
+"Leyton House",Minardi,2,1,1
+Dallara,"Leyton House",2,1,1
+Larrousse,"Leyton House",2,1,1
+Minardi,"Leyton House",2,1,1
+Onyx,Dallara,2,1,1
+Onyx,Larrousse,2,1,1
+Dallara,Onyx,2,1,1
+Larrousse,Onyx,2,1,1
+Rial,AGS,2,1,1
+Rial,Dallara,2,1,1
+Rial,Larrousse,2,1,1
+Rial,Ligier,2,1,1
+AGS,Rial,2,1,1
+Dallara,Rial,2,1,1
+Larrousse,Rial,2,1,1
+Ligier,Rial,2,1,1
+Minardi,Rial,2,1,1
+Osella,Lola,2,1,1
+Lola,Zakspeed,2,1,1
+Lola,Osella,2,1,1
+"Alfa Romeo",Lola,2,1,1
+Lola,"Alfa Romeo",2,1,1
+Spirit,ATS,2,1,1
+Ensign,Toleman,2,1,1
+Theodore,March,2,1,1
+ATS,March,2,1,1
+Toleman,Ensign,2,1,1
+March,Theodore,2,1,1
+March,ATS,2,1,1
+Shadow,"Alfa Romeo",2,1,1
+"Alfa Romeo",Shadow,2,1,1
+"Brabham-Alfa Romeo",Shadow,2,1,1
+"Brabham-Alfa Romeo",Williams,2,1,1
+Wolf,ATS,2,1,1
+Wolf,Arrows,2,1,1
+Wolf,Brabham-Ford,2,1,1
+Shadow,"Brabham-Alfa Romeo",2,1,1
+Ensign,Merzario,2,1,1
+Ensign,Brabham-Ford,2,1,1
+ATS,Wolf,2,1,1
+Arrows,Wolf,2,1,1
+Williams,"Brabham-Alfa Romeo",2,1,1
+Brabham-Ford,Wolf,2,1,1
+Brabham-Ford,Ensign,2,1,1
+Hesketh,Renault,2,1,1
+Wolf,Brabham,2,1,1
+Brabham,Wolf,2,1,1
+Renault,Hesketh,2,1,1
+Wolf,March,2,1,1
+Wolf,Penske,2,1,1
+March,Wolf,2,1,1
+Ligier,Penske,2,1,1
+Penske,Wolf,2,1,1
+Penske,Ligier,2,1,1
+Boro,BRM,2,1,1
+Boro,Kojima,2,1,1
+Fittipaldi,Parnelli,2,1,1
+Parnelli,Fittipaldi,2,1,1
+Parnelli,Lola,2,1,1
+Penske,Lola,2,1,1
+Penske,Lyncar,2,1,1
+Surtees,Lola,2,1,1
+Lola,Parnelli,2,1,1
+Lola,Penske,2,1,1
+Lola,Surtees,2,1,1
+Lola,Ensign,2,1,1
+Ensign,Lola,2,1,1
+Ensign,Lyncar,2,1,1
+"Iso Marlboro",Surtees,2,1,1
+Surtees,"Iso Marlboro",2,1,1
+Lotus-Ford,Brabham,2,1,1
+Brabham,Lotus-Ford,2,1,1
+Tyrrell,Bellasi,2,1,1
+Matra-Ford,McLaren-Ford,2,1,1
+Matra-Ford,Lotus-Ford,2,1,1
+Brabham-Repco,Brabham-Ford,2,1,1
+McLaren-Ford,Matra-Ford,2,1,1
+McLaren-Ford,Brabham-Ford,2,1,1
+Brabham-Ford,Brabham-Repco,2,1,1
+Brabham-Ford,McLaren-Ford,2,1,1
+Lotus-Ford,Matra-Ford,2,1,1
+Schroeder,Lesovsky,2,1,1
+Schroeder,Watson,2,1,1
+Schroeder,Veritas,2,1,1
+Schroeder,OSCA,2,1,1
+Stevens,Veritas,2,1,1
+Stevens,OSCA,2,1,1
+Stevens,AFM,2,1,1
+Stevens,BMW,2,1,1
+Lesovsky,AFM,2,1,1
+Lesovsky,BMW,2,1,1
+Veritas,Schroeder,2,1,1
+Veritas,Stevens,2,1,1
+OSCA,Schroeder,2,1,1
+OSCA,AFM,2,1,1
+OSCA,BMW,2,1,1
+AFM,Bromme,2,1,1
+AFM,Stevens,2,1,1
+AFM,Watson,2,1,1
+AFM,OSCA,2,1,1
+AFM,BMW,2,1,1
+Veritas,Deidt,2,1,1
+Veritas,Sherman,2,1,1
+Veritas,Trevis,2,1,1
+Veritas,ERA,2,1,1
+Veritas,Alta,2,1,1
+HWM,Deidt,2,1,1
+HWM,Sherman,2,1,1
+HWM,ERA,2,1,1
+Maserati,Sherman,2,1,1
+Cooper,Deidt,2,1,1
+Cooper,ERA,2,1,1
+Cooper,Alta,2,1,1
+Deidt,Veritas,2,1,1
+Deidt,HWM,2,1,1
+Deidt,Cooper,2,1,1
+Deidt,Bromme,2,1,1
+Deidt,Stevens,2,1,1
+Deidt,Kuzma,2,1,1
+Deidt,Trevis,2,1,1
+Deidt,OSCA,2,1,1
+Sherman,Veritas,2,1,1
+Sherman,HWM,2,1,1
+Sherman,Maserati,2,1,1
+Sherman,Deidt,2,1,1
+Sherman,Bromme,2,1,1
+Sherman,Kuzma,2,1,1
+Sherman,Trevis,2,1,1
+Sherman,Lesovsky,2,1,1
+Sherman,Watson,2,1,1
+Sherman,ERA,2,1,1
+Sherman,Alta,2,1,1
+Sherman,OSCA,2,1,1
+Kuzma,Deidt,2,1,1
+Kuzma,Sherman,2,1,1
+Kuzma,ERA,2,1,1
+Kuzma,Alta,2,1,1
+Lesovsky,Sherman,2,1,1
+ERA,Veritas,2,1,1
+ERA,Cooper,2,1,1
+ERA,Bromme,2,1,1
+ERA,Stevens,2,1,1
+ERA,Kuzma,2,1,1
+ERA,Trevis,2,1,1
+ERA,OSCA,2,1,1
+Alta,Cooper,2,1,1
+Alta,Stevens,2,1,1
+OSCA,Trevis,2,1,1
+OSCA,Alta,2,1,1
+Talbot-Lago,Ferrari,2,1,1
+Ferrari,Talbot-Lago,2,1,1
+Deidt,Moore,2,1,1
+Moore,Deidt,2,1,1
+Moore,ERA,2,1,1
+Lesovsky,Marchese,2,1,1
+ERA,Moore,2,1,1
+Alta,Marchese,2,1,1
+"Racing Point",Ferrari,2,1,1
+"Racing Point",Renault,2,1,1
+"Racing Point",McLaren,2,1,1
+Ferrari,"Racing Point",2,1,1
+Renault,"Racing Point",2,1,1
+McLaren,"Racing Point",2,1,1
+Stevens,"Del Roy",1,1,0
+Stevens,Turner,1,1,0
+Stevens,EMW,1,1,0
+Kuzma,"Del Roy",1,1,0
+Kuzma,Turner,1,1,0
+Kuzma,EMW,1,1,0
+"Kurtis Kraft","Del Roy",1,1,0
+"Kurtis Kraft",Turner,1,1,0
+"Kurtis Kraft",EMW,1,1,0
+HWM,"Del Roy",1,1,0
+HWM,Turner,1,1,0
+HWM,EMW,1,1,0
+Connaught,"Del Roy",1,1,0
+Connaught,Turner,1,1,0
+Connaught,EMW,1,1,0
+Veritas,"Del Roy",1,1,0
+Veritas,Turner,1,1,0
+Veritas,EMW,1,1,0
+OSCA,"Del Roy",1,1,0
+OSCA,Turner,1,1,0
+OSCA,EMW,1,1,0
+"Frazer Nash",AFM,1,1,0
+"Frazer Nash",Veritas,1,1,0
+"Frazer Nash",Deidt,1,1,0
+"Frazer Nash",Sherman,1,1,0
+"Frazer Nash",Bromme,1,1,0
+"Frazer Nash",Stevens,1,1,0
+"Frazer Nash",Trevis,1,1,0
+"Frazer Nash",Lesovsky,1,1,0
+"Frazer Nash",Watson,1,1,0
+"Frazer Nash","Aston Butterworth",1,1,0
+"Frazer Nash",ERA,1,1,0
+"Frazer Nash",Alta,1,1,0
+"Frazer Nash",BMW,1,1,0
+"Frazer Nash",Cisitalia,1,1,0
+"Frazer Nash",OSCA,1,1,0
+AFM,Deidt,1,1,0
+AFM,Sherman,1,1,0
+AFM,Trevis,1,1,0
+AFM,"Aston Butterworth",1,1,0
+AFM,ERA,1,1,0
+AFM,Alta,1,1,0
+AFM,Cisitalia,1,1,0
+Veritas,"Aston Butterworth",1,1,0
+Veritas,Cisitalia,1,1,0
+Simca,"Aston Butterworth",1,1,0
+Simca,Cisitalia,1,1,0
+HWM,"Frazer Nash",1,1,0
+HWM,"Aston Butterworth",1,1,0
+HWM,Cisitalia,1,1,0
+Gordini,"Frazer Nash",1,1,0
+Gordini,Deidt,1,1,0
+Gordini,Sherman,1,1,0
+Gordini,"Aston Butterworth",1,1,0
+Gordini,ERA,1,1,0
+Gordini,Alta,1,1,0
+Gordini,Cisitalia,1,1,0
+Maserati,"Frazer Nash",1,1,0
+Maserati,"Aston Butterworth",1,1,0
+Maserati,Cisitalia,1,1,0
+Cooper,"Frazer Nash",1,1,0
+Cooper,Sherman,1,1,0
+Cooper,"Aston Butterworth",1,1,0
+Cooper,Cisitalia,1,1,0
+Ferrari,"Frazer Nash",1,1,0
+Ferrari,"Aston Butterworth",1,1,0
+Ferrari,Cisitalia,1,1,0
+Kuzma,"Frazer Nash",1,1,0
+Kuzma,"Aston Butterworth",1,1,0
+Kuzma,Cisitalia,1,1,0
+"Kurtis Kraft","Frazer Nash",1,1,0
+"Kurtis Kraft","Aston Butterworth",1,1,0
+"Kurtis Kraft",Cisitalia,1,1,0
+Lesovsky,"Aston Butterworth",1,1,0
+Lesovsky,Cisitalia,1,1,0
+Connaught,"Frazer Nash",1,1,0
+Connaught,Deidt,1,1,0
+Connaught,Sherman,1,1,0
+Connaught,"Aston Butterworth",1,1,0
+Connaught,ERA,1,1,0
+Connaught,Alta,1,1,0
+Connaught,Cisitalia,1,1,0
+Talbot-Lago,Veritas,1,1,0
+Talbot-Lago,HWM,1,1,0
+Talbot-Lago,Hall,1,1,0
+Talbot-Lago,Sherman,1,1,0
+Talbot-Lago,Bromme,1,1,0
+Talbot-Lago,Pawl,1,1,0
+Talbot-Lago,Schroeder,1,1,0
+Talbot-Lago,Kuzma,1,1,0
+Talbot-Lago,Trevis,1,1,0
+Talbot-Lago,BRM,1,1,0
+Talbot-Lago,OSCA,1,1,0
+HWM,Marchese,1,1,0
+HWM,Hall,1,1,0
+Maserati,Hall,1,1,0
+"Alfa Romeo",Veritas,1,1,0
+"Alfa Romeo",HWM,1,1,0
+"Alfa Romeo",Hall,1,1,0
+"Alfa Romeo",Sherman,1,1,0
+"Alfa Romeo",Bromme,1,1,0
+"Alfa Romeo",Pawl,1,1,0
+"Alfa Romeo",Schroeder,1,1,0
+"Alfa Romeo",Kuzma,1,1,0
+"Alfa Romeo",Trevis,1,1,0
+"Alfa Romeo",OSCA,1,1,0
+Ferrari,Hall,1,1,0
+Deidt,Hall,1,1,0
+Deidt,Pawl,1,1,0
+Sherman,Marchese,1,1,0
+Sherman,Hall,1,1,0
+Sherman,Pawl,1,1,0
+Sherman,Schroeder,1,1,0
+Sherman,Moore,1,1,0
+Schroeder,Marchese,1,1,0
+Schroeder,Hall,1,1,0
+Schroeder,Deidt,1,1,0
+Schroeder,Moore,1,1,0
+Schroeder,ERA,1,1,0
+Schroeder,Alta,1,1,0
+Moore,Veritas,1,1,0
+Moore,HWM,1,1,0
+Moore,Hall,1,1,0
+Moore,Bromme,1,1,0
+Moore,Pawl,1,1,0
+Moore,Trevis,1,1,0
+Moore,OSCA,1,1,0
+"Kurtis Kraft",Hall,1,1,0
+Simca,Hall,1,1,0
+Simca,Pawl,1,1,0
+ERA,Hall,1,1,0
+ERA,Pawl,1,1,0
+BRM,Veritas,1,1,0
+BRM,HWM,1,1,0
+BRM,Marchese,1,1,0
+BRM,Hall,1,1,0
+BRM,Deidt,1,1,0
+BRM,Sherman,1,1,0
+BRM,Bromme,1,1,0
+BRM,Pawl,1,1,0
+BRM,Schroeder,1,1,0
+BRM,ERA,1,1,0
+BRM,Alta,1,1,0
+OSCA,Marchese,1,1,0
+OSCA,Hall,1,1,0
+OSCA,Pawl,1,1,0
+Talbot-Lago,Cooper,1,1,0
+Talbot-Lago,Snowberger,1,1,0
+Talbot-Lago,Adams,1,1,0
+Talbot-Lago,Wetteroth,1,1,0
+Talbot-Lago,Olson,1,1,0
+Talbot-Lago,Rae,1,1,0
+Talbot-Lago,Langley,1,1,0
+Talbot-Lago,Nichels,1,1,0
+Talbot-Lago,Stevens,1,1,0
+Talbot-Lago,Ewing,1,1,0
+Talbot-Lago,Milano,1,1,0
+ERA,Snowberger,1,1,0
+ERA,Adams,1,1,0
+ERA,Wetteroth,1,1,0
+ERA,Olson,1,1,0
+ERA,Rae,1,1,0
+ERA,Langley,1,1,0
+ERA,Nichels,1,1,0
+ERA,Ewing,1,1,0
+ERA,Milano,1,1,0
+Alta,Snowberger,1,1,0
+Alta,Adams,1,1,0
+Alta,Wetteroth,1,1,0
+Alta,Olson,1,1,0
+Alta,Rae,1,1,0
+Alta,Langley,1,1,0
+Alta,Ewing,1,1,0
+Alta,Milano,1,1,0
+Maserati,Snowberger,1,1,0
+Maserati,Adams,1,1,0
+Maserati,Wetteroth,1,1,0
+Maserati,Olson,1,1,0
+Maserati,Rae,1,1,0
+Maserati,Langley,1,1,0
+Maserati,Milano,1,1,0
+"Alfa Romeo",Cooper,1,1,0
+"Alfa Romeo",Snowberger,1,1,0
+"Alfa Romeo",Adams,1,1,0
+"Alfa Romeo",Wetteroth,1,1,0
+"Alfa Romeo",Olson,1,1,0
+"Alfa Romeo",Rae,1,1,0
+"Alfa Romeo",Langley,1,1,0
+"Alfa Romeo",Nichels,1,1,0
+"Alfa Romeo",Stevens,1,1,0
+"Alfa Romeo",Ewing,1,1,0
+"Alfa Romeo",Milano,1,1,0
+Simca,Snowberger,1,1,0
+Simca,Adams,1,1,0
+Simca,Wetteroth,1,1,0
+Simca,Olson,1,1,0
+Simca,Rae,1,1,0
+Simca,Langley,1,1,0
+Simca,Nichels,1,1,0
+Simca,Ewing,1,1,0
+Simca,Milano,1,1,0
+Ferrari,Snowberger,1,1,0
+Ferrari,Adams,1,1,0
+Ferrari,Wetteroth,1,1,0
+Ferrari,Olson,1,1,0
+Ferrari,Rae,1,1,0
+Ferrari,Langley,1,1,0
+Ferrari,Milano,1,1,0
+Deidt,Snowberger,1,1,0
+Deidt,Adams,1,1,0
+Deidt,Wetteroth,1,1,0
+Deidt,Olson,1,1,0
+Deidt,Rae,1,1,0
+Deidt,Langley,1,1,0
+Deidt,Nichels,1,1,0
+Deidt,Ewing,1,1,0
+Deidt,Milano,1,1,0
+Nichels,Snowberger,1,1,0
+Nichels,Adams,1,1,0
+Nichels,Wetteroth,1,1,0
+Nichels,Olson,1,1,0
+Nichels,Rae,1,1,0
+Nichels,Langley,1,1,0
+Nichels,Marchese,1,1,0
+Nichels,Ewing,1,1,0
+Nichels,Watson,1,1,0
+Nichels,Milano,1,1,0
+Moore,Cooper,1,1,0
+Moore,Snowberger,1,1,0
+Moore,Adams,1,1,0
+Moore,Wetteroth,1,1,0
+Moore,Olson,1,1,0
+Moore,Rae,1,1,0
+Moore,Langley,1,1,0
+Moore,Nichels,1,1,0
+Moore,Stevens,1,1,0
+Moore,Ewing,1,1,0
+Moore,Milano,1,1,0
+"Kurtis Kraft",Snowberger,1,1,0
+"Kurtis Kraft",Adams,1,1,0
+"Kurtis Kraft",Wetteroth,1,1,0
+"Kurtis Kraft",Olson,1,1,0
+"Kurtis Kraft",Rae,1,1,0
+"Kurtis Kraft",Langley,1,1,0
+"Kurtis Kraft",Milano,1,1,0
+Lesovsky,Snowberger,1,1,0
+Lesovsky,Adams,1,1,0
+Lesovsky,Wetteroth,1,1,0
+Lesovsky,Olson,1,1,0
+Lesovsky,Rae,1,1,0
+Lesovsky,Langley,1,1,0
+Lesovsky,Nichels,1,1,0
+Lesovsky,Milano,1,1,0
+"Lotus F1",HRT,1,1,0
+"Lotus F1","Manor Marussia",1,1,0
+"Haas F1 Team","Manor Marussia",1,1,0
+Renault,"Manor Marussia",1,1,0
+"Toro Rosso","Racing Point",1,1,0
+"Toro Rosso","Alfa Romeo",1,1,0
+"Racing Point",AlphaTauri,1,1,0
+Renault,AlphaTauri,1,1,0
+"RB F1 Team",Sauber,1,1,0
+"RB F1 Team",Williams,1,1,0
+"Alpine F1 Team","RB F1 Team",1,1,0
+"Alpine F1 Team",Sauber,1,1,0
+"Haas F1 Team","RB F1 Team",1,1,0
+Mercedes,"RB F1 Team",1,1,0
+"Aston Martin","RB F1 Team",1,1,0
+"Aston Martin",Sauber,1,1,0
+"Red Bull","RB F1 Team",1,1,0
+Ferrari,"RB F1 Team",1,1,0
+McLaren,"RB F1 Team",1,1,0
+Matra-Ford,Cooper-BRM,1,1,0
+Matra-Ford,McLaren-BRM,1,1,0
+Matra-Ford,Eagle-Weslake,1,1,0
+Matra-Ford,Cooper-Climax,1,1,0
+Matra-Ford,LDS,1,1,0
+Matra-Ford,Honda,1,1,0
+Matra-Ford,Matra,1,1,0
+Matra-Ford,Lola,1,1,0
+Matra-Ford,McLaren,1,1,0
+Cooper-BRM,McLaren-BRM,1,1,0
+Cooper-BRM,Brabham-Repco,1,1,0
+Cooper-BRM,Eagle-Weslake,1,1,0
+Cooper-BRM,Brabham-Climax,1,1,0
+Cooper-BRM,Cooper-Climax,1,1,0
+Cooper-BRM,Cooper-Maserati,1,1,0
+Cooper-BRM,LDS,1,1,0
+Cooper-BRM,Honda,1,1,0
+Cooper-BRM,Matra,1,1,0
+Cooper-BRM,Lola,1,1,0
+Cooper-BRM,McLaren,1,1,0
+McLaren-BRM,LDS,1,1,0
+McLaren-BRM,McLaren,1,1,0
+Brabham-Repco,LDS,1,1,0
+Brabham-Repco,McLaren,1,1,0
+Eagle-Weslake,LDS,1,1,0
+Brabham-Climax,LDS,1,1,0
+Lotus-Ford,Cooper-BRM,1,1,0
+Cooper-Maserati,McLaren,1,1,0
+BRM,Cooper-BRM,1,1,0
+Honda,LDS,1,1,0
+Ferrari,Cooper-BRM,1,1,0
+McLaren-Ford,Cooper-BRM,1,1,0
+McLaren-Ford,LDS,1,1,0
+McLaren-Ford,McLaren,1,1,0
+Matra,LDS,1,1,0
+McLaren,Eagle-Weslake,1,1,0
+McLaren,Brabham-Climax,1,1,0
+McLaren,Cooper-Climax,1,1,0
+McLaren,LDS,1,1,0
+Brabham-Repco,LDS-Climax,1,1,0
+Brabham-Repco,Cooper-ATS,1,1,0
+Brabham-Repco,Protos,1,1,0
+LDS-Climax,Eagle-Climax,1,1,0
+LDS-Climax,Matra,1,1,0
+LDS-Climax,Cooper-ATS,1,1,0
+LDS-Climax,Protos,1,1,0
+LDS-Climax,Lola,1,1,0
+Brabham-Climax,Cooper-ATS,1,1,0
+Brabham-Climax,Protos,1,1,0
+Lotus-BRM,McLaren-BRM,1,1,0
+Lotus-BRM,Matra,1,1,0
+Lotus-BRM,Cooper-ATS,1,1,0
+Lotus-BRM,Protos,1,1,0
+Cooper-Climax,Eagle-Climax,1,1,0
+Cooper-Climax,Cooper-ATS,1,1,0
+Cooper-Climax,Protos,1,1,0
+Cooper-Maserati,Cooper-ATS,1,1,0
+Cooper-Maserati,Protos,1,1,0
+BRM,Cooper-ATS,1,1,0
+BRM,Protos,1,1,0
+Honda,Cooper-ATS,1,1,0
+Honda,Protos,1,1,0
+McLaren-BRM,Eagle-Climax,1,1,0
+McLaren-BRM,LDS-Climax,1,1,0
+McLaren-BRM,Lotus-Climax,1,1,0
+McLaren-BRM,Cooper-ATS,1,1,0
+McLaren-BRM,Brabham-Ford,1,1,0
+McLaren-BRM,Protos,1,1,0
+Eagle-Weslake,LDS-Climax,1,1,0
+Eagle-Weslake,Cooper-ATS,1,1,0
+Eagle-Weslake,Brabham-Ford,1,1,0
+Eagle-Weslake,Protos,1,1,0
+Lotus-Climax,Matra,1,1,0
+Lotus-Climax,Cooper-ATS,1,1,0
+Lotus-Climax,Protos,1,1,0
+Ferrari,Cooper-ATS,1,1,0
+Ferrari,Protos,1,1,0
+Lotus-Ford,Cooper-ATS,1,1,0
+Lotus-Ford,Protos,1,1,0
+Brabham-Ford,Matra,1,1,0
+Brabham-Ford,Cooper-ATS,1,1,0
+Brabham-Ford,Protos,1,1,0
+Brabham-Ford,Lola,1,1,0
+Lola,Eagle-Climax,1,1,0
+Lola,Cooper-ATS,1,1,0
+Lola,Protos,1,1,0
+McLaren-Ford,LDS-Climax,1,1,0
+McLaren-Ford,Cooper-ATS,1,1,0
+McLaren-Ford,Protos,1,1,0
+Brabham-Repco,Brabham-BRM,1,1,0
+Brabham-Repco,McLaren-Serenissima,1,1,0
+Brabham-Repco,Cooper-Ferrari,1,1,0
+Brabham-Repco,Shannon,1,1,0
+McLaren-Ford,McLaren-Serenissima,1,1,0
+McLaren-Ford,Cooper-Ferrari,1,1,0
+McLaren-Ford,Shannon,1,1,0
+Brabham-Climax,McLaren-Serenissima,1,1,0
+Brabham-Climax,Cooper-Ferrari,1,1,0
+Brabham-Climax,Shannon,1,1,0
+Brabham-BRM,McLaren-Ford,1,1,0
+Brabham-BRM,McLaren-Serenissima,1,1,0
+Brabham-BRM,Cooper-Ferrari,1,1,0
+Brabham-BRM,Shannon,1,1,0
+Brabham-BRM,Eagle-Weslake,1,1,0
+Lotus-BRM,McLaren-Serenissima,1,1,0
+Lotus-BRM,Cooper-Ferrari,1,1,0
+Lotus-BRM,Shannon,1,1,0
+Lotus-Climax,McLaren-Serenissima,1,1,0
+Lotus-Climax,Cooper-Ferrari,1,1,0
+Lotus-Climax,Shannon,1,1,0
+Cooper-Maserati,McLaren-Serenissima,1,1,0
+Cooper-Maserati,Cooper-Ferrari,1,1,0
+Cooper-Maserati,Shannon,1,1,0
+BRM,McLaren-Serenissima,1,1,0
+BRM,Cooper-Ferrari,1,1,0
+BRM,Shannon,1,1,0
+Ferrari,McLaren-Serenissima,1,1,0
+Ferrari,Cooper-Ferrari,1,1,0
+Ferrari,Shannon,1,1,0
+Eagle-Climax,Brabham-BRM,1,1,0
+Eagle-Climax,McLaren-Serenissima,1,1,0
+Eagle-Climax,Cooper-Ferrari,1,1,0
+Eagle-Climax,Shannon,1,1,0
+McLaren-Serenissima,Cooper-Ferrari,1,1,0
+McLaren-Serenissima,Shannon,1,1,0
+McLaren-Serenissima,Eagle-Weslake,1,1,0
+Honda,McLaren-Serenissima,1,1,0
+Honda,Cooper-Ferrari,1,1,0
+Honda,Shannon,1,1,0
+Brabham-Climax,Cooper-Ford,1,1,0
+Brabham-Climax,"LDS-Alfa Romeo",1,1,0
+Brabham-Climax,RE,1,1,0
+Brabham-Climax,"Alfa Romeo",1,1,0
+Brabham-Ford,Cooper-Ford,1,1,0
+Brabham-Ford,"LDS-Alfa Romeo",1,1,0
+Brabham-Ford,RE,1,1,0
+Brabham-BRM,Cooper-Ford,1,1,0
+Brabham-BRM,"LDS-Alfa Romeo",1,1,0
+Brabham-BRM,LDS-Climax,1,1,0
+Brabham-BRM,Lotus-Ford,1,1,0
+Brabham-BRM,RE,1,1,0
+Brabham-BRM,"Alfa Romeo",1,1,0
+Lotus-BRM,Cooper-Ford,1,1,0
+Lotus-BRM,"LDS-Alfa Romeo",1,1,0
+Lotus-BRM,RE,1,1,0
+Lotus-Climax,Cooper-Ford,1,1,0
+Lotus-Climax,"LDS-Alfa Romeo",1,1,0
+Lotus-Climax,RE,1,1,0
+Cooper-Climax,Cooper-Ford,1,1,0
+Cooper-Climax,"LDS-Alfa Romeo",1,1,0
+Cooper-Climax,RE,1,1,0
+BRM,Cooper-Ford,1,1,0
+BRM,"LDS-Alfa Romeo",1,1,0
+BRM,RE,1,1,0
+"Alfa Romeo",Cooper-Ford,1,1,0
+"Alfa Romeo","LDS-Alfa Romeo",1,1,0
+"Alfa Romeo",LDS-Climax,1,1,0
+"Alfa Romeo",RE,1,1,0
+Ferrari,Cooper-Ford,1,1,0
+Ferrari,"LDS-Alfa Romeo",1,1,0
+Ferrari,RE,1,1,0
+Honda,Cooper-Ford,1,1,0
+Honda,"LDS-Alfa Romeo",1,1,0
+Honda,RE,1,1,0
+Honda,"Alfa Romeo",1,1,0
+Brabham-Climax,BRP,1,1,0
+Brabham-Climax,Scirocco,1,1,0
+Brabham-Climax,Porsche,1,1,0
+Brabham-Climax,Derrington,1,1,0
+Lotus-BRM,Derrington,1,1,0
+Lotus-Climax,Derrington,1,1,0
+Cooper-Climax,Derrington,1,1,0
+BRP,Brabham-Ford,1,1,0
+BRP,Honda,1,1,0
+BRP,Derrington,1,1,0
+BRM,Derrington,1,1,0
+Ferrari,Derrington,1,1,0
+Brabham-BRM,BRP,1,1,0
+Brabham-BRM,Scirocco,1,1,0
+Brabham-BRM,Porsche,1,1,0
+Brabham-BRM,Derrington,1,1,0
+Lotus-BRM,ATS,1,1,0
+Lotus-BRM,"De Tomaso-Ferrari",1,1,0
+Lotus-BRM,Lotus-Maserati,1,1,0
+Lotus-BRM,Stebro,1,1,0
+Lotus-Climax,ATS,1,1,0
+Lotus-Climax,"De Tomaso-Ferrari",1,1,0
+Lotus-Climax,Stebro,1,1,0
+Cooper-Climax,ATS,1,1,0
+Cooper-Climax,"De Tomaso-Ferrari",1,1,0
+Cooper-Climax,Stebro,1,1,0
+Porsche,ATS,1,1,0
+Porsche,"De Tomaso-Ferrari",1,1,0
+Porsche,Stebro,1,1,0
+Porsche,Lotus-Ford,1,1,0
+Porsche,"Alfa Romeo",1,1,0
+Scirocco,"De Tomaso",1,1,0
+Scirocco,ATS,1,1,0
+Scirocco,Gilby,1,1,0
+Scirocco,Lotus-Borgward,1,1,0
+Scirocco,"De Tomaso-Ferrari",1,1,0
+Scirocco,Lotus-Maserati,1,1,0
+Scirocco,Cooper-Maserati,1,1,0
+Scirocco,"Team Lotus",1,1,0
+Scirocco,Lotus-Ford,1,1,0
+Scirocco,LDS,1,1,0
+Scirocco,"Alfa Romeo",1,1,0
+BRM,ATS,1,1,0
+BRM,"De Tomaso-Ferrari",1,1,0
+BRM,Stebro,1,1,0
+Brabham,Scirocco,1,1,0
+Brabham,BRP,1,1,0
+Brabham,"De Tomaso-Ferrari",1,1,0
+Brabham,Lotus-Maserati,1,1,0
+Brabham,Cooper-Maserati,1,1,0
+Brabham,Stebro,1,1,0
+Lola,Scirocco,1,1,0
+Lola,ATS,1,1,0
+Lola,"De Tomaso-Ferrari",1,1,0
+Lola,Lotus-Maserati,1,1,0
+Lola,Stebro,1,1,0
+Ferrari,"De Tomaso-Ferrari",1,1,0
+Ferrari,Stebro,1,1,0
+BRP,"De Tomaso",1,1,0
+BRP,ATS,1,1,0
+BRP,Lola,1,1,0
+BRP,Gilby,1,1,0
+BRP,Lotus-Borgward,1,1,0
+BRP,"De Tomaso-Ferrari",1,1,0
+BRP,Lotus-Maserati,1,1,0
+BRP,Cooper-Maserati,1,1,0
+BRP,Stebro,1,1,0
+BRP,"Team Lotus",1,1,0
+BRP,Lotus-Ford,1,1,0
+BRP,LDS,1,1,0
+BRP,"Alfa Romeo",1,1,0
+Stebro,Scirocco,1,1,0
+Stebro,"De Tomaso",1,1,0
+Stebro,ATS,1,1,0
+Stebro,Gilby,1,1,0
+Stebro,Lotus-Borgward,1,1,0
+Stebro,"De Tomaso-Ferrari",1,1,0
+Stebro,Lotus-Maserati,1,1,0
+Stebro,Cooper-Maserati,1,1,0
+Stebro,"Team Lotus",1,1,0
+Stebro,Lotus-Ford,1,1,0
+Stebro,LDS,1,1,0
+Stebro,"Alfa Romeo",1,1,0
+Lotus-Climax,Cooper,1,1,0
+Lotus-Climax,ENB,1,1,0
+Lotus-Climax,"Cooper-Alfa Romeo",1,1,0
+Cooper-Climax,Cooper,1,1,0
+Cooper-Climax,ENB,1,1,0
+Cooper-Climax,"Cooper-Alfa Romeo",1,1,0
+Porsche,ENB,1,1,0
+Porsche,"Cooper-Alfa Romeo",1,1,0
+BRM,ENB,1,1,0
+BRM,"Cooper-Alfa Romeo",1,1,0
+Lola,Emeryson,1,1,0
+Lola,"De Tomaso-Alfa Romeo",1,1,0
+Lola,Cooper,1,1,0
+Lola,ENB,1,1,0
+Lola,"De Tomaso-Osca",1,1,0
+Lola,"Cooper-Alfa Romeo",1,1,0
+Ferrari,ENB,1,1,0
+Ferrari,"Cooper-Alfa Romeo",1,1,0
+Lotus-BRM,Emeryson,1,1,0
+Lotus-BRM,"De Tomaso-Alfa Romeo",1,1,0
+Lotus-BRM,Cooper,1,1,0
+Lotus-BRM,ENB,1,1,0
+Lotus-BRM,"De Tomaso-Osca",1,1,0
+Lotus-BRM,"Cooper-Alfa Romeo",1,1,0
+Brabham,Emeryson,1,1,0
+Brabham,"De Tomaso-Alfa Romeo",1,1,0
+Brabham,Cooper,1,1,0
+Brabham,ENB,1,1,0
+Brabham,"De Tomaso-Osca",1,1,0
+Brabham,"Cooper-Alfa Romeo",1,1,0
+Lotus-Climax,JBW,1,1,0
+Lotus-Climax,Ferguson,1,1,0
+Lotus-Climax,MBM,1,1,0
+Cooper-Climax,Ferguson,1,1,0
+Cooper-Climax,MBM,1,1,0
+Cooper-Maserati,Emeryson,1,1,0
+Cooper-Maserati,"De Tomaso-Osca",1,1,0
+Cooper-Maserati,Ferguson,1,1,0
+Cooper-Maserati,MBM,1,1,0
+Cooper-Maserati,"De Tomaso-Alfa Romeo",1,1,0
+Porsche,Ferguson,1,1,0
+Porsche,MBM,1,1,0
+BRM,Ferguson,1,1,0
+BRM,MBM,1,1,0
+Ferrari,Ferguson,1,1,0
+Ferrari,MBM,1,1,0
+Cooper-Climax,Behra-Porsche,1,1,0
+Cooper-Climax,Cooper-Castellotti,1,1,0
+Cooper-Climax,Scarab,1,1,0
+Cooper-Climax,Ewing,1,1,0
+Cooper-Climax,Meskowski,1,1,0
+Cooper-Climax,Trevis,1,1,0
+Cooper-Maserati,Behra-Porsche,1,1,0
+Cooper-Maserati,Cooper-Castellotti,1,1,0
+Cooper-Maserati,Scarab,1,1,0
+Cooper-Maserati,Ewing,1,1,0
+Cooper-Maserati,Meskowski,1,1,0
+Cooper-Maserati,Trevis,1,1,0
+Behra-Porsche,Maserati,1,1,0
+Behra-Porsche,JBW,1,1,0
+Behra-Porsche,Ewing,1,1,0
+Behra-Porsche,Christensen,1,1,0
+Behra-Porsche,Kuzma,1,1,0
+Behra-Porsche,"Aston Martin",1,1,0
+Behra-Porsche,Vanwall,1,1,0
+BRM,Behra-Porsche,1,1,0
+BRM,Cooper-Castellotti,1,1,0
+BRM,Scarab,1,1,0
+BRM,Ewing,1,1,0
+BRM,Meskowski,1,1,0
+"Team Lotus",Behra-Porsche,1,1,0
+"Team Lotus",Cooper-Castellotti,1,1,0
+"Team Lotus",Scarab,1,1,0
+"Team Lotus",Ewing,1,1,0
+"Team Lotus",Meskowski,1,1,0
+"Team Lotus",Trevis,1,1,0
+Ferrari,Behra-Porsche,1,1,0
+Ferrari,Cooper-Castellotti,1,1,0
+Ferrari,Scarab,1,1,0
+Ferrari,Meskowski,1,1,0
+Cooper-Castellotti,Maserati,1,1,0
+Cooper-Castellotti,Behra-Porsche,1,1,0
+Cooper-Castellotti,Scarab,1,1,0
+Cooper-Castellotti,JBW,1,1,0
+Cooper-Castellotti,Ewing,1,1,0
+Cooper-Castellotti,Christensen,1,1,0
+Cooper-Castellotti,Kuzma,1,1,0
+Cooper-Castellotti,"Kurtis Kraft",1,1,0
+Cooper-Castellotti,Meskowski,1,1,0
+Cooper-Castellotti,Trevis,1,1,0
+Cooper-Castellotti,Lesovsky,1,1,0
+Cooper-Castellotti,"Aston Martin",1,1,0
+Cooper-Castellotti,Vanwall,1,1,0
+Scarab,Maserati,1,1,0
+Scarab,JBW,1,1,0
+Scarab,Ewing,1,1,0
+Scarab,Christensen,1,1,0
+Scarab,Kuzma,1,1,0
+Scarab,"Aston Martin",1,1,0
+Scarab,Vanwall,1,1,0
+Meskowski,Maserati,1,1,0
+Meskowski,Behra-Porsche,1,1,0
+Meskowski,Scarab,1,1,0
+Meskowski,JBW,1,1,0
+Meskowski,Ewing,1,1,0
+Meskowski,Christensen,1,1,0
+Meskowski,Kuzma,1,1,0
+Meskowski,"Kurtis Kraft",1,1,0
+Meskowski,"Aston Martin",1,1,0
+Meskowski,Vanwall,1,1,0
+Trevis,Behra-Porsche,1,1,0
+Trevis,Scarab,1,1,0
+Trevis,JBW,1,1,0
+Trevis,Ewing,1,1,0
+Trevis,Christensen,1,1,0
+Trevis,Meskowski,1,1,0
+Trevis,"Aston Martin",1,1,0
+Lesovsky,Behra-Porsche,1,1,0
+Lesovsky,Scarab,1,1,0
+Lesovsky,Meskowski,1,1,0
+Phillips,Behra-Porsche,1,1,0
+Phillips,Scarab,1,1,0
+Phillips,Ewing,1,1,0
+Phillips,Meskowski,1,1,0
+Epperly,Behra-Porsche,1,1,0
+Epperly,Cooper-Castellotti,1,1,0
+Epperly,Scarab,1,1,0
+Epperly,Ewing,1,1,0
+Epperly,Meskowski,1,1,0
+Watson,Behra-Porsche,1,1,0
+Watson,Cooper-Castellotti,1,1,0
+Watson,Scarab,1,1,0
+Watson,Meskowski,1,1,0
+Porsche,Behra-Porsche,1,1,0
+Porsche,Cooper-Castellotti,1,1,0
+Porsche,Scarab,1,1,0
+Porsche,Ewing,1,1,0
+Porsche,Meskowski,1,1,0
+Porsche,Trevis,1,1,0
+Cooper-Climax,Sutton,1,1,0
+Cooper-Climax,Elder,1,1,0
+Cooper-Climax,Dunn,1,1,0
+Cooper-Climax,Moore,1,1,0
+Cooper-Climax,Cooper-Borgward,1,1,0
+Cooper-Climax,Fry,1,1,0
+Cooper-Climax,Cooper-OSCA,1,1,0
+Cooper-Climax,Connaught,1,1,0
+Cooper-Climax,Tec-Mec,1,1,0
+Cooper-Maserati,Sutton,1,1,0
+Cooper-Maserati,Elder,1,1,0
+Cooper-Maserati,Dunn,1,1,0
+Cooper-Maserati,Moore,1,1,0
+Cooper-Maserati,Cooper-Borgward,1,1,0
+Cooper-Maserati,Fry,1,1,0
+Cooper-Maserati,Cooper-OSCA,1,1,0
+Cooper-Maserati,Connaught,1,1,0
+Cooper-Maserati,Tec-Mec,1,1,0
+Maserati,Sutton,1,1,0
+Maserati,Elder,1,1,0
+Maserati,Cooper-Borgward,1,1,0
+Maserati,Fry,1,1,0
+Maserati,Cooper-OSCA,1,1,0
+Maserati,Tec-Mec,1,1,0
+Porsche,Sutton,1,1,0
+Porsche,Elder,1,1,0
+Porsche,Moore,1,1,0
+Porsche,Cooper-Borgward,1,1,0
+Porsche,Fry,1,1,0
+Porsche,Cooper-OSCA,1,1,0
+Porsche,Tec-Mec,1,1,0
+BRM,Sutton,1,1,0
+BRM,Elder,1,1,0
+BRM,Cooper-Borgward,1,1,0
+BRM,Fry,1,1,0
+BRM,Cooper-OSCA,1,1,0
+BRM,Tec-Mec,1,1,0
+"Team Lotus",Sutton,1,1,0
+"Team Lotus",Elder,1,1,0
+"Team Lotus",Moore,1,1,0
+"Team Lotus",Cooper-Borgward,1,1,0
+"Team Lotus",Fry,1,1,0
+"Team Lotus",Cooper-OSCA,1,1,0
+"Team Lotus",Tec-Mec,1,1,0
+Ferrari,Sutton,1,1,0
+Ferrari,Elder,1,1,0
+Ferrari,Cooper-Borgward,1,1,0
+Ferrari,Fry,1,1,0
+Ferrari,Cooper-OSCA,1,1,0
+Ferrari,Tec-Mec,1,1,0
+Kuzma,Sutton,1,1,0
+Kuzma,Elder,1,1,0
+Kuzma,Fry,1,1,0
+Kuzma,Cooper-OSCA,1,1,0
+Kuzma,Tec-Mec,1,1,0
+"Kurtis Kraft",Sutton,1,1,0
+"Kurtis Kraft",Elder,1,1,0
+"Kurtis Kraft",Cooper-Borgward,1,1,0
+"Kurtis Kraft",Fry,1,1,0
+"Kurtis Kraft",Cooper-OSCA,1,1,0
+"Kurtis Kraft",Tec-Mec,1,1,0
+Lesovsky,Sutton,1,1,0
+Lesovsky,Elder,1,1,0
+Lesovsky,Cooper-Borgward,1,1,0
+Lesovsky,Fry,1,1,0
+Lesovsky,Cooper-OSCA,1,1,0
+Lesovsky,Tec-Mec,1,1,0
+Epperly,Sutton,1,1,0
+Epperly,Elder,1,1,0
+Epperly,Moore,1,1,0
+Epperly,Cooper-Borgward,1,1,0
+Epperly,Fry,1,1,0
+Epperly,Cooper-OSCA,1,1,0
+Epperly,Tec-Mec,1,1,0
+Watson,Sutton,1,1,0
+Watson,Elder,1,1,0
+Watson,Cooper-Borgward,1,1,0
+Watson,Fry,1,1,0
+Watson,Cooper-OSCA,1,1,0
+Watson,Tec-Mec,1,1,0
+"Aston Martin",Sutton,1,1,0
+"Aston Martin",Elder,1,1,0
+"Aston Martin",Dunn,1,1,0
+"Aston Martin",Moore,1,1,0
+"Aston Martin",Cooper-Borgward,1,1,0
+"Aston Martin",Fry,1,1,0
+"Aston Martin",Cooper-OSCA,1,1,0
+"Aston Martin",Connaught,1,1,0
+"Aston Martin",Tec-Mec,1,1,0
+Cooper-Borgward,Sutton,1,1,0
+Cooper-Borgward,Elder,1,1,0
+Cooper-Borgward,Dunn,1,1,0
+Cooper-Borgward,Moore,1,1,0
+Cooper-Borgward,Christensen,1,1,0
+Cooper-Borgward,Phillips,1,1,0
+Cooper-Borgward,Fry,1,1,0
+Cooper-Borgward,Vanwall,1,1,0
+Cooper-Borgward,JBW,1,1,0
+Cooper-Borgward,Cooper-OSCA,1,1,0
+Cooper-Borgward,Connaught,1,1,0
+Cooper-Borgward,Tec-Mec,1,1,0
+Vanwall,OSCA,1,1,0
+"Team Lotus",OSCA,1,1,0
+Porsche,OSCA,1,1,0
+Phillips,OSCA,1,1,0
+Epperly,OSCA,1,1,0
+Maserati,Bugatti,1,1,0
+Maserati,Emeryson,1,1,0
+Ferrari,Bugatti,1,1,0
+Gordini,BRM,1,1,0
+Gordini,Bugatti,1,1,0
+Gordini,Emeryson,1,1,0
+Vanwall,Bugatti,1,1,0
+Vanwall,Emeryson,1,1,0
+Stevens,BRM,1,1,0
+Stevens,Bugatti,1,1,0
+Stevens,Emeryson,1,1,0
+Kuzma,Bugatti,1,1,0
+Kuzma,Emeryson,1,1,0
+"Kurtis Kraft",Bugatti,1,1,0
+"Kurtis Kraft",Emeryson,1,1,0
+Lesovsky,Bugatti,1,1,0
+Lesovsky,Emeryson,1,1,0
+Phillips,Bugatti,1,1,0
+Phillips,Emeryson,1,1,0
+Watson,Bugatti,1,1,0
+Watson,Emeryson,1,1,0
+Connaught,Bugatti,1,1,0
+Connaught,Emeryson,1,1,0
+Lancia,Trevis,1,1,0
+Lancia,Epperly,1,1,0
+Lancia,Arzani-Volpini,1,1,0
+Mercedes,Trevis,1,1,0
+Mercedes,Epperly,1,1,0
+Mercedes,Arzani-Volpini,1,1,0
+Gordini,Epperly,1,1,0
+Gordini,Arzani-Volpini,1,1,0
+Maserati,Arzani-Volpini,1,1,0
+Ferrari,Arzani-Volpini,1,1,0
+Vanwall,Arzani-Volpini,1,1,0
+Kuzma,Arzani-Volpini,1,1,0
+"Kurtis Kraft",Arzani-Volpini,1,1,0
+Gordini,Nichels,1,1,0
+Gordini,Klenk,1,1,0
+Maserati,Klenk,1,1,0
+Ferrari,Klenk,1,1,0
+Stevens,Klenk,1,1,0
+Kuzma,Nichels,1,1,0
+Kuzma,Klenk,1,1,0
+"Kurtis Kraft",Klenk,1,1,0
+Phillips,Bromme,1,1,0
+Phillips,Nichels,1,1,0
+Phillips,Klenk,1,1,0
+Mercedes,Bromme,1,1,0
+Mercedes,Nichels,1,1,0
+Mercedes,Klenk,1,1,0
+Vanwall,Bromme,1,1,0
+Vanwall,Nichels,1,1,0
+Vanwall,Klenk,1,1,0
+Cooper,Klenk,1,1,0
+Gordini,"Del Roy",1,1,0
+Gordini,Turner,1,1,0
+Gordini,EMW,1,1,0
+Maserati,"Del Roy",1,1,0
+Maserati,Turner,1,1,0
+Maserati,EMW,1,1,0
+Cooper,"Del Roy",1,1,0
+Cooper,Turner,1,1,0
+Cooper,EMW,1,1,0
+Ferrari,"Del Roy",1,1,0
+Ferrari,Turner,1,1,0
+Ferrari,EMW,1,1,0
+Brawn,"Force India",1,1,0
+Brawn,"Red Bull",1,1,0
+Brawn,Toyota,1,1,0
+Brawn,Ferrari,1,1,0
+Brawn,"Toro Rosso",1,1,0
+Brawn,Renault,1,1,0
+Brawn,Williams,1,1,0
+Brawn,"BMW Sauber",1,1,0
+Brawn,McLaren,1,1,0
+Honda,"Force India",1,1,0
+"Force India","Super Aguri",1,1,0
+Honda,Spyker,1,1,0
+"Red Bull",Spyker,1,1,0
+"Super Aguri",Spyker,1,1,0
+Toyota,Spyker,1,1,0
+Ferrari,Spyker,1,1,0
+"Toro Rosso",Spyker,1,1,0
+Renault,Spyker,1,1,0
+Williams,Spyker,1,1,0
+"BMW Sauber",Spyker,1,1,0
+McLaren,Spyker,1,1,0
+MF1,"Super Aguri",1,1,0
+MF1,"Spyker MF1",1,1,0
+Honda,MF1,1,1,0
+Honda,"Spyker MF1",1,1,0
+"Red Bull",MF1,1,1,0
+"Red Bull","Spyker MF1",1,1,0
+"Super Aguri","Spyker MF1",1,1,0
+Toyota,MF1,1,1,0
+Toyota,"Spyker MF1",1,1,0
+Ferrari,MF1,1,1,0
+Ferrari,"Spyker MF1",1,1,0
+"Toro Rosso",MF1,1,1,0
+"Toro Rosso","Spyker MF1",1,1,0
+Renault,MF1,1,1,0
+Renault,"Spyker MF1",1,1,0
+Williams,MF1,1,1,0
+Williams,"Spyker MF1",1,1,0
+"BMW Sauber",MF1,1,1,0
+"BMW Sauber","Spyker MF1",1,1,0
+McLaren,MF1,1,1,0
+McLaren,"Spyker MF1",1,1,0
+"Red Bull",Minardi,1,1,0
+"Red Bull",Jordan,1,1,0
+"Red Bull",BAR,1,1,0
+Toyota,Arrows,1,1,0
+Stewart,BAR,1,1,0
+Stewart,Lola,1,1,0
+Prost,Lola,1,1,0
+Forti,Simtek,1,1,0
+Forti,Pacific,1,1,0
+Larrousse,Simtek,1,1,0
+Larrousse,Pacific,1,1,0
+"Team Lotus",Simtek,1,1,0
+"Team Lotus",Pacific,1,1,0
+March,Fondmetal,1,1,0
+March,"Andrea Moda",1,1,0
+Fondmetal,"Andrea Moda",1,1,0
+Dallara,"Andrea Moda",1,1,0
+Larrousse,"Andrea Moda",1,1,0
+"Team Lotus","Andrea Moda",1,1,0
+Footwork,March,1,1,0
+Footwork,"Andrea Moda",1,1,0
+Ligier,"Andrea Moda",1,1,0
+Tyrrell,"Andrea Moda",1,1,0
+Benetton,"Andrea Moda",1,1,0
+Minardi,"Andrea Moda",1,1,0
+Jordan,March,1,1,0
+Jordan,"Andrea Moda",1,1,0
+Ferrari,"Andrea Moda",1,1,0
+Williams,"Andrea Moda",1,1,0
+McLaren,"Andrea Moda",1,1,0
+"Leyton House",Lambo,1,1,0
+"Leyton House",Fondmetal,1,1,0
+"Leyton House",Footwork,1,1,0
+"Leyton House",Lola,1,1,0
+Lambo,Coloni,1,1,0
+Lambo,AGS,1,1,0
+Lambo,Fondmetal,1,1,0
+Lambo,Footwork,1,1,0
+AGS,Fondmetal,1,1,0
+AGS,Footwork,1,1,0
+Fondmetal,Coloni,1,1,0
+Dallara,Lambo,1,1,0
+Dallara,Lola,1,1,0
+Brabham,Lambo,1,1,0
+"Team Lotus",Lambo,1,1,0
+Footwork,Coloni,1,1,0
+Ligier,Lambo,1,1,0
+Tyrrell,Lambo,1,1,0
+Benetton,Lambo,1,1,0
+Minardi,Lambo,1,1,0
+Jordan,Coloni,1,1,0
+Jordan,"Leyton House",1,1,0
+Jordan,Lambo,1,1,0
+Jordan,AGS,1,1,0
+Ferrari,Lambo,1,1,0
+Williams,Lambo,1,1,0
+McLaren,Lambo,1,1,0
+Lola,Coloni,1,1,0
+Lola,Lambo,1,1,0
+Lola,Fondmetal,1,1,0
+Onyx,Life,1,1,0
+"Leyton House",Life,1,1,0
+"Leyton House",Onyx,1,1,0
+"Leyton House",Osella,1,1,0
+"Leyton House","Euro Brun",1,1,0
+"Leyton House",Arrows,1,1,0
+AGS,Life,1,1,0
+Dallara,Life,1,1,0
+Brabham,Life,1,1,0
+Larrousse,Life,1,1,0
+"Team Lotus",Life,1,1,0
+Ligier,Life,1,1,0
+Tyrrell,Life,1,1,0
+Benetton,Life,1,1,0
+Arrows,Life,1,1,0
+Minardi,Life,1,1,0
+Ferrari,Life,1,1,0
+Williams,Life,1,1,0
+McLaren,Life,1,1,0
+Onyx,Zakspeed,1,1,0
+Onyx,Rial,1,1,0
+March,Onyx,1,1,0
+Brabham,Rial,1,1,0
+"Alfa Romeo",Minardi,1,1,0
+"Alfa Romeo",Zakspeed,1,1,0
+RAM,Zakspeed,1,1,0
+RAM,Lola,1,1,0
+Minardi,Spirit,1,1,0
+Minardi,RAM,1,1,0
+Minardi,Toleman,1,1,0
+Renault,Zakspeed,1,1,0
+Renault,Lola,1,1,0
+Theodore,RAM,1,1,0
+Theodore,Spirit,1,1,0
+"Brabham-Alfa Romeo",Merzario,1,1,0
+"Brabham-Alfa Romeo",ATS,1,1,0
+"Brabham-Alfa Romeo",Kauhsen,1,1,0
+"Brabham-Alfa Romeo","Alfa Romeo",1,1,0
+"Brabham-Alfa Romeo",Rebaque,1,1,0
+Wolf,Kauhsen,1,1,0
+Wolf,"Alfa Romeo",1,1,0
+Wolf,Rebaque,1,1,0
+Shadow,Kauhsen,1,1,0
+Shadow,Rebaque,1,1,0
+Fittipaldi,Kauhsen,1,1,0
+Fittipaldi,Rebaque,1,1,0
+ATS,Kauhsen,1,1,0
+ATS,Rebaque,1,1,0
+ATS,Brabham-Ford,1,1,0
+"Team Lotus",Kauhsen,1,1,0
+"Team Lotus",Rebaque,1,1,0
+Ligier,Kauhsen,1,1,0
+Ligier,Rebaque,1,1,0
+Tyrrell,Kauhsen,1,1,0
+Tyrrell,Rebaque,1,1,0
+Arrows,"Brabham-Alfa Romeo",1,1,0
+Arrows,Kauhsen,1,1,0
+Arrows,Rebaque,1,1,0
+Arrows,Brabham-Ford,1,1,0
+Ferrari,Kauhsen,1,1,0
+Ferrari,Rebaque,1,1,0
+Renault,"Brabham-Alfa Romeo",1,1,0
+Renault,Kauhsen,1,1,0
+Renault,Rebaque,1,1,0
+Renault,Brabham-Ford,1,1,0
+Williams,Kauhsen,1,1,0
+Williams,Rebaque,1,1,0
+McLaren,Kauhsen,1,1,0
+McLaren,Rebaque,1,1,0
+Brabham-Ford,Merzario,1,1,0
+Brabham-Ford,Kauhsen,1,1,0
+Brabham-Ford,Rebaque,1,1,0
+Surtees,Merzario,1,1,0
+Surtees,Theodore,1,1,0
+Surtees,ATS,1,1,0
+Surtees,Martini,1,1,0
+Wolf,Theodore,1,1,0
+Wolf,Martini,1,1,0
+Shadow,Theodore,1,1,0
+Shadow,Martini,1,1,0
+Ensign,Martini,1,1,0
+Fittipaldi,Martini,1,1,0
+ATS,Hesketh,1,1,0
+ATS,Martini,1,1,0
+Brabham,Merzario,1,1,0
+Brabham,Martini,1,1,0
+"Team Lotus",Martini,1,1,0
+Ligier,Martini,1,1,0
+Tyrrell,Martini,1,1,0
+Ferrari,Martini,1,1,0
+Williams,Martini,1,1,0
+McLaren,Martini,1,1,0
+Arrows,Hesketh,1,1,0
+Arrows,Surtees,1,1,0
+Arrows,Martini,1,1,0
+Martini,Hesketh,1,1,0
+Martini,Merzario,1,1,0
+Martini,Theodore,1,1,0
+Renault,Martini,1,1,0
+Surtees,LEC,1,1,0
+Surtees,McGuire,1,1,0
+Surtees,Apollon,1,1,0
+Wolf,LEC,1,1,0
+Wolf,McGuire,1,1,0
+Wolf,Apollon,1,1,0
+Shadow,LEC,1,1,0
+Shadow,McGuire,1,1,0
+Shadow,Apollon,1,1,0
+Ensign,LEC,1,1,0
+Ensign,McGuire,1,1,0
+Ensign,Apollon,1,1,0
+Fittipaldi,LEC,1,1,0
+Fittipaldi,McGuire,1,1,0
+Fittipaldi,Apollon,1,1,0
+March,LEC,1,1,0
+March,McGuire,1,1,0
+March,Apollon,1,1,0
+Brabham,LEC,1,1,0
+Brabham,McGuire,1,1,0
+Brabham,Boro,1,1,0
+Brabham,Apollon,1,1,0
+Brabham,Kojima,1,1,0
+"Team Lotus",LEC,1,1,0
+"Team Lotus",McGuire,1,1,0
+"Team Lotus",Apollon,1,1,0
+Ligier,LEC,1,1,0
+Ligier,McGuire,1,1,0
+Ligier,Apollon,1,1,0
+Tyrrell,LEC,1,1,0
+Tyrrell,McGuire,1,1,0
+Tyrrell,Apollon,1,1,0
+Ferrari,LEC,1,1,0
+Ferrari,McGuire,1,1,0
+Ferrari,Apollon,1,1,0
+McLaren,LEC,1,1,0
+McLaren,McGuire,1,1,0
+McLaren,Apollon,1,1,0
+Penske,LEC,1,1,0
+Penske,McGuire,1,1,0
+Penske,Renault,1,1,0
+Penske,Apollon,1,1,0
+Hesketh,LEC,1,1,0
+Hesketh,McGuire,1,1,0
+Hesketh,Apollon,1,1,0
+"Brabham-Alfa Romeo",BRM,1,1,0
+"Brabham-Alfa Romeo",Parnelli,1,1,0
+"Brabham-Alfa Romeo",Hesketh,1,1,0
+"Brabham-Alfa Romeo",Surtees,1,1,0
+"Brabham-Alfa Romeo",Boro,1,1,0
+"Brabham-Alfa Romeo",Maki,1,1,0
+"Brabham-Alfa Romeo",Kojima,1,1,0
+Penske,"Brabham-Alfa Romeo",1,1,0
+Penske,Brabham-Ford,1,1,0
+Wolf,Parnelli,1,1,0
+Wolf,Maki,1,1,0
+March,"Brabham-Alfa Romeo",1,1,0
+March,Brabham-Ford,1,1,0
+Ligier,Parnelli,1,1,0
+Ligier,Maki,1,1,0
+Williams,Kojima,1,1,0
+Parnelli,Brabham-Ford,1,1,0
+Parnelli,Boro,1,1,0
+Parnelli,Kojima,1,1,0
+Hesketh,Brabham-Ford,1,1,0
+Surtees,Brabham-Ford,1,1,0
+Boro,Williams,1,1,0
+Boro,Brabham-Ford,1,1,0
+Boro,Maki,1,1,0
+Shadow-Ford,Parnelli,1,1,0
+Shadow-Ford,Penske,1,1,0
+Shadow-Ford,BRM,1,1,0
+Shadow-Ford,Surtees,1,1,0
+Shadow-Ford,Fittipaldi,1,1,0
+Shadow-Ford,"Team Lotus",1,1,0
+Shadow-Ford,Lola,1,1,0
+Shadow-Ford,Williams,1,1,0
+Shadow-Ford,"Embassy Hill",1,1,0
+Shadow-Ford,Ensign,1,1,0
+Shadow-Ford,Maki,1,1,0
+Shadow-Ford,Lyncar,1,1,0
+Shadow-Ford,Shadow-Matra,1,1,0
+Parnelli,Shadow-Matra,1,1,0
+Penske,Shadow-Matra,1,1,0
+BRM,Shadow-Matra,1,1,0
+Hesketh,Shadow-Ford,1,1,0
+Hesketh,"Embassy Hill",1,1,0
+Hesketh,Shadow-Matra,1,1,0
+Surtees,Shadow-Matra,1,1,0
+Fittipaldi,Lyncar,1,1,0
+Fittipaldi,Shadow-Matra,1,1,0
+March,Shadow-Ford,1,1,0
+March,"Embassy Hill",1,1,0
+March,Shadow-Matra,1,1,0
+Brabham,Shadow-Ford,1,1,0
+Brabham,"Embassy Hill",1,1,0
+Brabham,Shadow-Matra,1,1,0
+"Team Lotus","Embassy Hill",1,1,0
+"Team Lotus",Shadow-Matra,1,1,0
+Lola,Fittipaldi,1,1,0
+Lola,Shadow-Matra,1,1,0
+Tyrrell,Shadow-Ford,1,1,0
+Tyrrell,"Embassy Hill",1,1,0
+Tyrrell,Shadow-Matra,1,1,0
+Ferrari,Shadow-Ford,1,1,0
+Ferrari,"Embassy Hill",1,1,0
+Ferrari,Shadow-Matra,1,1,0
+Williams,Lyncar,1,1,0
+Williams,Shadow-Matra,1,1,0
+McLaren,Shadow-Ford,1,1,0
+McLaren,"Embassy Hill",1,1,0
+McLaren,Shadow-Matra,1,1,0
+"Embassy Hill",Parnelli,1,1,0
+"Embassy Hill",Penske,1,1,0
+"Embassy Hill",BRM,1,1,0
+"Embassy Hill",Surtees,1,1,0
+"Embassy Hill",Fittipaldi,1,1,0
+"Embassy Hill",Lola,1,1,0
+"Embassy Hill",Williams,1,1,0
+"Embassy Hill",Ensign,1,1,0
+"Embassy Hill",Maki,1,1,0
+"Embassy Hill",Lyncar,1,1,0
+"Embassy Hill",Shadow-Matra,1,1,0
+Ensign,Shadow-Matra,1,1,0
+"Iso Marlboro",Amon,1,1,0
+"Iso Marlboro",Trojan,1,1,0
+"Iso Marlboro",Token,1,1,0
+"Iso Marlboro",Lyncar,1,1,0
+"Iso Marlboro",Maki,1,1,0
+"Iso Marlboro",Parnelli,1,1,0
+"Iso Marlboro",Penske,1,1,0
+BRM,Amon,1,1,0
+BRM,Trojan,1,1,0
+BRM,Token,1,1,0
+Surtees,Amon,1,1,0
+Surtees,Trojan,1,1,0
+Surtees,Token,1,1,0
+Shadow,Lola,1,1,0
+Shadow,Amon,1,1,0
+Shadow,Trojan,1,1,0
+Shadow,Token,1,1,0
+Shadow,Lyncar,1,1,0
+March,Amon,1,1,0
+March,Trojan,1,1,0
+March,Token,1,1,0
+Brabham,Amon,1,1,0
+Brabham,Trojan,1,1,0
+Brabham,Token,1,1,0
+"Team Lotus",Amon,1,1,0
+"Team Lotus",Trojan,1,1,0
+"Team Lotus",Token,1,1,0
+Lola,"Iso Marlboro",1,1,0
+Lola,Amon,1,1,0
+Lola,Trojan,1,1,0
+Lola,Token,1,1,0
+Tyrrell,Amon,1,1,0
+Tyrrell,Trojan,1,1,0
+Tyrrell,Token,1,1,0
+Ferrari,Amon,1,1,0
+Ferrari,Trojan,1,1,0
+Ferrari,Token,1,1,0
+McLaren,Amon,1,1,0
+McLaren,Trojan,1,1,0
+McLaren,Token,1,1,0
+Hesketh,"Iso Marlboro",1,1,0
+Hesketh,Amon,1,1,0
+Hesketh,Trojan,1,1,0
+Hesketh,Token,1,1,0
+Trojan,Amon,1,1,0
+Trojan,Token,1,1,0
+Trojan,Ensign,1,1,0
+Trojan,Lyncar,1,1,0
+Trojan,Maki,1,1,0
+Trojan,Penske,1,1,0
+Parnelli,Amon,1,1,0
+Parnelli,Trojan,1,1,0
+Parnelli,Token,1,1,0
+"Iso Marlboro",Tecno,1,1,0
+Shadow,Tecno,1,1,0
+Tecno,Ensign,1,1,0
+Matra,Tecno,1,1,0
+Matra,Politoys,1,1,0
+Matra,Connew,1,1,0
+BRM,Politoys,1,1,0
+BRM,Connew,1,1,0
+Surtees,Politoys,1,1,0
+Surtees,Connew,1,1,0
+March,Politoys,1,1,0
+March,Connew,1,1,0
+Brabham,Politoys,1,1,0
+Brabham,Connew,1,1,0
+"Team Lotus",Politoys,1,1,0
+"Team Lotus",Connew,1,1,0
+Tyrrell,Politoys,1,1,0
+Tyrrell,Connew,1,1,0
+Ferrari,Politoys,1,1,0
+Ferrari,Connew,1,1,0
+McLaren,Politoys,1,1,0
+McLaren,Connew,1,1,0
+March-Ford,"March-Alfa Romeo",1,1,0
+March-Ford,Lotus-Ford,1,1,0
+March-Ford,Matra,1,1,0
+March-Ford,Surtees,1,1,0
+March-Ford,Brabham,1,1,0
+March-Ford,McLaren,1,1,0
+March-Ford,"Lotus-Pratt &amp; Whitney",1,1,0
+March-Ford,Bellasi,1,1,0
+Lotus-Ford,"March-Alfa Romeo",1,1,0
+Lotus-Ford,Surtees,1,1,0
+Lotus-Ford,"Lotus-Pratt &amp; Whitney",1,1,0
+Lotus-Ford,Bellasi,1,1,0
+Matra,"March-Alfa Romeo",1,1,0
+Matra,"Lotus-Pratt &amp; Whitney",1,1,0
+BRM,March-Ford,1,1,0
+BRM,"March-Alfa Romeo",1,1,0
+BRM,"Lotus-Pratt &amp; Whitney",1,1,0
+Surtees,"March-Alfa Romeo",1,1,0
+Surtees,"Lotus-Pratt &amp; Whitney",1,1,0
+Brabham,"March-Alfa Romeo",1,1,0
+Brabham,"Lotus-Pratt &amp; Whitney",1,1,0
+Tyrrell,March-Ford,1,1,0
+Tyrrell,"March-Alfa Romeo",1,1,0
+Tyrrell,Lotus-Ford,1,1,0
+Tyrrell,"Lotus-Pratt &amp; Whitney",1,1,0
+Ferrari,March-Ford,1,1,0
+Ferrari,"March-Alfa Romeo",1,1,0
+Ferrari,"Lotus-Pratt &amp; Whitney",1,1,0
+McLaren,"March-Alfa Romeo",1,1,0
+McLaren,"Lotus-Pratt &amp; Whitney",1,1,0
+McLaren,Bellasi,1,1,0
+"Lotus-Pratt &amp; Whitney","March-Alfa Romeo",1,1,0
+"Lotus-Pratt &amp; Whitney",Bellasi,1,1,0
+McLaren-Ford,"De Tomaso",1,1,0
+McLaren-Ford,Brabham,1,1,0
+McLaren-Ford,"McLaren-Alfa Romeo",1,1,0
+McLaren-Ford,Bellasi,1,1,0
+McLaren-Ford,Surtees,1,1,0
+McLaren-Ford,Tyrrell,1,1,0
+"De Tomaso",Bellasi,1,1,0
+"De Tomaso",Tyrrell,1,1,0
+Matra,"De Tomaso",1,1,0
+Matra,"McLaren-Alfa Romeo",1,1,0
+BRM,"McLaren-Alfa Romeo",1,1,0
+March,McLaren-Ford,1,1,0
+March,"De Tomaso",1,1,0
+March,"McLaren-Alfa Romeo",1,1,0
+March,Bellasi,1,1,0
+Brabham,"McLaren-Alfa Romeo",1,1,0
+"Team Lotus",McLaren-Ford,1,1,0
+"Team Lotus","McLaren-Alfa Romeo",1,1,0
+"Team Lotus",Bellasi,1,1,0
+Ferrari,"McLaren-Alfa Romeo",1,1,0
+"McLaren-Alfa Romeo","De Tomaso",1,1,0
+"McLaren-Alfa Romeo",Bellasi,1,1,0
+"McLaren-Alfa Romeo",Tyrrell,1,1,0
+Surtees,"De Tomaso",1,1,0
+Surtees,"McLaren-Alfa Romeo",1,1,0
+Matra-Ford,Brabham-Ford,1,1,0
+Matra-Ford,BRM-Ford,1,1,0
+Matra-Ford,Eagle-Climax,1,1,0
+Brabham-Repco,BRM-Ford,1,1,0
+McLaren-Ford,BRM-Ford,1,1,0
+Brabham-Ford,BRM-Ford,1,1,0
+Lotus-Ford,BRM-Ford,1,1,0
+BRM,BRM-Ford,1,1,0
+Ferrari,BRM-Ford,1,1,0
+Cooper-Maserati,BRM-Ford,1,1,0
+BRM-Ford,Eagle-Climax,1,1,0
+BRM-Ford,Brabham-Climax,1,1,0
+Sauber,Ferrari,23,0,23
+Minardi,Ferrari,21,0,21
+Minardi,Williams,21,0,21
+Minardi,McLaren,21,0,21
+Arrows,Ferrari,19,0,19
+Arrows,McLaren,19,0,19
+Minardi,Benetton,16,0,16
+Jordan,Ferrari,15,0,15
+Jordan,McLaren,15,0,15
+Williams,Mercedes,15,0,15
+"Toro Rosso",Ferrari,14,0,14
+Minardi,Sauber,13,0,13
+Tyrrell,Benetton,13,0,13
+March,McLaren,12,0,12
+"Alfa Romeo",McLaren,12,0,12
+"Force India","Red Bull",11,0,11
+"Force India",Ferrari,11,0,11
+Sauber,"Red Bull",11,0,11
+Lola,Ferrari,11,0,11
+Osella,"Team Lotus",11,0,11
+Osella,Ligier,11,0,11
+Osella,Arrows,11,0,11
+Osella,Ferrari,11,0,11
+Osella,Williams,11,0,11
+Osella,McLaren,11,0,11
+"Kurtis Kraft",Ferrari,11,0,11
+Kuzma,Maserati,10,0,10
+Kuzma,Ferrari,10,0,10
+Kuzma,"Kurtis Kraft",10,0,10
+Arrows,Benetton,10,0,10
+Osella,Brabham,10,0,10
+Sauber,Mercedes,10,0,10
+"Toro Rosso",Mercedes,10,0,10
+Ensign,"Team Lotus",10,0,10
+Ensign,Tyrrell,10,0,10
+Ensign,Ferrari,10,0,10
+Ensign,McLaren,10,0,10
+Sauber,Renault,9,0,9
+"Force India",Mercedes,9,0,9
+"Alfa Romeo",Renault,9,0,9
+Surtees,Ferrari,9,0,9
+"Haas F1 Team",Mercedes,9,0,9
+"Haas F1 Team","Red Bull",9,0,9
+"Haas F1 Team",Ferrari,9,0,9
+Cooper,Ferrari,9,0,9
+Lesovsky,Ferrari,9,0,9
+Watson,Ferrari,9,0,9
+Porsche,Ferrari,8,0,8
+Connaught,Maserati,8,0,8
+Connaught,Ferrari,8,0,8
+Connaught,"Kurtis Kraft",8,0,8
+Toyota,Ferrari,8,0,8
+Toyota,McLaren,8,0,8
+Honda,Ferrari,8,0,8
+Lola,McLaren,8,0,8
+Larrousse,Benetton,8,0,8
+Larrousse,Ferrari,8,0,8
+Larrousse,Williams,8,0,8
+Larrousse,McLaren,8,0,8
+ATS,"Team Lotus",8,0,8
+ATS,Ferrari,8,0,8
+Ensign,Brabham,8,0,8
+Fittipaldi,"Team Lotus",8,0,8
+Fittipaldi,Tyrrell,8,0,8
+Fittipaldi,Ferrari,8,0,8
+Fittipaldi,McLaren,8,0,8
+Surtees,"Team Lotus",8,0,8
+BAR,Ferrari,7,0,7
+Renault,Mercedes,7,0,7
+"Alfa Romeo",Brabham,7,0,7
+ATS,Brabham,7,0,7
+ATS,Ligier,7,0,7
+ATS,Arrows,7,0,7
+ATS,Renault,7,0,7
+ATS,Williams,7,0,7
+ATS,McLaren,7,0,7
+Ensign,Ligier,7,0,7
+Fittipaldi,Ligier,7,0,7
+Shadow,"Team Lotus",7,0,7
+Shadow,Tyrrell,7,0,7
+Shadow,Ferrari,7,0,7
+Shadow,McLaren,7,0,7
+Phillips,Ferrari,7,0,7
+Vanwall,Ferrari,7,0,7
+Brabham-Climax,BRM,6,0,6
+Lotus-BRM,BRM,6,0,6
+Lotus-BRM,Ferrari,6,0,6
+Porsche,Cooper-Climax,6,0,6
+"Aston Martin",Ferrari,6,0,6
+Stevens,Maserati,6,0,6
+Stevens,Ferrari,6,0,6
+Stevens,"Kurtis Kraft",6,0,6
+Arrows,Jordan,6,0,6
+Arrows,Sauber,6,0,6
+Tyrrell,Sauber,6,0,6
+Lola,Williams,6,0,6
+Footwork,Benetton,6,0,6
+Footwork,Williams,6,0,6
+Footwork,McLaren,6,0,6
+Brabham,Benetton,6,0,6
+AGS,"Team Lotus",6,0,6
+AGS,Tyrrell,6,0,6
+AGS,Benetton,6,0,6
+AGS,Ferrari,6,0,6
+AGS,Williams,6,0,6
+AGS,McLaren,6,0,6
+Osella,Renault,6,0,6
+Fittipaldi,Brabham,6,0,6
+Lola,BRM,6,0,6
+Minardi,Renault,5,0,5
+Jaguar,BAR,5,0,5
+Jaguar,Sauber,5,0,5
+Jaguar,Ferrari,5,0,5
+Jaguar,Williams,5,0,5
+Jaguar,McLaren,5,0,5
+Minardi,Jaguar,5,0,5
+Prost,Benetton,5,0,5
+Prost,Jordan,5,0,5
+Prost,Ferrari,5,0,5
+Prost,Williams,5,0,5
+Prost,McLaren,5,0,5
+Dallara,Tyrrell,5,0,5
+Dallara,Benetton,5,0,5
+Dallara,Ferrari,5,0,5
+Dallara,Williams,5,0,5
+Dallara,McLaren,5,0,5
+Coloni,AGS,5,0,5
+Coloni,Larrousse,5,0,5
+Coloni,"Team Lotus",5,0,5
+Coloni,Ligier,5,0,5
+Coloni,Tyrrell,5,0,5
+Coloni,Benetton,5,0,5
+Coloni,Minardi,5,0,5
+Coloni,Ferrari,5,0,5
+Coloni,Williams,5,0,5
+Coloni,McLaren,5,0,5
+AGS,Brabham,5,0,5
+Osella,AGS,5,0,5
+Osella,Benetton,5,0,5
+AGS,Arrows,5,0,5
+Zakspeed,"Team Lotus",5,0,5
+Zakspeed,Tyrrell,5,0,5
+Zakspeed,Arrows,5,0,5
+Zakspeed,Ferrari,5,0,5
+Zakspeed,Williams,5,0,5
+Zakspeed,McLaren,5,0,5
+March,Arrows,5,0,5
+Toleman,Brabham,5,0,5
+Toleman,Ferrari,5,0,5
+Toleman,Renault,5,0,5
+Toleman,Williams,5,0,5
+Toleman,McLaren,5,0,5
+Ensign,Arrows,5,0,5
+Shadow,Brabham,5,0,5
+Hesketh,Tyrrell,5,0,5
+Hesketh,Ferrari,5,0,5
+Hesketh,McLaren,5,0,5
+Matra,Ferrari,5,0,5
+Cooper-Maserati,Lotus-Ford,5,0,5
+Honda,BRM,5,0,5
+Phillips,Epperly,5,0,5
+Epperly,Ferrari,5,0,5
+Cooper,Vanwall,5,0,5
+Gordini,Ferrari,5,0,5
+Stevens,Gordini,5,0,5
+Stevens,Kuzma,5,0,5
+Kuzma,Gordini,5,0,5
+Connaught,Gordini,5,0,5
+Cooper,Gordini,5,0,5
+HWM,Maserati,5,0,5
+HWM,Ferrari,5,0,5
+HWM,"Kurtis Kraft",5,0,5
+"Haas F1 Team","Alfa Romeo",5,0,5
+"Alfa Romeo",Mercedes,5,0,5
+"Alfa Romeo","Red Bull",5,0,5
+Lesovsky,Simca,4,0,4
+Watson,Simca,4,0,4
+"Lotus F1","Red Bull",4,0,4
+"Lotus F1",Ferrari,4,0,4
+Sauber,"Lotus F1",4,0,4
+Sauber,"Haas F1 Team",4,0,4
+AlphaTauri,Mercedes,4,0,4
+AlphaTauri,"Red Bull",4,0,4
+AlphaTauri,Ferrari,4,0,4
+AlphaTauri,McLaren,4,0,4
+"Haas F1 Team",AlphaTauri,4,0,4
+"Alpine F1 Team",Mercedes,4,0,4
+"Alpine F1 Team","Red Bull",4,0,4
+"Alpine F1 Team",Ferrari,4,0,4
+"Haas F1 Team","Alpine F1 Team",4,0,4
+"Haas F1 Team","Aston Martin",4,0,4
+"Aston Martin",Mercedes,4,0,4
+"Aston Martin","Red Bull",4,0,4
+Williams,"Alpine F1 Team",4,0,4
+Williams,"Aston Martin",4,0,4
+"Toro Rosso",Toyota,4,0,4
+"Toro Rosso","BMW Sauber",4,0,4
+Williams,"BMW Sauber",4,0,4
+"BMW Sauber",Ferrari,4,0,4
+"BMW Sauber",McLaren,4,0,4
+Minardi,Toyota,4,0,4
+Jordan,Renault,4,0,4
+Arrows,BAR,4,0,4
+Lola,Benetton,4,0,4
+Footwork,Sauber,4,0,4
+Sauber,Ligier,4,0,4
+Lola,Ligier,4,0,4
+March,Benetton,4,0,4
+Coloni,Dallara,4,0,4
+Coloni,Brabham,4,0,4
+AGS,Dallara,4,0,4
+Osella,Coloni,4,0,4
+Osella,Larrousse,4,0,4
+Coloni,Arrows,4,0,4
+Zakspeed,Brabham,4,0,4
+Zakspeed,Benetton,4,0,4
+Theodore,Brabham,4,0,4
+Theodore,"Team Lotus",4,0,4
+Theodore,Ligier,4,0,4
+Theodore,Tyrrell,4,0,4
+Theodore,Arrows,4,0,4
+Theodore,Ferrari,4,0,4
+Theodore,Renault,4,0,4
+Theodore,Williams,4,0,4
+Theodore,McLaren,4,0,4
+Ensign,"Alfa Romeo",4,0,4
+Wolf,"Team Lotus",4,0,4
+Wolf,Ferrari,4,0,4
+Wolf,McLaren,4,0,4
+Hesketh,Brabham,4,0,4
+BRM,Hesketh,4,0,4
+Penske,March,4,0,4
+Penske,"Team Lotus",4,0,4
+Penske,Tyrrell,4,0,4
+Penske,Ferrari,4,0,4
+Penske,McLaren,4,0,4
+Brabham-Climax,Brabham-Repco,4,0,4
+Cooper-Climax,Brabham-Climax,4,0,4
+Porsche,Lotus-Climax,4,0,4
+"Team Lotus",Cooper-Climax,4,0,4
+Trevis,Ferrari,4,0,4
+Lesovsky,Epperly,4,0,4
+Porsche,Epperly,4,0,4
+Porsche,Watson,4,0,4
+Connaught,Epperly,4,0,4
+OSCA,Maserati,4,0,4
+OSCA,Ferrari,4,0,4
+OSCA,"Kurtis Kraft",4,0,4
+HWM,Gordini,4,0,4
+HWM,Cooper,4,0,4
+Schroeder,Ferrari,4,0,4
+Schroeder,"Kurtis Kraft",4,0,4
+Bromme,Maserati,4,0,4
+Bromme,Ferrari,4,0,4
+Bromme,Kuzma,4,0,4
+Bromme,"Kurtis Kraft",4,0,4
+Bromme,HWM,4,0,4
+Simca,Ferrari,4,0,4
+Simca,"Kurtis Kraft",4,0,4
+Eagle-Weslake,Brabham-Repco,3,0,3
+Eagle-Weslake,Cooper-Maserati,3,0,3
+Eagle-Weslake,BRM,3,0,3
+Eagle-Weslake,Honda,3,0,3
+Eagle-Weslake,Ferrari,3,0,3
+LDS,Cooper-Climax,3,0,3
+LDS,BRM,3,0,3
+LDS,Ferrari,3,0,3
+LDS,Lola,3,0,3
+Brabham-Ford,Lotus-BRM,3,0,3
+Brabham-Ford,Cooper-Climax,3,0,3
+Brabham-Ford,Honda,3,0,3
+Lola,Lotus-Climax,3,0,3
+Brabham-BRM,Brabham-Climax,3,0,3
+Brabham-BRM,Lotus-Climax,3,0,3
+Brabham-BRM,BRM,3,0,3
+Brabham-BRM,Ferrari,3,0,3
+Gilby,Lotus-Climax,3,0,3
+Gilby,Cooper-Climax,3,0,3
+Gilby,Porsche,3,0,3
+Gilby,BRM,3,0,3
+Gilby,Ferrari,3,0,3
+Cooper-Maserati,"Team Lotus",3,0,3
+Emeryson,BRM,3,0,3
+Emeryson,Ferrari,3,0,3
+JBW,Cooper-Climax,3,0,3
+JBW,Cooper-Maserati,3,0,3
+JBW,Porsche,3,0,3
+JBW,BRM,3,0,3
+JBW,Ferrari,3,0,3
+Kuzma,"Team Lotus",3,0,3
+"Kurtis Kraft","Team Lotus",3,0,3
+Trevis,Lesovsky,3,0,3
+Trevis,Watson,3,0,3
+Lesovsky,"Team Lotus",3,0,3
+Phillips,"Team Lotus",3,0,3
+Dunn,Maserati,3,0,3
+Dunn,Porsche,3,0,3
+Dunn,BRM,3,0,3
+Dunn,Ferrari,3,0,3
+Dunn,Kuzma,3,0,3
+Dunn,"Kurtis Kraft",3,0,3
+Dunn,Lesovsky,3,0,3
+Dunn,Phillips,3,0,3
+Dunn,Epperly,3,0,3
+Dunn,Watson,3,0,3
+Dunn,Vanwall,3,0,3
+Dunn,Connaught,3,0,3
+Moore,Ferrari,3,0,3
+Moore,"Kurtis Kraft",3,0,3
+OSCA,Cooper,3,0,3
+OSCA,Connaught,3,0,3
+Epperly,Cooper,3,0,3
+Vanwall,Gordini,3,0,3
+Stevens,Vanwall,3,0,3
+Stevens,Phillips,3,0,3
+Lesovsky,Gordini,3,0,3
+Phillips,Gordini,3,0,3
+Watson,Gordini,3,0,3
+Pawl,Maserati,3,0,3
+Pawl,Ferrari,3,0,3
+Pawl,HWM,3,0,3
+Pawl,Schroeder,3,0,3
+Pawl,Kuzma,3,0,3
+Pawl,"Kurtis Kraft",3,0,3
+Schroeder,Gordini,3,0,3
+Schroeder,Stevens,3,0,3
+Schroeder,Connaught,3,0,3
+Schroeder,Cooper,3,0,3
+Trevis,HWM,3,0,3
+Bromme,Gordini,3,0,3
+Bromme,Schroeder,3,0,3
+Bromme,Stevens,3,0,3
+Bromme,Connaught,3,0,3
+Bromme,Cooper,3,0,3
+Bromme,Simca,3,0,3
+Bromme,Lesovsky,3,0,3
+Bromme,Watson,3,0,3
+Bromme,Veritas,3,0,3
+Bromme,OSCA,3,0,3
+Lesovsky,HWM,3,0,3
+Watson,Bromme,3,0,3
+Watson,HWM,3,0,3
+Watson,Veritas,3,0,3
+Veritas,Maserati,3,0,3
+Veritas,Ferrari,3,0,3
+Veritas,Kuzma,3,0,3
+Veritas,"Kurtis Kraft",3,0,3
+Veritas,HWM,3,0,3
+OSCA,HWM,3,0,3
+Deidt,Maserati,3,0,3
+Deidt,Ferrari,3,0,3
+Deidt,"Kurtis Kraft",3,0,3
+Watson,Deidt,3,0,3
+Watson,ERA,3,0,3
+Watson,Alta,3,0,3
+ERA,Maserati,3,0,3
+ERA,Ferrari,3,0,3
+ERA,Deidt,3,0,3
+ERA,"Kurtis Kraft",3,0,3
+Alta,Simca,3,0,3
+Alta,Maserati,3,0,3
+Alta,Ferrari,3,0,3
+Alta,Deidt,3,0,3
+Alta,"Kurtis Kraft",3,0,3
+Alta,Lesovsky,3,0,3
+Alta,ERA,3,0,3
+Caterham,"Lotus F1",3,0,3
+Caterham,Marussia,3,0,3
+Caterham,Mercedes,3,0,3
+Caterham,Sauber,3,0,3
+Caterham,"Force India",3,0,3
+Caterham,"Red Bull",3,0,3
+Caterham,Ferrari,3,0,3
+Caterham,"Toro Rosso",3,0,3
+Caterham,Williams,3,0,3
+Caterham,McLaren,3,0,3
+Marussia,"Lotus F1",3,0,3
+Marussia,Mercedes,3,0,3
+Marussia,"Force India",3,0,3
+Marussia,"Red Bull",3,0,3
+Marussia,Ferrari,3,0,3
+Marussia,"Toro Rosso",3,0,3
+Marussia,Williams,3,0,3
+Marussia,McLaren,3,0,3
+"Haas F1 Team","Force India",3,0,3
+AlphaTauri,"Alpine F1 Team",3,0,3
+"Alfa Romeo","Alpine F1 Team",3,0,3
+"Alfa Romeo","Aston Martin",3,0,3
+Honda,Renault,3,0,3
+"Super Aguri",Honda,3,0,3
+"Super Aguri","Red Bull",3,0,3
+"Super Aguri",Toyota,3,0,3
+"Super Aguri",Ferrari,3,0,3
+"Super Aguri","Toro Rosso",3,0,3
+"Super Aguri",Renault,3,0,3
+"Super Aguri",Williams,3,0,3
+"Super Aguri","BMW Sauber",3,0,3
+"Super Aguri",McLaren,3,0,3
+Jaguar,Renault,3,0,3
+Toyota,Jaguar,3,0,3
+Arrows,Jaguar,3,0,3
+Stewart,Jordan,3,0,3
+Stewart,Ferrari,3,0,3
+Stewart,Williams,3,0,3
+Stewart,McLaren,3,0,3
+Minardi,Stewart,3,0,3
+Lola,Arrows,3,0,3
+Lola,Jordan,3,0,3
+Osella,Dallara,3,0,3
+"Euro Brun",Osella,3,0,3
+"Euro Brun",Coloni,3,0,3
+"Euro Brun",AGS,3,0,3
+"Euro Brun",Dallara,3,0,3
+"Euro Brun",Larrousse,3,0,3
+"Euro Brun","Team Lotus",3,0,3
+"Euro Brun",Ligier,3,0,3
+"Euro Brun",Tyrrell,3,0,3
+"Euro Brun",Benetton,3,0,3
+"Euro Brun",Arrows,3,0,3
+"Euro Brun",Minardi,3,0,3
+"Euro Brun",Ferrari,3,0,3
+"Euro Brun",Williams,3,0,3
+"Euro Brun",McLaren,3,0,3
+Dallara,Arrows,3,0,3
+HRT,Mercedes,3,0,3
+HRT,Sauber,3,0,3
+HRT,"Force India",3,0,3
+HRT,"Red Bull",3,0,3
+HRT,Ferrari,3,0,3
+HRT,"Toro Rosso",3,0,3
+HRT,Williams,3,0,3
+HRT,McLaren,3,0,3
+Coloni,March,3,0,3
+Spirit,"Alfa Romeo",3,0,3
+Spirit,Brabham,3,0,3
+Spirit,"Team Lotus",3,0,3
+Spirit,Ligier,3,0,3
+Spirit,Arrows,3,0,3
+Spirit,Ferrari,3,0,3
+Spirit,Renault,3,0,3
+Spirit,Williams,3,0,3
+Spirit,McLaren,3,0,3
+Spirit,Toleman,3,0,3
+RAM,"Alfa Romeo",3,0,3
+RAM,Osella,3,0,3
+RAM,Brabham,3,0,3
+RAM,"Team Lotus",3,0,3
+RAM,Ligier,3,0,3
+RAM,Tyrrell,3,0,3
+RAM,Arrows,3,0,3
+RAM,Ferrari,3,0,3
+RAM,Renault,3,0,3
+RAM,Williams,3,0,3
+RAM,McLaren,3,0,3
+Theodore,"Alfa Romeo",3,0,3
+Theodore,Ensign,3,0,3
+Shadow,Arrows,3,0,3
+Hesketh,Ligier,3,0,3
+Surtees,Ligier,3,0,3
+Penske,Shadow,3,0,3
+Penske,Brabham,3,0,3
+Parnelli,March,3,0,3
+Parnelli,"Team Lotus",3,0,3
+Parnelli,Tyrrell,3,0,3
+Parnelli,Ferrari,3,0,3
+Parnelli,McLaren,3,0,3
+Parnelli,Hesketh,3,0,3
+Maki,Penske,3,0,3
+Maki,BRM,3,0,3
+Maki,March,3,0,3
+Maki,"Team Lotus",3,0,3
+Maki,Tyrrell,3,0,3
+Maki,Ferrari,3,0,3
+Maki,McLaren,3,0,3
+Maki,Parnelli,3,0,3
+Maki,Hesketh,3,0,3
+Maki,Surtees,3,0,3
+Maki,Ensign,3,0,3
+Matra,Lotus-Ford,3,0,3
+"De Tomaso",BRM,3,0,3
+"De Tomaso",Brabham,3,0,3
+"De Tomaso","Team Lotus",3,0,3
+"De Tomaso",Ferrari,3,0,3
+Matra,McLaren-Ford,3,0,3
+McLaren-Ford,Lotus-Ford,3,0,3
+Eagle-Climax,Brabham-Repco,3,0,3
+Eagle-Climax,BRM,3,0,3
+Eagle-Climax,Ferrari,3,0,3
+Eagle-Climax,Cooper-Maserati,3,0,3
+"Force India",Toyota,2,0,2
+"Force India","BMW Sauber",2,0,2
+Prost,Jaguar,2,0,2
+Tyrrell,Stewart,2,0,2
+Tyrrell,Prost,2,0,2
+Lola,Sauber,2,0,2
+Forti,Footwork,2,0,2
+Forti,Ligier,2,0,2
+Forti,Tyrrell,2,0,2
+Forti,Benetton,2,0,2
+Forti,Minardi,2,0,2
+Forti,Jordan,2,0,2
+Forti,Sauber,2,0,2
+Forti,Ferrari,2,0,2
+Forti,Williams,2,0,2
+Forti,McLaren,2,0,2
+Simtek,Footwork,2,0,2
+Simtek,Ligier,2,0,2
+Simtek,Tyrrell,2,0,2
+Simtek,Benetton,2,0,2
+Simtek,Minardi,2,0,2
+Simtek,Jordan,2,0,2
+Simtek,Sauber,2,0,2
+Simtek,Ferrari,2,0,2
+Simtek,Williams,2,0,2
+Simtek,McLaren,2,0,2
+Pacific,Footwork,2,0,2
+Pacific,Ligier,2,0,2
+Pacific,Tyrrell,2,0,2
+Pacific,Benetton,2,0,2
+Pacific,Minardi,2,0,2
+Pacific,Jordan,2,0,2
+Pacific,Sauber,2,0,2
+Pacific,Ferrari,2,0,2
+Pacific,Williams,2,0,2
+Pacific,McLaren,2,0,2
+Larrousse,Sauber,2,0,2
+"Team Lotus",Sauber,2,0,2
+Fondmetal,Dallara,2,0,2
+Fondmetal,Larrousse,2,0,2
+Fondmetal,"Team Lotus",2,0,2
+Fondmetal,Footwork,2,0,2
+Fondmetal,Ligier,2,0,2
+Fondmetal,Tyrrell,2,0,2
+Fondmetal,Benetton,2,0,2
+Fondmetal,Minardi,2,0,2
+Fondmetal,Jordan,2,0,2
+Fondmetal,Ferrari,2,0,2
+Fondmetal,Williams,2,0,2
+Fondmetal,McLaren,2,0,2
+Brabham,Jordan,2,0,2
+Coloni,"Leyton House",2,0,2
+"Leyton House",Tyrrell,2,0,2
+"Leyton House",Benetton,2,0,2
+"Leyton House",Ferrari,2,0,2
+"Leyton House",Williams,2,0,2
+"Leyton House",McLaren,2,0,2
+AGS,"Leyton House",2,0,2
+AGS,Lola,2,0,2
+Brabham,"Leyton House",2,0,2
+"Team Lotus","Leyton House",2,0,2
+Ligier,"Leyton House",2,0,2
+Onyx,Brabham,2,0,2
+Onyx,"Team Lotus",2,0,2
+Onyx,Ligier,2,0,2
+Onyx,Tyrrell,2,0,2
+Onyx,Benetton,2,0,2
+Onyx,Arrows,2,0,2
+Onyx,Minardi,2,0,2
+Onyx,Ferrari,2,0,2
+Onyx,Williams,2,0,2
+Onyx,McLaren,2,0,2
+Osella,Onyx,2,0,2
+"Euro Brun",Onyx,2,0,2
+"Euro Brun",Brabham,2,0,2
+Coloni,Onyx,2,0,2
+AGS,Onyx,2,0,2
+Lotus,Virgin,2,0,2
+Lotus,HRT,2,0,2
+Lotus,Mercedes,2,0,2
+Lotus,Sauber,2,0,2
+Lotus,"Force India",2,0,2
+Lotus,"Red Bull",2,0,2
+Lotus,Ferrari,2,0,2
+Lotus,"Toro Rosso",2,0,2
+Lotus,Renault,2,0,2
+Lotus,Williams,2,0,2
+Lotus,McLaren,2,0,2
+Virgin,Lotus,2,0,2
+Virgin,HRT,2,0,2
+Virgin,Mercedes,2,0,2
+Virgin,Sauber,2,0,2
+Virgin,"Force India",2,0,2
+Virgin,"Red Bull",2,0,2
+Virgin,Ferrari,2,0,2
+Virgin,"Toro Rosso",2,0,2
+Virgin,Renault,2,0,2
+Virgin,Williams,2,0,2
+Virgin,McLaren,2,0,2
+HRT,Lotus,2,0,2
+HRT,Virgin,2,0,2
+HRT,Renault,2,0,2
+Zakspeed,Rial,2,0,2
+Zakspeed,"Euro Brun",2,0,2
+Zakspeed,Dallara,2,0,2
+Rial,March,2,0,2
+Rial,"Team Lotus",2,0,2
+Rial,Tyrrell,2,0,2
+Rial,Benetton,2,0,2
+Rial,Arrows,2,0,2
+Rial,Minardi,2,0,2
+Rial,Ferrari,2,0,2
+Rial,Williams,2,0,2
+Rial,McLaren,2,0,2
+Osella,Rial,2,0,2
+"Euro Brun",Zakspeed,2,0,2
+"Euro Brun",Rial,2,0,2
+"Euro Brun",March,2,0,2
+Coloni,Rial,2,0,2
+Zakspeed,Lola,2,0,2
+ATS,Spirit,2,0,2
+RAM,ATS,2,0,2
+Toleman,Fittipaldi,2,0,2
+Toleman,March,2,0,2
+March,"Alfa Romeo",2,0,2
+"Brabham-Alfa Romeo","Team Lotus",2,0,2
+"Brabham-Alfa Romeo",Ligier,2,0,2
+"Brabham-Alfa Romeo",Tyrrell,2,0,2
+"Brabham-Alfa Romeo",Ferrari,2,0,2
+"Brabham-Alfa Romeo",McLaren,2,0,2
+Merzario,Wolf,2,0,2
+Merzario,Shadow,2,0,2
+Merzario,Ensign,2,0,2
+Merzario,Fittipaldi,2,0,2
+Merzario,ATS,2,0,2
+Merzario,"Team Lotus",2,0,2
+Merzario,Ligier,2,0,2
+Merzario,Tyrrell,2,0,2
+Merzario,Arrows,2,0,2
+Merzario,Ferrari,2,0,2
+Merzario,Renault,2,0,2
+Merzario,Williams,2,0,2
+Merzario,McLaren,2,0,2
+Wolf,"Brabham-Alfa Romeo",2,0,2
+Ensign,"Brabham-Alfa Romeo",2,0,2
+Fittipaldi,"Brabham-Alfa Romeo",2,0,2
+"Alfa Romeo",Brabham-Ford,2,0,2
+Brabham-Ford,"Brabham-Alfa Romeo",2,0,2
+Brabham-Ford,Shadow,2,0,2
+Brabham-Ford,Fittipaldi,2,0,2
+Brabham-Ford,"Team Lotus",2,0,2
+Brabham-Ford,Ligier,2,0,2
+Brabham-Ford,Tyrrell,2,0,2
+Brabham-Ford,Williams,2,0,2
+Brabham-Ford,McLaren,2,0,2
+Renault,Surtees,2,0,2
+BRM,Wolf,2,0,2
+BRM,Ligier,2,0,2
+BRM,Boro,2,0,2
+BRM,Kojima,2,0,2
+Boro,Surtees,2,0,2
+Boro,Wolf,2,0,2
+Boro,Shadow,2,0,2
+Boro,Ensign,2,0,2
+Boro,Fittipaldi,2,0,2
+Boro,March,2,0,2
+Boro,"Team Lotus",2,0,2
+Boro,Ligier,2,0,2
+Boro,Tyrrell,2,0,2
+Boro,Ferrari,2,0,2
+Boro,McLaren,2,0,2
+Boro,Penske,2,0,2
+Boro,Hesketh,2,0,2
+Kojima,Surtees,2,0,2
+Kojima,Wolf,2,0,2
+Kojima,Shadow,2,0,2
+Kojima,Ensign,2,0,2
+Kojima,Fittipaldi,2,0,2
+Kojima,March,2,0,2
+Kojima,"Team Lotus",2,0,2
+Kojima,Ligier,2,0,2
+Kojima,Tyrrell,2,0,2
+Kojima,Ferrari,2,0,2
+Kojima,McLaren,2,0,2
+Kojima,BRM,2,0,2
+Kojima,Penske,2,0,2
+Kojima,Hesketh,2,0,2
+Kojima,Boro,2,0,2
+BRM,Williams,2,0,2
+Williams,Penske,2,0,2
+Williams,Parnelli,2,0,2
+Parnelli,Shadow,2,0,2
+Maki,Shadow,2,0,2
+Maki,Fittipaldi,2,0,2
+Maki,Williams,2,0,2
+Parnelli,Brabham,2,0,2
+Lola,Hesketh,2,0,2
+Lola,March,2,0,2
+Maki,Brabham,2,0,2
+Maki,Lola,2,0,2
+Maki,Lyncar,2,0,2
+Lyncar,Parnelli,2,0,2
+Lyncar,Penske,2,0,2
+Lyncar,BRM,2,0,2
+Lyncar,Hesketh,2,0,2
+Lyncar,Surtees,2,0,2
+Lyncar,March,2,0,2
+Lyncar,Brabham,2,0,2
+Lyncar,"Team Lotus",2,0,2
+Lyncar,Lola,2,0,2
+Lyncar,Tyrrell,2,0,2
+Lyncar,Ferrari,2,0,2
+Lyncar,McLaren,2,0,2
+Lyncar,Ensign,2,0,2
+Lyncar,Maki,2,0,2
+"Iso Marlboro",BRM,2,0,2
+"Iso Marlboro",Shadow,2,0,2
+"Iso Marlboro",March,2,0,2
+"Iso Marlboro",Brabham,2,0,2
+"Iso Marlboro","Team Lotus",2,0,2
+"Iso Marlboro",Tyrrell,2,0,2
+"Iso Marlboro",Ferrari,2,0,2
+"Iso Marlboro",McLaren,2,0,2
+Ensign,"Iso Marlboro",2,0,2
+Tecno,BRM,2,0,2
+Tecno,Surtees,2,0,2
+Tecno,March,2,0,2
+Tecno,Brabham,2,0,2
+Tecno,"Team Lotus",2,0,2
+Tecno,Tyrrell,2,0,2
+Tecno,Ferrari,2,0,2
+Tecno,McLaren,2,0,2
+Matra,March,2,0,2
+Matra,"Team Lotus",2,0,2
+McLaren,Lotus-Ford,2,0,2
+Bellasi,Matra,2,0,2
+Bellasi,BRM,2,0,2
+Bellasi,Surtees,2,0,2
+Bellasi,Brabham,2,0,2
+Bellasi,Tyrrell,2,0,2
+Bellasi,Ferrari,2,0,2
+Brabham-Repco,Matra-Ford,2,0,2
+BRM,Matra-Ford,2,0,2
+Ferrari,Matra-Ford,2,0,2
+Cooper-Maserati,Matra-Ford,2,0,2
+Eagle-Climax,Brabham-Ford,2,0,2
+Eagle-Climax,Lotus-Ford,2,0,2
+Brabham-Climax,Matra-Ford,2,0,2
+McLaren-BRM,Brabham-Repco,2,0,2
+McLaren-BRM,Lotus-Ford,2,0,2
+McLaren-BRM,BRM,2,0,2
+McLaren-BRM,Honda,2,0,2
+McLaren-BRM,Ferrari,2,0,2
+Eagle-Weslake,Lotus-Ford,2,0,2
+Cooper-Climax,McLaren-BRM,2,0,2
+Cooper-Climax,Brabham-Repco,2,0,2
+Cooper-Climax,Eagle-Weslake,2,0,2
+LDS,Lotus-Ford,2,0,2
+LDS,Cooper-Maserati,2,0,2
+Matra,Brabham-Repco,2,0,2
+Matra,Honda,2,0,2
+Lola,McLaren-BRM,2,0,2
+Lola,Brabham-Repco,2,0,2
+Lola,Eagle-Weslake,2,0,2
+Lola,Brabham-Climax,2,0,2
+Lola,Honda,2,0,2
+Lola,McLaren-Ford,2,0,2
+Eagle-Climax,Lotus-BRM,2,0,2
+Eagle-Climax,Lotus-Climax,2,0,2
+LDS-Climax,Brabham-Climax,2,0,2
+LDS-Climax,Lotus-BRM,2,0,2
+LDS-Climax,Cooper-Climax,2,0,2
+LDS-Climax,Cooper-Maserati,2,0,2
+LDS-Climax,BRM,2,0,2
+LDS-Climax,Honda,2,0,2
+LDS-Climax,Lotus-Climax,2,0,2
+LDS-Climax,Ferrari,2,0,2
+LDS-Climax,Lotus-Ford,2,0,2
+LDS-Climax,Brabham-Ford,2,0,2
+Lotus-BRM,Brabham-Repco,2,0,2
+Lotus-Climax,Brabham-Repco,2,0,2
+McLaren-Ford,Lotus-BRM,2,0,2
+Brabham-Ford,Brabham-BRM,2,0,2
+Brabham-BRM,Cooper-Climax,2,0,2
+Lotus-Ford,"Alfa Romeo",2,0,2
+Cooper-Maserati,"Alfa Romeo",2,0,2
+"Alfa Romeo",Lotus-BRM,2,0,2
+"Alfa Romeo",Lotus-Climax,2,0,2
+"Alfa Romeo",Cooper-Climax,2,0,2
+BRP,Lotus-Climax,2,0,2
+BRP,Cooper-Climax,2,0,2
+BRP,BRM,2,0,2
+BRP,Ferrari,2,0,2
+Scirocco,Lotus-BRM,2,0,2
+Scirocco,Lotus-Climax,2,0,2
+Scirocco,Cooper-Climax,2,0,2
+Scirocco,BRP,2,0,2
+Scirocco,BRM,2,0,2
+Scirocco,Ferrari,2,0,2
+Scirocco,Porsche,2,0,2
+Lotus-BRM,Brabham,2,0,2
+"De Tomaso",Lotus-BRM,2,0,2
+"De Tomaso",Lotus-Climax,2,0,2
+"De Tomaso",Cooper-Climax,2,0,2
+"De Tomaso",Porsche,2,0,2
+"De Tomaso",Lola,2,0,2
+"De Tomaso",Gilby,2,0,2
+"De Tomaso",Lotus-Borgward,2,0,2
+"De Tomaso",LDS,2,0,2
+Brabham,Lotus-Climax,2,0,2
+Brabham,Cooper-Climax,2,0,2
+Lola,Porsche,2,0,2
+Gilby,Lotus-BRM,2,0,2
+Gilby,"De Tomaso",2,0,2
+Gilby,Brabham,2,0,2
+Gilby,Lola,2,0,2
+Gilby,Lotus-Borgward,2,0,2
+Gilby,Lotus-Maserati,2,0,2
+Gilby,Cooper-Maserati,2,0,2
+Gilby,"Team Lotus",2,0,2
+Gilby,LDS,2,0,2
+Lotus-Borgward,Lotus-BRM,2,0,2
+Lotus-Borgward,Lotus-Climax,2,0,2
+Lotus-Borgward,Cooper-Climax,2,0,2
+Lotus-Borgward,Porsche,2,0,2
+Lotus-Borgward,"De Tomaso",2,0,2
+Lotus-Borgward,BRM,2,0,2
+Lotus-Borgward,Brabham,2,0,2
+Lotus-Borgward,Lola,2,0,2
+Lotus-Borgward,Ferrari,2,0,2
+Lotus-Borgward,Gilby,2,0,2
+Lotus-Borgward,"Team Lotus",2,0,2
+Lotus-Borgward,LDS,2,0,2
+Lotus-Maserati,Lotus-Climax,2,0,2
+Lotus-Maserati,Cooper-Climax,2,0,2
+Lotus-Maserati,Porsche,2,0,2
+Lotus-Maserati,BRM,2,0,2
+Lotus-Maserati,Ferrari,2,0,2
+Lotus-Maserati,Gilby,2,0,2
+Lotus-Maserati,Cooper-Maserati,2,0,2
+"Team Lotus",Lotus-BRM,2,0,2
+"Team Lotus",Lotus-Climax,2,0,2
+"Team Lotus",Gilby,2,0,2
+"Team Lotus",Lotus-Borgward,2,0,2
+"Team Lotus",LDS,2,0,2
+LDS,Lotus-BRM,2,0,2
+LDS,Lotus-Climax,2,0,2
+LDS,Porsche,2,0,2
+LDS,"De Tomaso",2,0,2
+LDS,Brabham,2,0,2
+LDS,Gilby,2,0,2
+LDS,Lotus-Borgward,2,0,2
+LDS,"Team Lotus",2,0,2
+Emeryson,Lotus-Climax,2,0,2
+Emeryson,Cooper-Climax,2,0,2
+Emeryson,Porsche,2,0,2
+Emeryson,"De Tomaso-Alfa Romeo",2,0,2
+Emeryson,Cooper,2,0,2
+Emeryson,Gilby,2,0,2
+Emeryson,"De Tomaso-Osca",2,0,2
+"De Tomaso-Alfa Romeo",Lotus-Climax,2,0,2
+"De Tomaso-Alfa Romeo",Cooper-Climax,2,0,2
+"De Tomaso-Alfa Romeo",Emeryson,2,0,2
+"De Tomaso-Alfa Romeo",Porsche,2,0,2
+"De Tomaso-Alfa Romeo",BRM,2,0,2
+"De Tomaso-Alfa Romeo",Ferrari,2,0,2
+"De Tomaso-Alfa Romeo",Gilby,2,0,2
+"De Tomaso-Alfa Romeo","De Tomaso-Osca",2,0,2
+Cooper,Emeryson,2,0,2
+"Team Lotus",Cooper,2,0,2
+Gilby,Emeryson,2,0,2
+Gilby,"De Tomaso-Alfa Romeo",2,0,2
+Gilby,"De Tomaso-Osca",2,0,2
+"De Tomaso-Osca",Lotus-Climax,2,0,2
+"De Tomaso-Osca",Cooper-Climax,2,0,2
+"De Tomaso-Osca",Emeryson,2,0,2
+"De Tomaso-Osca",Porsche,2,0,2
+"De Tomaso-Osca",BRM,2,0,2
+"De Tomaso-Osca",Ferrari,2,0,2
+"De Tomaso-Osca","De Tomaso-Alfa Romeo",2,0,2
+"De Tomaso-Osca",Gilby,2,0,2
+Cooper-Maserati,Watson,2,0,2
+Maserati,Cooper-Climax,2,0,2
+Maserati,Cooper-Maserati,2,0,2
+Maserati,"Aston Martin",2,0,2
+JBW,Maserati,2,0,2
+JBW,"Team Lotus",2,0,2
+JBW,Christensen,2,0,2
+JBW,Kuzma,2,0,2
+JBW,"Kurtis Kraft",2,0,2
+JBW,Lesovsky,2,0,2
+JBW,Phillips,2,0,2
+JBW,Epperly,2,0,2
+JBW,Watson,2,0,2
+JBW,"Aston Martin",2,0,2
+JBW,Vanwall,2,0,2
+Ewing,Maserati,2,0,2
+Ewing,Ferrari,2,0,2
+Ewing,"Kurtis Kraft",2,0,2
+Ewing,Lesovsky,2,0,2
+Ewing,Watson,2,0,2
+Christensen,Cooper-Climax,2,0,2
+Christensen,Cooper-Maserati,2,0,2
+Christensen,Maserati,2,0,2
+Christensen,BRM,2,0,2
+Christensen,"Team Lotus",2,0,2
+Christensen,Ferrari,2,0,2
+Christensen,JBW,2,0,2
+Christensen,Kuzma,2,0,2
+Christensen,"Kurtis Kraft",2,0,2
+Christensen,Lesovsky,2,0,2
+Christensen,Phillips,2,0,2
+Christensen,Epperly,2,0,2
+Christensen,Watson,2,0,2
+Christensen,"Aston Martin",2,0,2
+Christensen,Vanwall,2,0,2
+Christensen,Porsche,2,0,2
+Kuzma,Cooper-Climax,2,0,2
+Kuzma,Cooper-Maserati,2,0,2
+Kuzma,"Aston Martin",2,0,2
+"Kurtis Kraft",Cooper-Climax,2,0,2
+"Kurtis Kraft",Cooper-Maserati,2,0,2
+Trevis,BRM,2,0,2
+Trevis,Phillips,2,0,2
+Trevis,Epperly,2,0,2
+Lesovsky,Cooper-Climax,2,0,2
+Lesovsky,Cooper-Maserati,2,0,2
+Phillips,Cooper-Climax,2,0,2
+Phillips,Cooper-Maserati,2,0,2
+Epperly,Cooper-Climax,2,0,2
+Watson,Cooper-Climax,2,0,2
+"Aston Martin",Cooper-Climax,2,0,2
+"Aston Martin",BRM,2,0,2
+"Aston Martin","Team Lotus",2,0,2
+"Aston Martin",Epperly,2,0,2
+"Aston Martin",Watson,2,0,2
+Vanwall,Cooper-Climax,2,0,2
+Vanwall,Cooper-Maserati,2,0,2
+Vanwall,JBW,2,0,2
+Vanwall,Christensen,2,0,2
+Vanwall,"Aston Martin",2,0,2
+Dunn,"Team Lotus",2,0,2
+Moore,BRM,2,0,2
+Connaught,"Team Lotus",2,0,2
+OSCA,BRM,2,0,2
+Dunn,Cooper,2,0,2
+Lancia,Mercedes,2,0,2
+Lancia,Maserati,2,0,2
+Lancia,Ferrari,2,0,2
+Lancia,"Kurtis Kraft",2,0,2
+Gordini,Mercedes,2,0,2
+HWM,Lancia,2,0,2
+HWM,Mercedes,2,0,2
+HWM,Vanwall,2,0,2
+HWM,Pankratz,2,0,2
+HWM,Phillips,2,0,2
+Vanwall,Mercedes,2,0,2
+Pankratz,Lancia,2,0,2
+Pankratz,Mercedes,2,0,2
+Pankratz,Gordini,2,0,2
+Pankratz,Maserati,2,0,2
+Pankratz,Ferrari,2,0,2
+Pankratz,HWM,2,0,2
+Pankratz,Vanwall,2,0,2
+Pankratz,Pawl,2,0,2
+Pankratz,Schroeder,2,0,2
+Pankratz,Stevens,2,0,2
+Pankratz,Kuzma,2,0,2
+Pankratz,"Kurtis Kraft",2,0,2
+Pankratz,Phillips,2,0,2
+Pankratz,Connaught,2,0,2
+Pankratz,Cooper,2,0,2
+Pawl,Lancia,2,0,2
+Pawl,Mercedes,2,0,2
+Pawl,Gordini,2,0,2
+Pawl,Vanwall,2,0,2
+Pawl,Pankratz,2,0,2
+Pawl,Stevens,2,0,2
+Pawl,Trevis,2,0,2
+Pawl,Phillips,2,0,2
+Pawl,Connaught,2,0,2
+Pawl,Cooper,2,0,2
+Schroeder,Lancia,2,0,2
+Schroeder,Mercedes,2,0,2
+Schroeder,Vanwall,2,0,2
+Schroeder,Pankratz,2,0,2
+Schroeder,Phillips,2,0,2
+Stevens,Mercedes,2,0,2
+Stevens,Trevis,2,0,2
+Kuzma,Mercedes,2,0,2
+"Kurtis Kraft",Mercedes,2,0,2
+Trevis,Gordini,2,0,2
+Trevis,Pawl,2,0,2
+Trevis,Schroeder,2,0,2
+Trevis,Stevens,2,0,2
+Trevis,Connaught,2,0,2
+Trevis,Cooper,2,0,2
+Phillips,Mercedes,2,0,2
+Connaught,Lancia,2,0,2
+Connaught,Mercedes,2,0,2
+Connaught,Pankratz,2,0,2
+Connaught,Pawl,2,0,2
+Cooper,Mercedes,2,0,2
+Bromme,Pawl,2,0,2
+Nichels,Maserati,2,0,2
+Nichels,Ferrari,2,0,2
+Nichels,"Kurtis Kraft",2,0,2
+Pawl,Bromme,2,0,2
+Simca,Gordini,2,0,2
+Simca,Connaught,2,0,2
+Bromme,AFM,2,0,2
+Bromme,BMW,2,0,2
+Schroeder,Simca,2,0,2
+Lesovsky,Schroeder,2,0,2
+Watson,Schroeder,2,0,2
+Watson,AFM,2,0,2
+Watson,BMW,2,0,2
+Veritas,Gordini,2,0,2
+Veritas,Cooper,2,0,2
+Veritas,Connaught,2,0,2
+OSCA,Gordini,2,0,2
+OSCA,Stevens,2,0,2
+AFM,Simca,2,0,2
+AFM,Gordini,2,0,2
+AFM,Maserati,2,0,2
+AFM,Cooper,2,0,2
+AFM,Ferrari,2,0,2
+AFM,Kuzma,2,0,2
+AFM,"Kurtis Kraft",2,0,2
+AFM,Lesovsky,2,0,2
+AFM,HWM,2,0,2
+AFM,Connaught,2,0,2
+AFM,Veritas,2,0,2
+BMW,Simca,2,0,2
+BMW,Gordini,2,0,2
+BMW,Maserati,2,0,2
+BMW,Cooper,2,0,2
+BMW,Ferrari,2,0,2
+BMW,Bromme,2,0,2
+BMW,Stevens,2,0,2
+BMW,Kuzma,2,0,2
+BMW,"Kurtis Kraft",2,0,2
+BMW,Lesovsky,2,0,2
+BMW,Watson,2,0,2
+BMW,HWM,2,0,2
+BMW,Connaught,2,0,2
+BMW,Veritas,2,0,2
+BMW,OSCA,2,0,2
+BMW,AFM,2,0,2
+Deidt,Sherman,2,0,2
+Sherman,Simca,2,0,2
+Sherman,Ferrari,2,0,2
+Sherman,"Kurtis Kraft",2,0,2
+Bromme,Deidt,2,0,2
+Bromme,Sherman,2,0,2
+Bromme,Trevis,2,0,2
+Bromme,ERA,2,0,2
+Bromme,Alta,2,0,2
+Stevens,Deidt,2,0,2
+Stevens,ERA,2,0,2
+Stevens,Alta,2,0,2
+Trevis,Veritas,2,0,2
+Trevis,Simca,2,0,2
+Trevis,Deidt,2,0,2
+Trevis,Sherman,2,0,2
+Trevis,Bromme,2,0,2
+Trevis,ERA,2,0,2
+Trevis,Alta,2,0,2
+Trevis,OSCA,2,0,2
+Watson,Sherman,2,0,2
+ERA,HWM,2,0,2
+ERA,Sherman,2,0,2
+Alta,Veritas,2,0,2
+Alta,HWM,2,0,2
+Alta,Sherman,2,0,2
+Alta,Bromme,2,0,2
+Alta,Kuzma,2,0,2
+Alta,Trevis,2,0,2
+Alta,OSCA,2,0,2
+OSCA,Deidt,2,0,2
+OSCA,Sherman,2,0,2
+OSCA,ERA,2,0,2
+Talbot-Lago,"Alfa Romeo",2,0,2
+Maserati,Talbot-Lago,2,0,2
+Maserati,"Alfa Romeo",2,0,2
+Marchese,Talbot-Lago,2,0,2
+Marchese,Maserati,2,0,2
+Marchese,"Alfa Romeo",2,0,2
+Marchese,Ferrari,2,0,2
+Marchese,Deidt,2,0,2
+Marchese,Moore,2,0,2
+Marchese,"Kurtis Kraft",2,0,2
+Marchese,Lesovsky,2,0,2
+Marchese,Watson,2,0,2
+Marchese,Simca,2,0,2
+Marchese,ERA,2,0,2
+Marchese,Alta,2,0,2
+Deidt,Talbot-Lago,2,0,2
+Deidt,"Alfa Romeo",2,0,2
+Moore,Talbot-Lago,2,0,2
+Moore,"Alfa Romeo",2,0,2
+Moore,Simca,2,0,2
+"Kurtis Kraft",Talbot-Lago,2,0,2
+"Kurtis Kraft","Alfa Romeo",2,0,2
+Lesovsky,Talbot-Lago,2,0,2
+Lesovsky,"Alfa Romeo",2,0,2
+Watson,Talbot-Lago,2,0,2
+Watson,"Alfa Romeo",2,0,2
+Watson,Marchese,2,0,2
+Simca,Talbot-Lago,2,0,2
+Simca,"Alfa Romeo",2,0,2
+ERA,Talbot-Lago,2,0,2
+ERA,"Alfa Romeo",2,0,2
+Alta,Talbot-Lago,2,0,2
+Alta,"Alfa Romeo",2,0,2
+Alta,Moore,2,0,2
+"Manor Marussia",Mercedes,2,0,2
+"Manor Marussia",Sauber,2,0,2
+"Manor Marussia","Force India",2,0,2
+"Manor Marussia","Red Bull",2,0,2
+"Manor Marussia",Ferrari,2,0,2
+"Manor Marussia","Toro Rosso",2,0,2
+"Manor Marussia",Williams,2,0,2
+"Manor Marussia",McLaren,2,0,2
+"Racing Point",Mercedes,2,0,2
+"Racing Point","Red Bull",2,0,2
+"Haas F1 Team","Racing Point",2,0,2
+"Alfa Romeo","Racing Point",2,0,2
+Williams,"Racing Point",2,0,2
+"Del Roy",OSCA,1,0,1
+"Del Roy",AFM,1,0,1
+"Del Roy",EMW,1,0,1
+"Del Roy",BMW,1,0,1
+Turner,Simca,1,0,1
+Turner,Gordini,1,0,1
+Turner,Maserati,1,0,1
+Turner,Cooper,1,0,1
+Turner,Ferrari,1,0,1
+Turner,"Del Roy",1,0,1
+Turner,Bromme,1,0,1
+Turner,Schroeder,1,0,1
+Turner,Stevens,1,0,1
+Turner,Kuzma,1,0,1
+Turner,"Kurtis Kraft",1,0,1
+Turner,Lesovsky,1,0,1
+Turner,Watson,1,0,1
+Turner,HWM,1,0,1
+Turner,Connaught,1,0,1
+Turner,Veritas,1,0,1
+Turner,OSCA,1,0,1
+Turner,AFM,1,0,1
+Turner,EMW,1,0,1
+Turner,BMW,1,0,1
+Bromme,"Del Roy",1,0,1
+Bromme,Turner,1,0,1
+Bromme,EMW,1,0,1
+Schroeder,"Del Roy",1,0,1
+Schroeder,Turner,1,0,1
+Schroeder,AFM,1,0,1
+Schroeder,EMW,1,0,1
+Schroeder,BMW,1,0,1
+Lesovsky,"Del Roy",1,0,1
+Lesovsky,Turner,1,0,1
+Lesovsky,EMW,1,0,1
+Watson,"Del Roy",1,0,1
+Watson,Turner,1,0,1
+Watson,EMW,1,0,1
+AFM,"Del Roy",1,0,1
+AFM,Turner,1,0,1
+AFM,Schroeder,1,0,1
+AFM,EMW,1,0,1
+EMW,Simca,1,0,1
+EMW,Gordini,1,0,1
+EMW,Maserati,1,0,1
+EMW,Cooper,1,0,1
+EMW,Ferrari,1,0,1
+EMW,"Del Roy",1,0,1
+EMW,Turner,1,0,1
+EMW,Bromme,1,0,1
+EMW,Schroeder,1,0,1
+EMW,Stevens,1,0,1
+EMW,Kuzma,1,0,1
+EMW,"Kurtis Kraft",1,0,1
+EMW,Lesovsky,1,0,1
+EMW,Watson,1,0,1
+EMW,HWM,1,0,1
+EMW,Connaught,1,0,1
+EMW,Veritas,1,0,1
+EMW,OSCA,1,0,1
+EMW,AFM,1,0,1
+EMW,BMW,1,0,1
+BMW,"Del Roy",1,0,1
+BMW,Turner,1,0,1
+BMW,Schroeder,1,0,1
+BMW,EMW,1,0,1
+"Frazer Nash",Simca,1,0,1
+"Frazer Nash",HWM,1,0,1
+"Frazer Nash",Gordini,1,0,1
+"Frazer Nash",Maserati,1,0,1
+"Frazer Nash",Cooper,1,0,1
+"Frazer Nash",Ferrari,1,0,1
+"Frazer Nash",Kuzma,1,0,1
+"Frazer Nash","Kurtis Kraft",1,0,1
+"Frazer Nash",Connaught,1,0,1
+AFM,"Frazer Nash",1,0,1
+Veritas,"Frazer Nash",1,0,1
+Simca,"Frazer Nash",1,0,1
+Deidt,"Frazer Nash",1,0,1
+Deidt,AFM,1,0,1
+Deidt,Gordini,1,0,1
+Deidt,"Aston Butterworth",1,0,1
+Deidt,Connaught,1,0,1
+Deidt,BMW,1,0,1
+Deidt,Cisitalia,1,0,1
+Sherman,"Frazer Nash",1,0,1
+Sherman,AFM,1,0,1
+Sherman,Gordini,1,0,1
+Sherman,Cooper,1,0,1
+Sherman,Stevens,1,0,1
+Sherman,"Aston Butterworth",1,0,1
+Sherman,Connaught,1,0,1
+Sherman,BMW,1,0,1
+Sherman,Cisitalia,1,0,1
+Bromme,"Frazer Nash",1,0,1
+Bromme,"Aston Butterworth",1,0,1
+Bromme,Cisitalia,1,0,1
+Stevens,"Frazer Nash",1,0,1
+Stevens,Sherman,1,0,1
+Stevens,"Aston Butterworth",1,0,1
+Stevens,Cisitalia,1,0,1
+Trevis,"Frazer Nash",1,0,1
+Trevis,AFM,1,0,1
+Trevis,"Aston Butterworth",1,0,1
+Trevis,BMW,1,0,1
+Trevis,Cisitalia,1,0,1
+Lesovsky,"Frazer Nash",1,0,1
+Watson,"Frazer Nash",1,0,1
+Watson,"Aston Butterworth",1,0,1
+Watson,Cisitalia,1,0,1
+"Aston Butterworth","Frazer Nash",1,0,1
+"Aston Butterworth",AFM,1,0,1
+"Aston Butterworth",Veritas,1,0,1
+"Aston Butterworth",Simca,1,0,1
+"Aston Butterworth",HWM,1,0,1
+"Aston Butterworth",Gordini,1,0,1
+"Aston Butterworth",Maserati,1,0,1
+"Aston Butterworth",Cooper,1,0,1
+"Aston Butterworth",Ferrari,1,0,1
+"Aston Butterworth",Deidt,1,0,1
+"Aston Butterworth",Sherman,1,0,1
+"Aston Butterworth",Bromme,1,0,1
+"Aston Butterworth",Stevens,1,0,1
+"Aston Butterworth",Kuzma,1,0,1
+"Aston Butterworth","Kurtis Kraft",1,0,1
+"Aston Butterworth",Trevis,1,0,1
+"Aston Butterworth",Lesovsky,1,0,1
+"Aston Butterworth",Watson,1,0,1
+"Aston Butterworth",ERA,1,0,1
+"Aston Butterworth",Alta,1,0,1
+"Aston Butterworth",Connaught,1,0,1
+"Aston Butterworth",BMW,1,0,1
+"Aston Butterworth",Cisitalia,1,0,1
+"Aston Butterworth",OSCA,1,0,1
+ERA,"Frazer Nash",1,0,1
+ERA,AFM,1,0,1
+ERA,Gordini,1,0,1
+ERA,"Aston Butterworth",1,0,1
+ERA,Connaught,1,0,1
+ERA,BMW,1,0,1
+ERA,Cisitalia,1,0,1
+Alta,"Frazer Nash",1,0,1
+Alta,AFM,1,0,1
+Alta,Gordini,1,0,1
+Alta,"Aston Butterworth",1,0,1
+Alta,Connaught,1,0,1
+Alta,BMW,1,0,1
+Alta,Cisitalia,1,0,1
+BMW,"Frazer Nash",1,0,1
+BMW,Deidt,1,0,1
+BMW,Sherman,1,0,1
+BMW,Trevis,1,0,1
+BMW,"Aston Butterworth",1,0,1
+BMW,ERA,1,0,1
+BMW,Alta,1,0,1
+BMW,Cisitalia,1,0,1
+Cisitalia,"Frazer Nash",1,0,1
+Cisitalia,AFM,1,0,1
+Cisitalia,Veritas,1,0,1
+Cisitalia,Simca,1,0,1
+Cisitalia,HWM,1,0,1
+Cisitalia,Gordini,1,0,1
+Cisitalia,Maserati,1,0,1
+Cisitalia,Cooper,1,0,1
+Cisitalia,Ferrari,1,0,1
+Cisitalia,Deidt,1,0,1
+Cisitalia,Sherman,1,0,1
+Cisitalia,Bromme,1,0,1
+Cisitalia,Stevens,1,0,1
+Cisitalia,Kuzma,1,0,1
+Cisitalia,"Kurtis Kraft",1,0,1
+Cisitalia,Trevis,1,0,1
+Cisitalia,Lesovsky,1,0,1
+Cisitalia,Watson,1,0,1
+Cisitalia,"Aston Butterworth",1,0,1
+Cisitalia,ERA,1,0,1
+Cisitalia,Alta,1,0,1
+Cisitalia,Connaught,1,0,1
+Cisitalia,BMW,1,0,1
+Cisitalia,OSCA,1,0,1
+OSCA,"Frazer Nash",1,0,1
+OSCA,"Aston Butterworth",1,0,1
+OSCA,Cisitalia,1,0,1
+Veritas,Talbot-Lago,1,0,1
+Veritas,"Alfa Romeo",1,0,1
+Veritas,Marchese,1,0,1
+Veritas,Hall,1,0,1
+Veritas,Pawl,1,0,1
+Veritas,Moore,1,0,1
+Veritas,BRM,1,0,1
+HWM,Talbot-Lago,1,0,1
+HWM,"Alfa Romeo",1,0,1
+HWM,Moore,1,0,1
+HWM,BRM,1,0,1
+Marchese,Veritas,1,0,1
+Marchese,HWM,1,0,1
+Marchese,Hall,1,0,1
+Marchese,Sherman,1,0,1
+Marchese,Bromme,1,0,1
+Marchese,Pawl,1,0,1
+Marchese,Schroeder,1,0,1
+Marchese,Kuzma,1,0,1
+Marchese,Trevis,1,0,1
+Marchese,BRM,1,0,1
+Marchese,OSCA,1,0,1
+Hall,Talbot-Lago,1,0,1
+Hall,Veritas,1,0,1
+Hall,HWM,1,0,1
+Hall,Maserati,1,0,1
+Hall,"Alfa Romeo",1,0,1
+Hall,Ferrari,1,0,1
+Hall,Marchese,1,0,1
+Hall,Deidt,1,0,1
+Hall,Sherman,1,0,1
+Hall,Bromme,1,0,1
+Hall,Pawl,1,0,1
+Hall,Schroeder,1,0,1
+Hall,Moore,1,0,1
+Hall,Kuzma,1,0,1
+Hall,"Kurtis Kraft",1,0,1
+Hall,Trevis,1,0,1
+Hall,Lesovsky,1,0,1
+Hall,Watson,1,0,1
+Hall,Simca,1,0,1
+Hall,ERA,1,0,1
+Hall,Alta,1,0,1
+Hall,BRM,1,0,1
+Hall,OSCA,1,0,1
+Deidt,Schroeder,1,0,1
+Deidt,BRM,1,0,1
+Sherman,Talbot-Lago,1,0,1
+Sherman,"Alfa Romeo",1,0,1
+Sherman,BRM,1,0,1
+Bromme,Talbot-Lago,1,0,1
+Bromme,"Alfa Romeo",1,0,1
+Bromme,Marchese,1,0,1
+Bromme,Hall,1,0,1
+Bromme,Moore,1,0,1
+Bromme,BRM,1,0,1
+Pawl,Talbot-Lago,1,0,1
+Pawl,Veritas,1,0,1
+Pawl,"Alfa Romeo",1,0,1
+Pawl,Marchese,1,0,1
+Pawl,Hall,1,0,1
+Pawl,Deidt,1,0,1
+Pawl,Sherman,1,0,1
+Pawl,Moore,1,0,1
+Pawl,Lesovsky,1,0,1
+Pawl,Watson,1,0,1
+Pawl,Simca,1,0,1
+Pawl,ERA,1,0,1
+Pawl,Alta,1,0,1
+Pawl,BRM,1,0,1
+Pawl,OSCA,1,0,1
+Schroeder,Talbot-Lago,1,0,1
+Schroeder,"Alfa Romeo",1,0,1
+Schroeder,Sherman,1,0,1
+Schroeder,BRM,1,0,1
+Moore,Sherman,1,0,1
+Moore,Schroeder,1,0,1
+Kuzma,Talbot-Lago,1,0,1
+Kuzma,"Alfa Romeo",1,0,1
+Kuzma,Marchese,1,0,1
+Kuzma,Hall,1,0,1
+Trevis,Talbot-Lago,1,0,1
+Trevis,"Alfa Romeo",1,0,1
+Trevis,Marchese,1,0,1
+Trevis,Hall,1,0,1
+Trevis,Moore,1,0,1
+Lesovsky,Hall,1,0,1
+Lesovsky,Pawl,1,0,1
+Watson,Hall,1,0,1
+Watson,Pawl,1,0,1
+Simca,BRM,1,0,1
+ERA,Schroeder,1,0,1
+ERA,BRM,1,0,1
+Alta,Hall,1,0,1
+Alta,Pawl,1,0,1
+Alta,Schroeder,1,0,1
+Alta,BRM,1,0,1
+BRM,Talbot-Lago,1,0,1
+BRM,Simca,1,0,1
+OSCA,Talbot-Lago,1,0,1
+OSCA,"Alfa Romeo",1,0,1
+OSCA,Moore,1,0,1
+Alta,Nichels,1,0,1
+Cooper,Talbot-Lago,1,0,1
+Cooper,"Alfa Romeo",1,0,1
+Cooper,Snowberger,1,0,1
+Cooper,Adams,1,0,1
+Cooper,Wetteroth,1,0,1
+Cooper,Olson,1,0,1
+Cooper,Rae,1,0,1
+Cooper,Langley,1,0,1
+Cooper,Marchese,1,0,1
+Cooper,Moore,1,0,1
+Cooper,Ewing,1,0,1
+Cooper,Milano,1,0,1
+Snowberger,Talbot-Lago,1,0,1
+Snowberger,ERA,1,0,1
+Snowberger,Alta,1,0,1
+Snowberger,Maserati,1,0,1
+Snowberger,"Alfa Romeo",1,0,1
+Snowberger,Simca,1,0,1
+Snowberger,Cooper,1,0,1
+Snowberger,Ferrari,1,0,1
+Snowberger,Adams,1,0,1
+Snowberger,Wetteroth,1,0,1
+Snowberger,Olson,1,0,1
+Snowberger,Rae,1,0,1
+Snowberger,Langley,1,0,1
+Snowberger,Marchese,1,0,1
+Snowberger,Deidt,1,0,1
+Snowberger,Nichels,1,0,1
+Snowberger,Stevens,1,0,1
+Snowberger,Moore,1,0,1
+Snowberger,Ewing,1,0,1
+Snowberger,"Kurtis Kraft",1,0,1
+Snowberger,Lesovsky,1,0,1
+Snowberger,Watson,1,0,1
+Snowberger,Milano,1,0,1
+Adams,Talbot-Lago,1,0,1
+Adams,ERA,1,0,1
+Adams,Alta,1,0,1
+Adams,Maserati,1,0,1
+Adams,"Alfa Romeo",1,0,1
+Adams,Simca,1,0,1
+Adams,Cooper,1,0,1
+Adams,Ferrari,1,0,1
+Adams,Snowberger,1,0,1
+Adams,Wetteroth,1,0,1
+Adams,Olson,1,0,1
+Adams,Rae,1,0,1
+Adams,Langley,1,0,1
+Adams,Marchese,1,0,1
+Adams,Deidt,1,0,1
+Adams,Nichels,1,0,1
+Adams,Stevens,1,0,1
+Adams,Moore,1,0,1
+Adams,Ewing,1,0,1
+Adams,"Kurtis Kraft",1,0,1
+Adams,Lesovsky,1,0,1
+Adams,Watson,1,0,1
+Adams,Milano,1,0,1
+Wetteroth,Talbot-Lago,1,0,1
+Wetteroth,ERA,1,0,1
+Wetteroth,Alta,1,0,1
+Wetteroth,Maserati,1,0,1
+Wetteroth,"Alfa Romeo",1,0,1
+Wetteroth,Simca,1,0,1
+Wetteroth,Cooper,1,0,1
+Wetteroth,Ferrari,1,0,1
+Wetteroth,Snowberger,1,0,1
+Wetteroth,Adams,1,0,1
+Wetteroth,Olson,1,0,1
+Wetteroth,Rae,1,0,1
+Wetteroth,Langley,1,0,1
+Wetteroth,Marchese,1,0,1
+Wetteroth,Deidt,1,0,1
+Wetteroth,Nichels,1,0,1
+Wetteroth,Stevens,1,0,1
+Wetteroth,Moore,1,0,1
+Wetteroth,Ewing,1,0,1
+Wetteroth,"Kurtis Kraft",1,0,1
+Wetteroth,Lesovsky,1,0,1
+Wetteroth,Watson,1,0,1
+Wetteroth,Milano,1,0,1
+Olson,Talbot-Lago,1,0,1
+Olson,ERA,1,0,1
+Olson,Alta,1,0,1
+Olson,Maserati,1,0,1
+Olson,"Alfa Romeo",1,0,1
+Olson,Simca,1,0,1
+Olson,Cooper,1,0,1
+Olson,Ferrari,1,0,1
+Olson,Snowberger,1,0,1
+Olson,Adams,1,0,1
+Olson,Wetteroth,1,0,1
+Olson,Rae,1,0,1
+Olson,Langley,1,0,1
+Olson,Marchese,1,0,1
+Olson,Deidt,1,0,1
+Olson,Nichels,1,0,1
+Olson,Stevens,1,0,1
+Olson,Moore,1,0,1
+Olson,Ewing,1,0,1
+Olson,"Kurtis Kraft",1,0,1
+Olson,Lesovsky,1,0,1
+Olson,Watson,1,0,1
+Olson,Milano,1,0,1
+Rae,Talbot-Lago,1,0,1
+Rae,ERA,1,0,1
+Rae,Alta,1,0,1
+Rae,Maserati,1,0,1
+Rae,"Alfa Romeo",1,0,1
+Rae,Simca,1,0,1
+Rae,Cooper,1,0,1
+Rae,Ferrari,1,0,1
+Rae,Snowberger,1,0,1
+Rae,Adams,1,0,1
+Rae,Wetteroth,1,0,1
+Rae,Olson,1,0,1
+Rae,Langley,1,0,1
+Rae,Marchese,1,0,1
+Rae,Deidt,1,0,1
+Rae,Nichels,1,0,1
+Rae,Stevens,1,0,1
+Rae,Moore,1,0,1
+Rae,Ewing,1,0,1
+Rae,"Kurtis Kraft",1,0,1
+Rae,Lesovsky,1,0,1
+Rae,Watson,1,0,1
+Rae,Milano,1,0,1
+Langley,Talbot-Lago,1,0,1
+Langley,ERA,1,0,1
+Langley,Alta,1,0,1
+Langley,Maserati,1,0,1
+Langley,"Alfa Romeo",1,0,1
+Langley,Simca,1,0,1
+Langley,Cooper,1,0,1
+Langley,Ferrari,1,0,1
+Langley,Snowberger,1,0,1
+Langley,Adams,1,0,1
+Langley,Wetteroth,1,0,1
+Langley,Olson,1,0,1
+Langley,Rae,1,0,1
+Langley,Marchese,1,0,1
+Langley,Deidt,1,0,1
+Langley,Nichels,1,0,1
+Langley,Stevens,1,0,1
+Langley,Moore,1,0,1
+Langley,Ewing,1,0,1
+Langley,"Kurtis Kraft",1,0,1
+Langley,Lesovsky,1,0,1
+Langley,Watson,1,0,1
+Langley,Milano,1,0,1
+Marchese,Cooper,1,0,1
+Marchese,Snowberger,1,0,1
+Marchese,Adams,1,0,1
+Marchese,Wetteroth,1,0,1
+Marchese,Olson,1,0,1
+Marchese,Rae,1,0,1
+Marchese,Langley,1,0,1
+Marchese,Nichels,1,0,1
+Marchese,Stevens,1,0,1
+Marchese,Ewing,1,0,1
+Marchese,Milano,1,0,1
+Nichels,Talbot-Lago,1,0,1
+Nichels,ERA,1,0,1
+Nichels,Alta,1,0,1
+Nichels,"Alfa Romeo",1,0,1
+Nichels,Simca,1,0,1
+Nichels,Deidt,1,0,1
+Nichels,Moore,1,0,1
+Nichels,Lesovsky,1,0,1
+Stevens,Talbot-Lago,1,0,1
+Stevens,"Alfa Romeo",1,0,1
+Stevens,Snowberger,1,0,1
+Stevens,Adams,1,0,1
+Stevens,Wetteroth,1,0,1
+Stevens,Olson,1,0,1
+Stevens,Rae,1,0,1
+Stevens,Langley,1,0,1
+Stevens,Marchese,1,0,1
+Stevens,Moore,1,0,1
+Stevens,Ewing,1,0,1
+Stevens,Milano,1,0,1
+Ewing,Talbot-Lago,1,0,1
+Ewing,ERA,1,0,1
+Ewing,Alta,1,0,1
+Ewing,"Alfa Romeo",1,0,1
+Ewing,Simca,1,0,1
+Ewing,Cooper,1,0,1
+Ewing,Snowberger,1,0,1
+Ewing,Adams,1,0,1
+Ewing,Wetteroth,1,0,1
+Ewing,Olson,1,0,1
+Ewing,Rae,1,0,1
+Ewing,Langley,1,0,1
+Ewing,Marchese,1,0,1
+Ewing,Deidt,1,0,1
+Ewing,Nichels,1,0,1
+Ewing,Stevens,1,0,1
+Ewing,Moore,1,0,1
+Ewing,Milano,1,0,1
+Watson,Snowberger,1,0,1
+Watson,Adams,1,0,1
+Watson,Wetteroth,1,0,1
+Watson,Olson,1,0,1
+Watson,Rae,1,0,1
+Watson,Langley,1,0,1
+Watson,Nichels,1,0,1
+Watson,Milano,1,0,1
+Milano,Talbot-Lago,1,0,1
+Milano,ERA,1,0,1
+Milano,Alta,1,0,1
+Milano,Maserati,1,0,1
+Milano,"Alfa Romeo",1,0,1
+Milano,Simca,1,0,1
+Milano,Cooper,1,0,1
+Milano,Ferrari,1,0,1
+Milano,Snowberger,1,0,1
+Milano,Adams,1,0,1
+Milano,Wetteroth,1,0,1
+Milano,Olson,1,0,1
+Milano,Rae,1,0,1
+Milano,Langley,1,0,1
+Milano,Marchese,1,0,1
+Milano,Deidt,1,0,1
+Milano,Nichels,1,0,1
+Milano,Stevens,1,0,1
+Milano,Moore,1,0,1
+Milano,Ewing,1,0,1
+Milano,"Kurtis Kraft",1,0,1
+Milano,Lesovsky,1,0,1
+Milano,Watson,1,0,1
+Caterham,HRT,1,0,1
+Marussia,HRT,1,0,1
+HRT,"Lotus F1",1,0,1
+HRT,Caterham,1,0,1
+HRT,Marussia,1,0,1
+"Manor Marussia","Lotus F1",1,0,1
+"Manor Marussia","Haas F1 Team",1,0,1
+"Manor Marussia",Renault,1,0,1
+"Racing Point","Toro Rosso",1,0,1
+"Alfa Romeo","Toro Rosso",1,0,1
+AlphaTauri,"Racing Point",1,0,1
+AlphaTauri,Renault,1,0,1
+"RB F1 Team","Alpine F1 Team",1,0,1
+"RB F1 Team","Haas F1 Team",1,0,1
+"RB F1 Team",Mercedes,1,0,1
+"RB F1 Team","Aston Martin",1,0,1
+"RB F1 Team","Red Bull",1,0,1
+"RB F1 Team",Ferrari,1,0,1
+"RB F1 Team",McLaren,1,0,1
+Sauber,"RB F1 Team",1,0,1
+Sauber,"Alpine F1 Team",1,0,1
+Sauber,"Aston Martin",1,0,1
+Williams,"RB F1 Team",1,0,1
+Brabham-Climax,BRM-Ford,1,0,1
+Cooper-BRM,Matra-Ford,1,0,1
+Cooper-BRM,Lotus-Ford,1,0,1
+Cooper-BRM,BRM,1,0,1
+Cooper-BRM,Ferrari,1,0,1
+Cooper-BRM,McLaren-Ford,1,0,1
+McLaren-BRM,Matra-Ford,1,0,1
+McLaren-BRM,Cooper-BRM,1,0,1
+Brabham-Repco,Cooper-BRM,1,0,1
+Eagle-Weslake,Matra-Ford,1,0,1
+Eagle-Weslake,Cooper-BRM,1,0,1
+Eagle-Weslake,McLaren,1,0,1
+Brabham-Climax,Cooper-BRM,1,0,1
+Brabham-Climax,McLaren,1,0,1
+Cooper-Climax,Matra-Ford,1,0,1
+Cooper-Climax,Cooper-BRM,1,0,1
+Cooper-Climax,McLaren,1,0,1
+Cooper-Maserati,Cooper-BRM,1,0,1
+LDS,Matra-Ford,1,0,1
+LDS,Cooper-BRM,1,0,1
+LDS,McLaren-BRM,1,0,1
+LDS,Brabham-Repco,1,0,1
+LDS,Eagle-Weslake,1,0,1
+LDS,Brabham-Climax,1,0,1
+LDS,Honda,1,0,1
+LDS,McLaren-Ford,1,0,1
+LDS,Matra,1,0,1
+LDS,McLaren,1,0,1
+Honda,Matra-Ford,1,0,1
+Honda,Cooper-BRM,1,0,1
+Matra,Matra-Ford,1,0,1
+Matra,Cooper-BRM,1,0,1
+Lola,Matra-Ford,1,0,1
+Lola,Cooper-BRM,1,0,1
+McLaren,Matra-Ford,1,0,1
+McLaren,Cooper-BRM,1,0,1
+McLaren,McLaren-BRM,1,0,1
+McLaren,Brabham-Repco,1,0,1
+McLaren,Cooper-Maserati,1,0,1
+McLaren,McLaren-Ford,1,0,1
+Eagle-Climax,LDS-Climax,1,0,1
+Eagle-Climax,Cooper-Climax,1,0,1
+Eagle-Climax,McLaren-BRM,1,0,1
+Eagle-Climax,Matra,1,0,1
+Eagle-Climax,Cooper-ATS,1,0,1
+Eagle-Climax,Protos,1,0,1
+Eagle-Climax,Lola,1,0,1
+LDS-Climax,Brabham-Repco,1,0,1
+LDS-Climax,McLaren-BRM,1,0,1
+LDS-Climax,Eagle-Weslake,1,0,1
+LDS-Climax,McLaren-Ford,1,0,1
+McLaren-BRM,Lotus-BRM,1,0,1
+Lotus-Climax,McLaren-BRM,1,0,1
+Matra,Eagle-Climax,1,0,1
+Matra,LDS-Climax,1,0,1
+Matra,Lotus-BRM,1,0,1
+Matra,Lotus-Climax,1,0,1
+Matra,Cooper-ATS,1,0,1
+Matra,Brabham-Ford,1,0,1
+Matra,Protos,1,0,1
+Cooper-ATS,Brabham-Repco,1,0,1
+Cooper-ATS,Eagle-Climax,1,0,1
+Cooper-ATS,LDS-Climax,1,0,1
+Cooper-ATS,Brabham-Climax,1,0,1
+Cooper-ATS,Lotus-BRM,1,0,1
+Cooper-ATS,Cooper-Climax,1,0,1
+Cooper-ATS,Cooper-Maserati,1,0,1
+Cooper-ATS,BRM,1,0,1
+Cooper-ATS,Honda,1,0,1
+Cooper-ATS,McLaren-BRM,1,0,1
+Cooper-ATS,Eagle-Weslake,1,0,1
+Cooper-ATS,Lotus-Climax,1,0,1
+Cooper-ATS,Matra,1,0,1
+Cooper-ATS,Ferrari,1,0,1
+Cooper-ATS,Lotus-Ford,1,0,1
+Cooper-ATS,Brabham-Ford,1,0,1
+Cooper-ATS,Protos,1,0,1
+Cooper-ATS,Lola,1,0,1
+Cooper-ATS,McLaren-Ford,1,0,1
+Brabham-Ford,McLaren-BRM,1,0,1
+Brabham-Ford,Eagle-Weslake,1,0,1
+Protos,Brabham-Repco,1,0,1
+Protos,Eagle-Climax,1,0,1
+Protos,LDS-Climax,1,0,1
+Protos,Brabham-Climax,1,0,1
+Protos,Lotus-BRM,1,0,1
+Protos,Cooper-Climax,1,0,1
+Protos,Cooper-Maserati,1,0,1
+Protos,BRM,1,0,1
+Protos,Honda,1,0,1
+Protos,McLaren-BRM,1,0,1
+Protos,Eagle-Weslake,1,0,1
+Protos,Lotus-Climax,1,0,1
+Protos,Matra,1,0,1
+Protos,Ferrari,1,0,1
+Protos,Lotus-Ford,1,0,1
+Protos,Cooper-ATS,1,0,1
+Protos,Brabham-Ford,1,0,1
+Protos,Lola,1,0,1
+Protos,McLaren-Ford,1,0,1
+Lola,LDS-Climax,1,0,1
+Lola,Brabham-Ford,1,0,1
+McLaren-Ford,Brabham-BRM,1,0,1
+Brabham-BRM,Brabham-Repco,1,0,1
+Brabham-BRM,Eagle-Climax,1,0,1
+McLaren-Serenissima,Brabham-Repco,1,0,1
+McLaren-Serenissima,McLaren-Ford,1,0,1
+McLaren-Serenissima,Brabham-Climax,1,0,1
+McLaren-Serenissima,Brabham-BRM,1,0,1
+McLaren-Serenissima,Lotus-BRM,1,0,1
+McLaren-Serenissima,Lotus-Climax,1,0,1
+McLaren-Serenissima,Cooper-Maserati,1,0,1
+McLaren-Serenissima,BRM,1,0,1
+McLaren-Serenissima,Ferrari,1,0,1
+McLaren-Serenissima,Eagle-Climax,1,0,1
+McLaren-Serenissima,Honda,1,0,1
+Cooper-Ferrari,Brabham-Repco,1,0,1
+Cooper-Ferrari,McLaren-Ford,1,0,1
+Cooper-Ferrari,Brabham-Climax,1,0,1
+Cooper-Ferrari,Brabham-BRM,1,0,1
+Cooper-Ferrari,Lotus-BRM,1,0,1
+Cooper-Ferrari,Lotus-Climax,1,0,1
+Cooper-Ferrari,Cooper-Maserati,1,0,1
+Cooper-Ferrari,BRM,1,0,1
+Cooper-Ferrari,Ferrari,1,0,1
+Cooper-Ferrari,Eagle-Climax,1,0,1
+Cooper-Ferrari,McLaren-Serenissima,1,0,1
+Cooper-Ferrari,Shannon,1,0,1
+Cooper-Ferrari,Eagle-Weslake,1,0,1
+Cooper-Ferrari,Honda,1,0,1
+Shannon,Brabham-Repco,1,0,1
+Shannon,McLaren-Ford,1,0,1
+Shannon,Brabham-Climax,1,0,1
+Shannon,Brabham-BRM,1,0,1
+Shannon,Lotus-BRM,1,0,1
+Shannon,Lotus-Climax,1,0,1
+Shannon,Cooper-Maserati,1,0,1
+Shannon,BRM,1,0,1
+Shannon,Ferrari,1,0,1
+Shannon,Eagle-Climax,1,0,1
+Shannon,McLaren-Serenissima,1,0,1
+Shannon,Cooper-Ferrari,1,0,1
+Shannon,Eagle-Weslake,1,0,1
+Shannon,Honda,1,0,1
+Eagle-Weslake,Brabham-BRM,1,0,1
+Eagle-Weslake,McLaren-Serenissima,1,0,1
+Eagle-Weslake,Cooper-Ferrari,1,0,1
+Eagle-Weslake,Shannon,1,0,1
+Cooper-Ford,"LDS-Alfa Romeo",1,0,1
+Cooper-Ford,LDS-Climax,1,0,1
+Cooper-Ford,Brabham-Climax,1,0,1
+Cooper-Ford,Brabham-Ford,1,0,1
+Cooper-Ford,Brabham-BRM,1,0,1
+Cooper-Ford,Lotus-Ford,1,0,1
+Cooper-Ford,Lotus-BRM,1,0,1
+Cooper-Ford,Lotus-Climax,1,0,1
+Cooper-Ford,Cooper-Climax,1,0,1
+Cooper-Ford,Cooper-Maserati,1,0,1
+Cooper-Ford,RE,1,0,1
+Cooper-Ford,BRM,1,0,1
+Cooper-Ford,"Alfa Romeo",1,0,1
+Cooper-Ford,Ferrari,1,0,1
+Cooper-Ford,Honda,1,0,1
+"LDS-Alfa Romeo",Cooper-Ford,1,0,1
+"LDS-Alfa Romeo",LDS-Climax,1,0,1
+"LDS-Alfa Romeo",Brabham-Climax,1,0,1
+"LDS-Alfa Romeo",Brabham-Ford,1,0,1
+"LDS-Alfa Romeo",Brabham-BRM,1,0,1
+"LDS-Alfa Romeo",Lotus-Ford,1,0,1
+"LDS-Alfa Romeo",Lotus-BRM,1,0,1
+"LDS-Alfa Romeo",Lotus-Climax,1,0,1
+"LDS-Alfa Romeo",Cooper-Climax,1,0,1
+"LDS-Alfa Romeo",Cooper-Maserati,1,0,1
+"LDS-Alfa Romeo",RE,1,0,1
+"LDS-Alfa Romeo",BRM,1,0,1
+"LDS-Alfa Romeo","Alfa Romeo",1,0,1
+"LDS-Alfa Romeo",Ferrari,1,0,1
+"LDS-Alfa Romeo",Honda,1,0,1
+LDS-Climax,Cooper-Ford,1,0,1
+LDS-Climax,"LDS-Alfa Romeo",1,0,1
+LDS-Climax,Brabham-BRM,1,0,1
+LDS-Climax,RE,1,0,1
+LDS-Climax,"Alfa Romeo",1,0,1
+Lotus-Ford,Cooper-Ford,1,0,1
+Lotus-Ford,"LDS-Alfa Romeo",1,0,1
+Lotus-Ford,Brabham-BRM,1,0,1
+Lotus-Ford,RE,1,0,1
+Cooper-Maserati,Cooper-Ford,1,0,1
+Cooper-Maserati,"LDS-Alfa Romeo",1,0,1
+Cooper-Maserati,RE,1,0,1
+RE,Cooper-Ford,1,0,1
+RE,"LDS-Alfa Romeo",1,0,1
+RE,LDS-Climax,1,0,1
+RE,Brabham-Climax,1,0,1
+RE,Brabham-Ford,1,0,1
+RE,Brabham-BRM,1,0,1
+RE,Lotus-Ford,1,0,1
+RE,Lotus-BRM,1,0,1
+RE,Lotus-Climax,1,0,1
+RE,Cooper-Climax,1,0,1
+RE,Cooper-Maserati,1,0,1
+RE,BRM,1,0,1
+RE,"Alfa Romeo",1,0,1
+RE,Ferrari,1,0,1
+RE,Honda,1,0,1
+"Alfa Romeo",Brabham-Climax,1,0,1
+"Alfa Romeo",Brabham-BRM,1,0,1
+"Alfa Romeo",Honda,1,0,1
+BRP,Brabham-Climax,1,0,1
+BRP,Brabham-BRM,1,0,1
+Scirocco,Brabham-Climax,1,0,1
+Scirocco,Brabham-BRM,1,0,1
+Scirocco,Brabham-Ford,1,0,1
+Scirocco,Honda,1,0,1
+Scirocco,Derrington,1,0,1
+Porsche,Brabham-Climax,1,0,1
+Porsche,Brabham-BRM,1,0,1
+Porsche,Brabham-Ford,1,0,1
+Porsche,Honda,1,0,1
+Porsche,Derrington,1,0,1
+Brabham-Ford,BRP,1,0,1
+Brabham-Ford,Scirocco,1,0,1
+Brabham-Ford,Porsche,1,0,1
+Brabham-Ford,Derrington,1,0,1
+Honda,BRP,1,0,1
+Honda,Scirocco,1,0,1
+Honda,Porsche,1,0,1
+Honda,Derrington,1,0,1
+Derrington,Brabham-Climax,1,0,1
+Derrington,Lotus-BRM,1,0,1
+Derrington,Lotus-Climax,1,0,1
+Derrington,Cooper-Climax,1,0,1
+Derrington,BRP,1,0,1
+Derrington,Scirocco,1,0,1
+Derrington,BRM,1,0,1
+Derrington,Ferrari,1,0,1
+Derrington,Brabham-BRM,1,0,1
+Derrington,Porsche,1,0,1
+Derrington,Brabham-Ford,1,0,1
+Derrington,Honda,1,0,1
+Scirocco,Brabham,1,0,1
+Scirocco,Lola,1,0,1
+Scirocco,Stebro,1,0,1
+"De Tomaso",Scirocco,1,0,1
+"De Tomaso",ATS,1,0,1
+"De Tomaso",BRP,1,0,1
+"De Tomaso","De Tomaso-Ferrari",1,0,1
+"De Tomaso",Lotus-Maserati,1,0,1
+"De Tomaso",Cooper-Maserati,1,0,1
+"De Tomaso",Stebro,1,0,1
+"De Tomaso",Lotus-Ford,1,0,1
+"De Tomaso","Alfa Romeo",1,0,1
+ATS,Lotus-BRM,1,0,1
+ATS,Lotus-Climax,1,0,1
+ATS,Cooper-Climax,1,0,1
+ATS,Porsche,1,0,1
+ATS,Scirocco,1,0,1
+ATS,"De Tomaso",1,0,1
+ATS,BRM,1,0,1
+ATS,Lola,1,0,1
+ATS,BRP,1,0,1
+ATS,Gilby,1,0,1
+ATS,Lotus-Borgward,1,0,1
+ATS,"De Tomaso-Ferrari",1,0,1
+ATS,Lotus-Maserati,1,0,1
+ATS,Cooper-Maserati,1,0,1
+ATS,Stebro,1,0,1
+ATS,Lotus-Ford,1,0,1
+ATS,LDS,1,0,1
+Lola,BRP,1,0,1
+BRP,Brabham,1,0,1
+Gilby,Scirocco,1,0,1
+Gilby,ATS,1,0,1
+Gilby,BRP,1,0,1
+Gilby,"De Tomaso-Ferrari",1,0,1
+Gilby,Stebro,1,0,1
+Gilby,Lotus-Ford,1,0,1
+Gilby,"Alfa Romeo",1,0,1
+Lotus-Borgward,Scirocco,1,0,1
+Lotus-Borgward,ATS,1,0,1
+Lotus-Borgward,BRP,1,0,1
+Lotus-Borgward,"De Tomaso-Ferrari",1,0,1
+Lotus-Borgward,Lotus-Maserati,1,0,1
+Lotus-Borgward,Cooper-Maserati,1,0,1
+Lotus-Borgward,Stebro,1,0,1
+Lotus-Borgward,Lotus-Ford,1,0,1
+Lotus-Borgward,"Alfa Romeo",1,0,1
+"De Tomaso-Ferrari",Lotus-BRM,1,0,1
+"De Tomaso-Ferrari",Lotus-Climax,1,0,1
+"De Tomaso-Ferrari",Cooper-Climax,1,0,1
+"De Tomaso-Ferrari",Porsche,1,0,1
+"De Tomaso-Ferrari",Scirocco,1,0,1
+"De Tomaso-Ferrari","De Tomaso",1,0,1
+"De Tomaso-Ferrari",BRM,1,0,1
+"De Tomaso-Ferrari",ATS,1,0,1
+"De Tomaso-Ferrari",Brabham,1,0,1
+"De Tomaso-Ferrari",Lola,1,0,1
+"De Tomaso-Ferrari",Ferrari,1,0,1
+"De Tomaso-Ferrari",BRP,1,0,1
+"De Tomaso-Ferrari",Gilby,1,0,1
+"De Tomaso-Ferrari",Lotus-Borgward,1,0,1
+"De Tomaso-Ferrari",Lotus-Maserati,1,0,1
+"De Tomaso-Ferrari",Cooper-Maserati,1,0,1
+"De Tomaso-Ferrari",Stebro,1,0,1
+"De Tomaso-Ferrari","Team Lotus",1,0,1
+"De Tomaso-Ferrari",Lotus-Ford,1,0,1
+"De Tomaso-Ferrari",LDS,1,0,1
+"De Tomaso-Ferrari","Alfa Romeo",1,0,1
+Lotus-Maserati,Lotus-BRM,1,0,1
+Lotus-Maserati,Scirocco,1,0,1
+Lotus-Maserati,"De Tomaso",1,0,1
+Lotus-Maserati,ATS,1,0,1
+Lotus-Maserati,Brabham,1,0,1
+Lotus-Maserati,Lola,1,0,1
+Lotus-Maserati,BRP,1,0,1
+Lotus-Maserati,Lotus-Borgward,1,0,1
+Lotus-Maserati,"De Tomaso-Ferrari",1,0,1
+Lotus-Maserati,Stebro,1,0,1
+Lotus-Maserati,"Team Lotus",1,0,1
+Lotus-Maserati,Lotus-Ford,1,0,1
+Lotus-Maserati,LDS,1,0,1
+Lotus-Maserati,"Alfa Romeo",1,0,1
+Cooper-Maserati,Scirocco,1,0,1
+Cooper-Maserati,"De Tomaso",1,0,1
+Cooper-Maserati,ATS,1,0,1
+Cooper-Maserati,Brabham,1,0,1
+Cooper-Maserati,BRP,1,0,1
+Cooper-Maserati,Lotus-Borgward,1,0,1
+Cooper-Maserati,"De Tomaso-Ferrari",1,0,1
+Cooper-Maserati,Stebro,1,0,1
+Stebro,Lotus-BRM,1,0,1
+Stebro,Lotus-Climax,1,0,1
+Stebro,Cooper-Climax,1,0,1
+Stebro,Porsche,1,0,1
+Stebro,BRM,1,0,1
+Stebro,Brabham,1,0,1
+Stebro,Lola,1,0,1
+Stebro,Ferrari,1,0,1
+Stebro,BRP,1,0,1
+"Team Lotus",Scirocco,1,0,1
+"Team Lotus",BRP,1,0,1
+"Team Lotus","De Tomaso-Ferrari",1,0,1
+"Team Lotus",Lotus-Maserati,1,0,1
+"Team Lotus",Stebro,1,0,1
+"Team Lotus",Lotus-Ford,1,0,1
+Lotus-Ford,Porsche,1,0,1
+Lotus-Ford,Scirocco,1,0,1
+Lotus-Ford,"De Tomaso",1,0,1
+Lotus-Ford,ATS,1,0,1
+Lotus-Ford,BRP,1,0,1
+Lotus-Ford,Gilby,1,0,1
+Lotus-Ford,Lotus-Borgward,1,0,1
+Lotus-Ford,"De Tomaso-Ferrari",1,0,1
+Lotus-Ford,Lotus-Maserati,1,0,1
+Lotus-Ford,Stebro,1,0,1
+Lotus-Ford,"Team Lotus",1,0,1
+LDS,Scirocco,1,0,1
+LDS,ATS,1,0,1
+LDS,BRP,1,0,1
+LDS,"De Tomaso-Ferrari",1,0,1
+LDS,Lotus-Maserati,1,0,1
+LDS,Stebro,1,0,1
+LDS,"Alfa Romeo",1,0,1
+"Alfa Romeo",Porsche,1,0,1
+"Alfa Romeo",Scirocco,1,0,1
+"Alfa Romeo","De Tomaso",1,0,1
+"Alfa Romeo",BRP,1,0,1
+"Alfa Romeo",Gilby,1,0,1
+"Alfa Romeo",Lotus-Borgward,1,0,1
+"Alfa Romeo","De Tomaso-Ferrari",1,0,1
+"Alfa Romeo",Lotus-Maserati,1,0,1
+"Alfa Romeo",Stebro,1,0,1
+"Alfa Romeo",LDS,1,0,1
+Emeryson,Lola,1,0,1
+Emeryson,Lotus-BRM,1,0,1
+Emeryson,"Team Lotus",1,0,1
+Emeryson,ENB,1,0,1
+Emeryson,Brabham,1,0,1
+Emeryson,Lotus-Borgward,1,0,1
+Emeryson,"De Tomaso",1,0,1
+Emeryson,"Cooper-Alfa Romeo",1,0,1
+Emeryson,LDS,1,0,1
+"De Tomaso-Alfa Romeo",Lola,1,0,1
+"De Tomaso-Alfa Romeo",Lotus-BRM,1,0,1
+"De Tomaso-Alfa Romeo",Cooper,1,0,1
+"De Tomaso-Alfa Romeo","Team Lotus",1,0,1
+"De Tomaso-Alfa Romeo",ENB,1,0,1
+"De Tomaso-Alfa Romeo",Brabham,1,0,1
+"De Tomaso-Alfa Romeo",Lotus-Borgward,1,0,1
+"De Tomaso-Alfa Romeo","De Tomaso",1,0,1
+"De Tomaso-Alfa Romeo","Cooper-Alfa Romeo",1,0,1
+"De Tomaso-Alfa Romeo",LDS,1,0,1
+Cooper,Lotus-Climax,1,0,1
+Cooper,Cooper-Climax,1,0,1
+Cooper,Lola,1,0,1
+Cooper,Lotus-BRM,1,0,1
+Cooper,"De Tomaso-Alfa Romeo",1,0,1
+Cooper,Gilby,1,0,1
+Cooper,ENB,1,0,1
+Cooper,Brabham,1,0,1
+Cooper,Lotus-Borgward,1,0,1
+Cooper,"De Tomaso-Osca",1,0,1
+Cooper,"De Tomaso",1,0,1
+Cooper,"Cooper-Alfa Romeo",1,0,1
+Cooper,LDS,1,0,1
+"Team Lotus",Emeryson,1,0,1
+"Team Lotus","De Tomaso-Alfa Romeo",1,0,1
+"Team Lotus",ENB,1,0,1
+"Team Lotus","De Tomaso-Osca",1,0,1
+"Team Lotus","Cooper-Alfa Romeo",1,0,1
+Gilby,Cooper,1,0,1
+Gilby,ENB,1,0,1
+Gilby,"Cooper-Alfa Romeo",1,0,1
+ENB,Lotus-Climax,1,0,1
+ENB,Cooper-Climax,1,0,1
+ENB,Emeryson,1,0,1
+ENB,Porsche,1,0,1
+ENB,BRM,1,0,1
+ENB,Lola,1,0,1
+ENB,Ferrari,1,0,1
+ENB,Lotus-BRM,1,0,1
+ENB,"De Tomaso-Alfa Romeo",1,0,1
+ENB,Cooper,1,0,1
+ENB,"Team Lotus",1,0,1
+ENB,Gilby,1,0,1
+ENB,Brabham,1,0,1
+ENB,Lotus-Borgward,1,0,1
+ENB,"De Tomaso-Osca",1,0,1
+ENB,"De Tomaso",1,0,1
+ENB,"Cooper-Alfa Romeo",1,0,1
+ENB,LDS,1,0,1
+Lotus-Borgward,Emeryson,1,0,1
+Lotus-Borgward,"De Tomaso-Alfa Romeo",1,0,1
+Lotus-Borgward,Cooper,1,0,1
+Lotus-Borgward,ENB,1,0,1
+Lotus-Borgward,"De Tomaso-Osca",1,0,1
+Lotus-Borgward,"Cooper-Alfa Romeo",1,0,1
+"De Tomaso-Osca",Lola,1,0,1
+"De Tomaso-Osca",Lotus-BRM,1,0,1
+"De Tomaso-Osca",Cooper,1,0,1
+"De Tomaso-Osca","Team Lotus",1,0,1
+"De Tomaso-Osca",ENB,1,0,1
+"De Tomaso-Osca",Brabham,1,0,1
+"De Tomaso-Osca",Lotus-Borgward,1,0,1
+"De Tomaso-Osca","De Tomaso",1,0,1
+"De Tomaso-Osca","Cooper-Alfa Romeo",1,0,1
+"De Tomaso-Osca",LDS,1,0,1
+"De Tomaso",Emeryson,1,0,1
+"De Tomaso","De Tomaso-Alfa Romeo",1,0,1
+"De Tomaso",Cooper,1,0,1
+"De Tomaso",ENB,1,0,1
+"De Tomaso","De Tomaso-Osca",1,0,1
+"De Tomaso","Cooper-Alfa Romeo",1,0,1
+"Cooper-Alfa Romeo",Lotus-Climax,1,0,1
+"Cooper-Alfa Romeo",Cooper-Climax,1,0,1
+"Cooper-Alfa Romeo",Emeryson,1,0,1
+"Cooper-Alfa Romeo",Porsche,1,0,1
+"Cooper-Alfa Romeo",BRM,1,0,1
+"Cooper-Alfa Romeo",Lola,1,0,1
+"Cooper-Alfa Romeo",Ferrari,1,0,1
+"Cooper-Alfa Romeo",Lotus-BRM,1,0,1
+"Cooper-Alfa Romeo","De Tomaso-Alfa Romeo",1,0,1
+"Cooper-Alfa Romeo",Cooper,1,0,1
+"Cooper-Alfa Romeo","Team Lotus",1,0,1
+"Cooper-Alfa Romeo",Gilby,1,0,1
+"Cooper-Alfa Romeo",ENB,1,0,1
+"Cooper-Alfa Romeo",Brabham,1,0,1
+"Cooper-Alfa Romeo",Lotus-Borgward,1,0,1
+"Cooper-Alfa Romeo","De Tomaso-Osca",1,0,1
+"Cooper-Alfa Romeo","De Tomaso",1,0,1
+"Cooper-Alfa Romeo",LDS,1,0,1
+LDS,Emeryson,1,0,1
+LDS,"De Tomaso-Alfa Romeo",1,0,1
+LDS,Cooper,1,0,1
+LDS,ENB,1,0,1
+LDS,"De Tomaso-Osca",1,0,1
+LDS,"Cooper-Alfa Romeo",1,0,1
+Emeryson,Cooper-Maserati,1,0,1
+Emeryson,JBW,1,0,1
+Emeryson,Ferguson,1,0,1
+Emeryson,MBM,1,0,1
+Emeryson,Lotus-Maserati,1,0,1
+"De Tomaso-Osca",Cooper-Maserati,1,0,1
+"De Tomaso-Osca",JBW,1,0,1
+"De Tomaso-Osca",Ferguson,1,0,1
+"De Tomaso-Osca",MBM,1,0,1
+"De Tomaso-Osca",Lotus-Maserati,1,0,1
+JBW,Lotus-Climax,1,0,1
+JBW,Emeryson,1,0,1
+JBW,"De Tomaso-Osca",1,0,1
+JBW,Ferguson,1,0,1
+JBW,Gilby,1,0,1
+JBW,MBM,1,0,1
+JBW,"De Tomaso-Alfa Romeo",1,0,1
+JBW,Lotus-Maserati,1,0,1
+Ferguson,Lotus-Climax,1,0,1
+Ferguson,Cooper-Climax,1,0,1
+Ferguson,Cooper-Maserati,1,0,1
+Ferguson,Emeryson,1,0,1
+Ferguson,Porsche,1,0,1
+Ferguson,BRM,1,0,1
+Ferguson,Ferrari,1,0,1
+Ferguson,"De Tomaso-Osca",1,0,1
+Ferguson,JBW,1,0,1
+Ferguson,Gilby,1,0,1
+Ferguson,MBM,1,0,1
+Ferguson,"De Tomaso-Alfa Romeo",1,0,1
+Ferguson,Lotus-Maserati,1,0,1
+Gilby,JBW,1,0,1
+Gilby,Ferguson,1,0,1
+Gilby,MBM,1,0,1
+MBM,Lotus-Climax,1,0,1
+MBM,Cooper-Climax,1,0,1
+MBM,Cooper-Maserati,1,0,1
+MBM,Emeryson,1,0,1
+MBM,Porsche,1,0,1
+MBM,BRM,1,0,1
+MBM,Ferrari,1,0,1
+MBM,"De Tomaso-Osca",1,0,1
+MBM,JBW,1,0,1
+MBM,Ferguson,1,0,1
+MBM,Gilby,1,0,1
+MBM,"De Tomaso-Alfa Romeo",1,0,1
+MBM,Lotus-Maserati,1,0,1
+"De Tomaso-Alfa Romeo",Cooper-Maserati,1,0,1
+"De Tomaso-Alfa Romeo",JBW,1,0,1
+"De Tomaso-Alfa Romeo",Ferguson,1,0,1
+"De Tomaso-Alfa Romeo",MBM,1,0,1
+"De Tomaso-Alfa Romeo",Lotus-Maserati,1,0,1
+Lotus-Maserati,Emeryson,1,0,1
+Lotus-Maserati,"De Tomaso-Osca",1,0,1
+Lotus-Maserati,JBW,1,0,1
+Lotus-Maserati,Ferguson,1,0,1
+Lotus-Maserati,MBM,1,0,1
+Lotus-Maserati,"De Tomaso-Alfa Romeo",1,0,1
+Maserati,Behra-Porsche,1,0,1
+Maserati,Cooper-Castellotti,1,0,1
+Maserati,Scarab,1,0,1
+Maserati,Meskowski,1,0,1
+Behra-Porsche,Cooper-Climax,1,0,1
+Behra-Porsche,Cooper-Maserati,1,0,1
+Behra-Porsche,BRM,1,0,1
+Behra-Porsche,"Team Lotus",1,0,1
+Behra-Porsche,Ferrari,1,0,1
+Behra-Porsche,Cooper-Castellotti,1,0,1
+Behra-Porsche,Scarab,1,0,1
+Behra-Porsche,"Kurtis Kraft",1,0,1
+Behra-Porsche,Meskowski,1,0,1
+Behra-Porsche,Trevis,1,0,1
+Behra-Porsche,Lesovsky,1,0,1
+Behra-Porsche,Phillips,1,0,1
+Behra-Porsche,Epperly,1,0,1
+Behra-Porsche,Watson,1,0,1
+Behra-Porsche,Porsche,1,0,1
+Cooper-Castellotti,Cooper-Climax,1,0,1
+Cooper-Castellotti,Cooper-Maserati,1,0,1
+Cooper-Castellotti,BRM,1,0,1
+Cooper-Castellotti,"Team Lotus",1,0,1
+Cooper-Castellotti,Ferrari,1,0,1
+Cooper-Castellotti,Phillips,1,0,1
+Cooper-Castellotti,Epperly,1,0,1
+Cooper-Castellotti,Watson,1,0,1
+Cooper-Castellotti,Porsche,1,0,1
+Scarab,Cooper-Climax,1,0,1
+Scarab,Cooper-Maserati,1,0,1
+Scarab,Behra-Porsche,1,0,1
+Scarab,BRM,1,0,1
+Scarab,"Team Lotus",1,0,1
+Scarab,Ferrari,1,0,1
+Scarab,Cooper-Castellotti,1,0,1
+Scarab,"Kurtis Kraft",1,0,1
+Scarab,Meskowski,1,0,1
+Scarab,Trevis,1,0,1
+Scarab,Lesovsky,1,0,1
+Scarab,Phillips,1,0,1
+Scarab,Epperly,1,0,1
+Scarab,Watson,1,0,1
+Scarab,Porsche,1,0,1
+JBW,Behra-Porsche,1,0,1
+JBW,Cooper-Castellotti,1,0,1
+JBW,Scarab,1,0,1
+JBW,Ewing,1,0,1
+JBW,Meskowski,1,0,1
+JBW,Trevis,1,0,1
+Ewing,Cooper-Climax,1,0,1
+Ewing,Cooper-Maserati,1,0,1
+Ewing,Behra-Porsche,1,0,1
+Ewing,BRM,1,0,1
+Ewing,"Team Lotus",1,0,1
+Ewing,Cooper-Castellotti,1,0,1
+Ewing,Scarab,1,0,1
+Ewing,JBW,1,0,1
+Ewing,Christensen,1,0,1
+Ewing,Kuzma,1,0,1
+Ewing,Meskowski,1,0,1
+Ewing,Trevis,1,0,1
+Ewing,Phillips,1,0,1
+Ewing,Epperly,1,0,1
+Ewing,"Aston Martin",1,0,1
+Ewing,Vanwall,1,0,1
+Ewing,Porsche,1,0,1
+Christensen,Behra-Porsche,1,0,1
+Christensen,Cooper-Castellotti,1,0,1
+Christensen,Scarab,1,0,1
+Christensen,Ewing,1,0,1
+Christensen,Meskowski,1,0,1
+Christensen,Trevis,1,0,1
+Kuzma,Behra-Porsche,1,0,1
+Kuzma,Cooper-Castellotti,1,0,1
+Kuzma,Scarab,1,0,1
+Kuzma,Ewing,1,0,1
+Kuzma,Meskowski,1,0,1
+"Kurtis Kraft",Behra-Porsche,1,0,1
+"Kurtis Kraft",Cooper-Castellotti,1,0,1
+"Kurtis Kraft",Scarab,1,0,1
+"Kurtis Kraft",Meskowski,1,0,1
+Meskowski,Cooper-Climax,1,0,1
+Meskowski,Cooper-Maserati,1,0,1
+Meskowski,BRM,1,0,1
+Meskowski,"Team Lotus",1,0,1
+Meskowski,Ferrari,1,0,1
+Meskowski,Cooper-Castellotti,1,0,1
+Meskowski,Trevis,1,0,1
+Meskowski,Lesovsky,1,0,1
+Meskowski,Phillips,1,0,1
+Meskowski,Epperly,1,0,1
+Meskowski,Watson,1,0,1
+Meskowski,Porsche,1,0,1
+Trevis,Cooper-Climax,1,0,1
+Trevis,Cooper-Maserati,1,0,1
+Trevis,"Team Lotus",1,0,1
+Trevis,Cooper-Castellotti,1,0,1
+Trevis,Porsche,1,0,1
+Lesovsky,Cooper-Castellotti,1,0,1
+Phillips,Cooper-Castellotti,1,0,1
+"Aston Martin",Behra-Porsche,1,0,1
+"Aston Martin",Cooper-Castellotti,1,0,1
+"Aston Martin",Scarab,1,0,1
+"Aston Martin",Ewing,1,0,1
+"Aston Martin",Meskowski,1,0,1
+"Aston Martin",Trevis,1,0,1
+Vanwall,Behra-Porsche,1,0,1
+Vanwall,Cooper-Castellotti,1,0,1
+Vanwall,Scarab,1,0,1
+Vanwall,Ewing,1,0,1
+Vanwall,Meskowski,1,0,1
+Sutton,Cooper-Climax,1,0,1
+Sutton,Cooper-Maserati,1,0,1
+Sutton,Maserati,1,0,1
+Sutton,Porsche,1,0,1
+Sutton,BRM,1,0,1
+Sutton,"Team Lotus",1,0,1
+Sutton,Ferrari,1,0,1
+Sutton,Elder,1,0,1
+Sutton,Dunn,1,0,1
+Sutton,Moore,1,0,1
+Sutton,Christensen,1,0,1
+Sutton,Kuzma,1,0,1
+Sutton,"Kurtis Kraft",1,0,1
+Sutton,Lesovsky,1,0,1
+Sutton,Phillips,1,0,1
+Sutton,Epperly,1,0,1
+Sutton,Watson,1,0,1
+Sutton,"Aston Martin",1,0,1
+Sutton,Cooper-Borgward,1,0,1
+Sutton,Fry,1,0,1
+Sutton,Vanwall,1,0,1
+Sutton,JBW,1,0,1
+Sutton,Cooper-OSCA,1,0,1
+Sutton,Connaught,1,0,1
+Sutton,Tec-Mec,1,0,1
+Elder,Cooper-Climax,1,0,1
+Elder,Cooper-Maserati,1,0,1
+Elder,Maserati,1,0,1
+Elder,Porsche,1,0,1
+Elder,BRM,1,0,1
+Elder,"Team Lotus",1,0,1
+Elder,Ferrari,1,0,1
+Elder,Sutton,1,0,1
+Elder,Dunn,1,0,1
+Elder,Moore,1,0,1
+Elder,Christensen,1,0,1
+Elder,Kuzma,1,0,1
+Elder,"Kurtis Kraft",1,0,1
+Elder,Lesovsky,1,0,1
+Elder,Phillips,1,0,1
+Elder,Epperly,1,0,1
+Elder,Watson,1,0,1
+Elder,"Aston Martin",1,0,1
+Elder,Cooper-Borgward,1,0,1
+Elder,Fry,1,0,1
+Elder,Vanwall,1,0,1
+Elder,JBW,1,0,1
+Elder,Cooper-OSCA,1,0,1
+Elder,Connaught,1,0,1
+Elder,Tec-Mec,1,0,1
+Dunn,Cooper-Climax,1,0,1
+Dunn,Cooper-Maserati,1,0,1
+Dunn,Sutton,1,0,1
+Dunn,Elder,1,0,1
+Dunn,Moore,1,0,1
+Dunn,Christensen,1,0,1
+Dunn,"Aston Martin",1,0,1
+Dunn,Cooper-Borgward,1,0,1
+Dunn,Fry,1,0,1
+Dunn,JBW,1,0,1
+Dunn,Cooper-OSCA,1,0,1
+Dunn,Tec-Mec,1,0,1
+Moore,Cooper-Climax,1,0,1
+Moore,Cooper-Maserati,1,0,1
+Moore,Porsche,1,0,1
+Moore,"Team Lotus",1,0,1
+Moore,Sutton,1,0,1
+Moore,Elder,1,0,1
+Moore,Dunn,1,0,1
+Moore,Christensen,1,0,1
+Moore,Phillips,1,0,1
+Moore,Epperly,1,0,1
+Moore,"Aston Martin",1,0,1
+Moore,Cooper-Borgward,1,0,1
+Moore,Fry,1,0,1
+Moore,Vanwall,1,0,1
+Moore,JBW,1,0,1
+Moore,Cooper-OSCA,1,0,1
+Moore,Connaught,1,0,1
+Moore,Tec-Mec,1,0,1
+Christensen,Sutton,1,0,1
+Christensen,Elder,1,0,1
+Christensen,Dunn,1,0,1
+Christensen,Moore,1,0,1
+Christensen,Cooper-Borgward,1,0,1
+Christensen,Fry,1,0,1
+Christensen,Cooper-OSCA,1,0,1
+Christensen,Connaught,1,0,1
+Christensen,Tec-Mec,1,0,1
+Kuzma,Cooper-Borgward,1,0,1
+Phillips,Sutton,1,0,1
+Phillips,Elder,1,0,1
+Phillips,Moore,1,0,1
+Phillips,Cooper-Borgward,1,0,1
+Phillips,Fry,1,0,1
+Phillips,Cooper-OSCA,1,0,1
+Phillips,Tec-Mec,1,0,1
+Cooper-Borgward,Cooper-Climax,1,0,1
+Cooper-Borgward,Cooper-Maserati,1,0,1
+Cooper-Borgward,Maserati,1,0,1
+Cooper-Borgward,Porsche,1,0,1
+Cooper-Borgward,BRM,1,0,1
+Cooper-Borgward,"Team Lotus",1,0,1
+Cooper-Borgward,Ferrari,1,0,1
+Cooper-Borgward,Kuzma,1,0,1
+Cooper-Borgward,"Kurtis Kraft",1,0,1
+Cooper-Borgward,Lesovsky,1,0,1
+Cooper-Borgward,Epperly,1,0,1
+Cooper-Borgward,Watson,1,0,1
+Cooper-Borgward,"Aston Martin",1,0,1
+Fry,Cooper-Climax,1,0,1
+Fry,Cooper-Maserati,1,0,1
+Fry,Maserati,1,0,1
+Fry,Porsche,1,0,1
+Fry,BRM,1,0,1
+Fry,"Team Lotus",1,0,1
+Fry,Ferrari,1,0,1
+Fry,Sutton,1,0,1
+Fry,Elder,1,0,1
+Fry,Dunn,1,0,1
+Fry,Moore,1,0,1
+Fry,Christensen,1,0,1
+Fry,Kuzma,1,0,1
+Fry,"Kurtis Kraft",1,0,1
+Fry,Lesovsky,1,0,1
+Fry,Phillips,1,0,1
+Fry,Epperly,1,0,1
+Fry,Watson,1,0,1
+Fry,"Aston Martin",1,0,1
+Fry,Cooper-Borgward,1,0,1
+Fry,Vanwall,1,0,1
+Fry,JBW,1,0,1
+Fry,Cooper-OSCA,1,0,1
+Fry,Connaught,1,0,1
+Fry,Tec-Mec,1,0,1
+Vanwall,Sutton,1,0,1
+Vanwall,Elder,1,0,1
+Vanwall,Moore,1,0,1
+Vanwall,Cooper-Borgward,1,0,1
+Vanwall,Fry,1,0,1
+Vanwall,Cooper-OSCA,1,0,1
+Vanwall,Tec-Mec,1,0,1
+JBW,Sutton,1,0,1
+JBW,Elder,1,0,1
+JBW,Dunn,1,0,1
+JBW,Moore,1,0,1
+JBW,Cooper-Borgward,1,0,1
+JBW,Fry,1,0,1
+JBW,Cooper-OSCA,1,0,1
+JBW,Connaught,1,0,1
+JBW,Tec-Mec,1,0,1
+Cooper-OSCA,Cooper-Climax,1,0,1
+Cooper-OSCA,Cooper-Maserati,1,0,1
+Cooper-OSCA,Maserati,1,0,1
+Cooper-OSCA,Porsche,1,0,1
+Cooper-OSCA,BRM,1,0,1
+Cooper-OSCA,"Team Lotus",1,0,1
+Cooper-OSCA,Ferrari,1,0,1
+Cooper-OSCA,Sutton,1,0,1
+Cooper-OSCA,Elder,1,0,1
+Cooper-OSCA,Dunn,1,0,1
+Cooper-OSCA,Moore,1,0,1
+Cooper-OSCA,Christensen,1,0,1
+Cooper-OSCA,Kuzma,1,0,1
+Cooper-OSCA,"Kurtis Kraft",1,0,1
+Cooper-OSCA,Lesovsky,1,0,1
+Cooper-OSCA,Phillips,1,0,1
+Cooper-OSCA,Epperly,1,0,1
+Cooper-OSCA,Watson,1,0,1
+Cooper-OSCA,"Aston Martin",1,0,1
+Cooper-OSCA,Cooper-Borgward,1,0,1
+Cooper-OSCA,Fry,1,0,1
+Cooper-OSCA,Vanwall,1,0,1
+Cooper-OSCA,JBW,1,0,1
+Cooper-OSCA,Connaught,1,0,1
+Cooper-OSCA,Tec-Mec,1,0,1
+Connaught,Cooper-Climax,1,0,1
+Connaught,Cooper-Maserati,1,0,1
+Connaught,Sutton,1,0,1
+Connaught,Elder,1,0,1
+Connaught,Moore,1,0,1
+Connaught,Christensen,1,0,1
+Connaught,"Aston Martin",1,0,1
+Connaught,Cooper-Borgward,1,0,1
+Connaught,Fry,1,0,1
+Connaught,JBW,1,0,1
+Connaught,Cooper-OSCA,1,0,1
+Connaught,Tec-Mec,1,0,1
+Tec-Mec,Cooper-Climax,1,0,1
+Tec-Mec,Cooper-Maserati,1,0,1
+Tec-Mec,Maserati,1,0,1
+Tec-Mec,Porsche,1,0,1
+Tec-Mec,BRM,1,0,1
+Tec-Mec,"Team Lotus",1,0,1
+Tec-Mec,Ferrari,1,0,1
+Tec-Mec,Sutton,1,0,1
+Tec-Mec,Elder,1,0,1
+Tec-Mec,Dunn,1,0,1
+Tec-Mec,Moore,1,0,1
+Tec-Mec,Christensen,1,0,1
+Tec-Mec,Kuzma,1,0,1
+Tec-Mec,"Kurtis Kraft",1,0,1
+Tec-Mec,Lesovsky,1,0,1
+Tec-Mec,Phillips,1,0,1
+Tec-Mec,Epperly,1,0,1
+Tec-Mec,Watson,1,0,1
+Tec-Mec,"Aston Martin",1,0,1
+Tec-Mec,Cooper-Borgward,1,0,1
+Tec-Mec,Fry,1,0,1
+Tec-Mec,Vanwall,1,0,1
+Tec-Mec,JBW,1,0,1
+Tec-Mec,Cooper-OSCA,1,0,1
+Tec-Mec,Connaught,1,0,1
+OSCA,Vanwall,1,0,1
+OSCA,"Team Lotus",1,0,1
+OSCA,Porsche,1,0,1
+OSCA,Dunn,1,0,1
+OSCA,Phillips,1,0,1
+OSCA,Epperly,1,0,1
+Dunn,OSCA,1,0,1
+BRM,Gordini,1,0,1
+BRM,Stevens,1,0,1
+BRM,Bugatti,1,0,1
+Bugatti,Maserati,1,0,1
+Bugatti,Ferrari,1,0,1
+Bugatti,Gordini,1,0,1
+Bugatti,Vanwall,1,0,1
+Bugatti,BRM,1,0,1
+Bugatti,Stevens,1,0,1
+Bugatti,Kuzma,1,0,1
+Bugatti,"Kurtis Kraft",1,0,1
+Bugatti,Lesovsky,1,0,1
+Bugatti,Phillips,1,0,1
+Bugatti,Watson,1,0,1
+Bugatti,Connaught,1,0,1
+Bugatti,Emeryson,1,0,1
+Bugatti,Cooper,1,0,1
+Emeryson,Maserati,1,0,1
+Emeryson,Gordini,1,0,1
+Emeryson,Vanwall,1,0,1
+Emeryson,Stevens,1,0,1
+Emeryson,Kuzma,1,0,1
+Emeryson,"Kurtis Kraft",1,0,1
+Emeryson,Lesovsky,1,0,1
+Emeryson,Phillips,1,0,1
+Emeryson,Watson,1,0,1
+Emeryson,Connaught,1,0,1
+Emeryson,Bugatti,1,0,1
+Cooper,Bugatti,1,0,1
+HWM,Epperly,1,0,1
+HWM,Arzani-Volpini,1,0,1
+Pankratz,Trevis,1,0,1
+Pankratz,Epperly,1,0,1
+Pankratz,Arzani-Volpini,1,0,1
+Pawl,Epperly,1,0,1
+Pawl,Arzani-Volpini,1,0,1
+Schroeder,Epperly,1,0,1
+Schroeder,Arzani-Volpini,1,0,1
+Stevens,Epperly,1,0,1
+Stevens,Arzani-Volpini,1,0,1
+Trevis,Lancia,1,0,1
+Trevis,Mercedes,1,0,1
+Trevis,Pankratz,1,0,1
+Trevis,Arzani-Volpini,1,0,1
+Phillips,Arzani-Volpini,1,0,1
+Epperly,Lancia,1,0,1
+Epperly,Mercedes,1,0,1
+Epperly,Gordini,1,0,1
+Epperly,HWM,1,0,1
+Epperly,Pankratz,1,0,1
+Epperly,Pawl,1,0,1
+Epperly,Schroeder,1,0,1
+Epperly,Stevens,1,0,1
+Epperly,Arzani-Volpini,1,0,1
+Connaught,Arzani-Volpini,1,0,1
+Cooper,Arzani-Volpini,1,0,1
+Arzani-Volpini,Lancia,1,0,1
+Arzani-Volpini,Mercedes,1,0,1
+Arzani-Volpini,Gordini,1,0,1
+Arzani-Volpini,Maserati,1,0,1
+Arzani-Volpini,Ferrari,1,0,1
+Arzani-Volpini,HWM,1,0,1
+Arzani-Volpini,Vanwall,1,0,1
+Arzani-Volpini,Pankratz,1,0,1
+Arzani-Volpini,Pawl,1,0,1
+Arzani-Volpini,Schroeder,1,0,1
+Arzani-Volpini,Stevens,1,0,1
+Arzani-Volpini,Kuzma,1,0,1
+Arzani-Volpini,"Kurtis Kraft",1,0,1
+Arzani-Volpini,Trevis,1,0,1
+Arzani-Volpini,Phillips,1,0,1
+Arzani-Volpini,Epperly,1,0,1
+Arzani-Volpini,Connaught,1,0,1
+Arzani-Volpini,Cooper,1,0,1
+Bromme,Nichels,1,0,1
+Bromme,Pankratz,1,0,1
+Bromme,Phillips,1,0,1
+Bromme,Mercedes,1,0,1
+Bromme,Vanwall,1,0,1
+Bromme,Klenk,1,0,1
+Bromme,Lancia,1,0,1
+Nichels,Gordini,1,0,1
+Nichels,Bromme,1,0,1
+Nichels,Pankratz,1,0,1
+Nichels,Pawl,1,0,1
+Nichels,Schroeder,1,0,1
+Nichels,Kuzma,1,0,1
+Nichels,Phillips,1,0,1
+Nichels,HWM,1,0,1
+Nichels,Mercedes,1,0,1
+Nichels,Connaught,1,0,1
+Nichels,Vanwall,1,0,1
+Nichels,Klenk,1,0,1
+Nichels,Lancia,1,0,1
+Pankratz,Bromme,1,0,1
+Pankratz,Nichels,1,0,1
+Pankratz,Klenk,1,0,1
+Pawl,Nichels,1,0,1
+Pawl,Klenk,1,0,1
+Schroeder,Nichels,1,0,1
+Schroeder,Klenk,1,0,1
+HWM,Nichels,1,0,1
+HWM,Klenk,1,0,1
+Connaught,Nichels,1,0,1
+Connaught,Klenk,1,0,1
+Klenk,Gordini,1,0,1
+Klenk,Maserati,1,0,1
+Klenk,Ferrari,1,0,1
+Klenk,Bromme,1,0,1
+Klenk,Nichels,1,0,1
+Klenk,Pankratz,1,0,1
+Klenk,Pawl,1,0,1
+Klenk,Schroeder,1,0,1
+Klenk,Stevens,1,0,1
+Klenk,Kuzma,1,0,1
+Klenk,"Kurtis Kraft",1,0,1
+Klenk,Phillips,1,0,1
+Klenk,HWM,1,0,1
+Klenk,Mercedes,1,0,1
+Klenk,Connaught,1,0,1
+Klenk,Vanwall,1,0,1
+Klenk,Cooper,1,0,1
+Klenk,Lancia,1,0,1
+Lancia,Bromme,1,0,1
+Lancia,Nichels,1,0,1
+Lancia,Klenk,1,0,1
+Simca,"Del Roy",1,0,1
+Simca,Turner,1,0,1
+Simca,EMW,1,0,1
+"Del Roy",Simca,1,0,1
+"Del Roy",Gordini,1,0,1
+"Del Roy",Maserati,1,0,1
+"Del Roy",Cooper,1,0,1
+"Del Roy",Ferrari,1,0,1
+"Del Roy",Turner,1,0,1
+"Del Roy",Bromme,1,0,1
+"Del Roy",Schroeder,1,0,1
+"Del Roy",Stevens,1,0,1
+"Del Roy",Kuzma,1,0,1
+"Del Roy","Kurtis Kraft",1,0,1
+"Del Roy",Lesovsky,1,0,1
+"Del Roy",Watson,1,0,1
+"Del Roy",HWM,1,0,1
+"Del Roy",Connaught,1,0,1
+"Del Roy",Veritas,1,0,1
+"Force India",Brawn,1,0,1
+"Red Bull",Brawn,1,0,1
+Toyota,Brawn,1,0,1
+Ferrari,Brawn,1,0,1
+"Toro Rosso",Brawn,1,0,1
+Renault,Brawn,1,0,1
+Williams,Brawn,1,0,1
+"BMW Sauber",Brawn,1,0,1
+McLaren,Brawn,1,0,1
+"Force India",Honda,1,0,1
+"Super Aguri","Force India",1,0,1
+Spyker,Honda,1,0,1
+Spyker,"Red Bull",1,0,1
+Spyker,"Super Aguri",1,0,1
+Spyker,Toyota,1,0,1
+Spyker,Ferrari,1,0,1
+Spyker,"Toro Rosso",1,0,1
+Spyker,Renault,1,0,1
+Spyker,Williams,1,0,1
+Spyker,"BMW Sauber",1,0,1
+Spyker,McLaren,1,0,1
+MF1,Honda,1,0,1
+MF1,"Red Bull",1,0,1
+MF1,Toyota,1,0,1
+MF1,Ferrari,1,0,1
+MF1,"Toro Rosso",1,0,1
+MF1,Renault,1,0,1
+MF1,Williams,1,0,1
+MF1,"BMW Sauber",1,0,1
+MF1,McLaren,1,0,1
+"Super Aguri",MF1,1,0,1
+"Spyker MF1",MF1,1,0,1
+"Spyker MF1",Honda,1,0,1
+"Spyker MF1","Red Bull",1,0,1
+"Spyker MF1","Super Aguri",1,0,1
+"Spyker MF1",Toyota,1,0,1
+"Spyker MF1",Ferrari,1,0,1
+"Spyker MF1","Toro Rosso",1,0,1
+"Spyker MF1",Renault,1,0,1
+"Spyker MF1",Williams,1,0,1
+"Spyker MF1","BMW Sauber",1,0,1
+"Spyker MF1",McLaren,1,0,1
+Minardi,"Red Bull",1,0,1
+Jordan,"Red Bull",1,0,1
+BAR,"Red Bull",1,0,1
+Arrows,Toyota,1,0,1
+BAR,Stewart,1,0,1
+Lola,Stewart,1,0,1
+Lola,Prost,1,0,1
+Simtek,Forti,1,0,1
+Pacific,Forti,1,0,1
+Simtek,Larrousse,1,0,1
+Simtek,"Team Lotus",1,0,1
+Pacific,Larrousse,1,0,1
+Pacific,"Team Lotus",1,0,1
+March,Footwork,1,0,1
+March,Jordan,1,0,1
+Fondmetal,March,1,0,1
+Brabham,"Andrea Moda",1,0,1
+"Andrea Moda",March,1,0,1
+"Andrea Moda",Fondmetal,1,0,1
+"Andrea Moda",Dallara,1,0,1
+"Andrea Moda",Brabham,1,0,1
+"Andrea Moda",Larrousse,1,0,1
+"Andrea Moda","Team Lotus",1,0,1
+"Andrea Moda",Footwork,1,0,1
+"Andrea Moda",Ligier,1,0,1
+"Andrea Moda",Tyrrell,1,0,1
+"Andrea Moda",Benetton,1,0,1
+"Andrea Moda",Minardi,1,0,1
+"Andrea Moda",Jordan,1,0,1
+"Andrea Moda",Ferrari,1,0,1
+"Andrea Moda",Williams,1,0,1
+"Andrea Moda",McLaren,1,0,1
+Coloni,Lambo,1,0,1
+Coloni,Fondmetal,1,0,1
+Coloni,Footwork,1,0,1
+Coloni,Jordan,1,0,1
+Coloni,Lola,1,0,1
+"Leyton House",Jordan,1,0,1
+Lambo,"Leyton House",1,0,1
+Lambo,Dallara,1,0,1
+Lambo,Brabham,1,0,1
+Lambo,Larrousse,1,0,1
+Lambo,"Team Lotus",1,0,1
+Lambo,Ligier,1,0,1
+Lambo,Tyrrell,1,0,1
+Lambo,Benetton,1,0,1
+Lambo,Minardi,1,0,1
+Lambo,Jordan,1,0,1
+Lambo,Ferrari,1,0,1
+Lambo,Williams,1,0,1
+Lambo,McLaren,1,0,1
+Lambo,Lola,1,0,1
+AGS,Lambo,1,0,1
+AGS,Jordan,1,0,1
+Fondmetal,"Leyton House",1,0,1
+Fondmetal,Lambo,1,0,1
+Fondmetal,AGS,1,0,1
+Fondmetal,Lola,1,0,1
+Larrousse,Lambo,1,0,1
+Footwork,"Leyton House",1,0,1
+Footwork,Lambo,1,0,1
+Footwork,AGS,1,0,1
+Lola,"Leyton House",1,0,1
+Lola,Dallara,1,0,1
+Life,Onyx,1,0,1
+Life,Osella,1,0,1
+Life,"Euro Brun",1,0,1
+Life,Coloni,1,0,1
+Life,"Leyton House",1,0,1
+Life,AGS,1,0,1
+Life,Dallara,1,0,1
+Life,Brabham,1,0,1
+Life,Larrousse,1,0,1
+Life,"Team Lotus",1,0,1
+Life,Ligier,1,0,1
+Life,Tyrrell,1,0,1
+Life,Benetton,1,0,1
+Life,Arrows,1,0,1
+Life,Minardi,1,0,1
+Life,Ferrari,1,0,1
+Life,Williams,1,0,1
+Life,McLaren,1,0,1
+Onyx,"Leyton House",1,0,1
+Osella,Life,1,0,1
+Osella,"Leyton House",1,0,1
+"Euro Brun",Life,1,0,1
+"Euro Brun","Leyton House",1,0,1
+Coloni,Life,1,0,1
+Arrows,"Leyton House",1,0,1
+Zakspeed,Onyx,1,0,1
+Rial,Onyx,1,0,1
+Rial,Brabham,1,0,1
+Onyx,March,1,0,1
+Spirit,Minardi,1,0,1
+Spirit,Zakspeed,1,0,1
+Spirit,Lola,1,0,1
+RAM,Minardi,1,0,1
+Minardi,"Alfa Romeo",1,0,1
+Zakspeed,Spirit,1,0,1
+Zakspeed,"Alfa Romeo",1,0,1
+Zakspeed,RAM,1,0,1
+Zakspeed,Renault,1,0,1
+Zakspeed,Toleman,1,0,1
+Toleman,Minardi,1,0,1
+Toleman,Zakspeed,1,0,1
+Toleman,Lola,1,0,1
+Lola,Spirit,1,0,1
+Lola,RAM,1,0,1
+Lola,Renault,1,0,1
+Lola,Toleman,1,0,1
+RAM,Theodore,1,0,1
+Spirit,Theodore,1,0,1
+Shadow,Osella,1,0,1
+Osella,Shadow,1,0,1
+"Brabham-Alfa Romeo",Arrows,1,0,1
+"Brabham-Alfa Romeo",Renault,1,0,1
+Merzario,"Brabham-Alfa Romeo",1,0,1
+Merzario,Kauhsen,1,0,1
+Merzario,"Alfa Romeo",1,0,1
+Merzario,Rebaque,1,0,1
+Merzario,Brabham-Ford,1,0,1
+Ensign,Kauhsen,1,0,1
+Ensign,Rebaque,1,0,1
+ATS,"Brabham-Alfa Romeo",1,0,1
+Kauhsen,"Brabham-Alfa Romeo",1,0,1
+Kauhsen,Merzario,1,0,1
+Kauhsen,Wolf,1,0,1
+Kauhsen,Shadow,1,0,1
+Kauhsen,Ensign,1,0,1
+Kauhsen,Fittipaldi,1,0,1
+Kauhsen,ATS,1,0,1
+Kauhsen,"Team Lotus",1,0,1
+Kauhsen,Ligier,1,0,1
+Kauhsen,Tyrrell,1,0,1
+Kauhsen,Arrows,1,0,1
+Kauhsen,Ferrari,1,0,1
+Kauhsen,Renault,1,0,1
+Kauhsen,Williams,1,0,1
+Kauhsen,McLaren,1,0,1
+Kauhsen,"Alfa Romeo",1,0,1
+Kauhsen,Rebaque,1,0,1
+Kauhsen,Brabham-Ford,1,0,1
+"Alfa Romeo","Brabham-Alfa Romeo",1,0,1
+"Alfa Romeo",Merzario,1,0,1
+"Alfa Romeo",Wolf,1,0,1
+"Alfa Romeo",Kauhsen,1,0,1
+"Alfa Romeo",Rebaque,1,0,1
+Rebaque,"Brabham-Alfa Romeo",1,0,1
+Rebaque,Merzario,1,0,1
+Rebaque,Wolf,1,0,1
+Rebaque,Shadow,1,0,1
+Rebaque,Ensign,1,0,1
+Rebaque,Fittipaldi,1,0,1
+Rebaque,ATS,1,0,1
+Rebaque,"Team Lotus",1,0,1
+Rebaque,Ligier,1,0,1
+Rebaque,Tyrrell,1,0,1
+Rebaque,Arrows,1,0,1
+Rebaque,Ferrari,1,0,1
+Rebaque,Renault,1,0,1
+Rebaque,Williams,1,0,1
+Rebaque,McLaren,1,0,1
+Rebaque,Kauhsen,1,0,1
+Rebaque,"Alfa Romeo",1,0,1
+Rebaque,Brabham-Ford,1,0,1
+Brabham-Ford,ATS,1,0,1
+Brabham-Ford,Arrows,1,0,1
+Brabham-Ford,Renault,1,0,1
+Hesketh,Merzario,1,0,1
+Hesketh,Theodore,1,0,1
+Hesketh,ATS,1,0,1
+Hesketh,Arrows,1,0,1
+Hesketh,Martini,1,0,1
+Surtees,Arrows,1,0,1
+Merzario,Hesketh,1,0,1
+Merzario,Surtees,1,0,1
+Merzario,Theodore,1,0,1
+Merzario,Brabham,1,0,1
+Merzario,Martini,1,0,1
+Theodore,Hesketh,1,0,1
+Theodore,Surtees,1,0,1
+Theodore,Merzario,1,0,1
+Theodore,Wolf,1,0,1
+Theodore,Shadow,1,0,1
+Theodore,Martini,1,0,1
+ATS,Surtees,1,0,1
+Martini,Surtees,1,0,1
+Martini,Wolf,1,0,1
+Martini,Shadow,1,0,1
+Martini,Ensign,1,0,1
+Martini,Fittipaldi,1,0,1
+Martini,ATS,1,0,1
+Martini,Brabham,1,0,1
+Martini,"Team Lotus",1,0,1
+Martini,Ligier,1,0,1
+Martini,Tyrrell,1,0,1
+Martini,Ferrari,1,0,1
+Martini,Williams,1,0,1
+Martini,McLaren,1,0,1
+Martini,Arrows,1,0,1
+Martini,Renault,1,0,1
+BRM,LEC,1,0,1
+BRM,McGuire,1,0,1
+BRM,Renault,1,0,1
+BRM,Apollon,1,0,1
+LEC,Surtees,1,0,1
+LEC,Wolf,1,0,1
+LEC,Shadow,1,0,1
+LEC,Ensign,1,0,1
+LEC,Fittipaldi,1,0,1
+LEC,March,1,0,1
+LEC,Brabham,1,0,1
+LEC,"Team Lotus",1,0,1
+LEC,Ligier,1,0,1
+LEC,Tyrrell,1,0,1
+LEC,Ferrari,1,0,1
+LEC,McLaren,1,0,1
+LEC,BRM,1,0,1
+LEC,Penske,1,0,1
+LEC,Hesketh,1,0,1
+LEC,McGuire,1,0,1
+LEC,Renault,1,0,1
+LEC,Boro,1,0,1
+LEC,Apollon,1,0,1
+LEC,Kojima,1,0,1
+McGuire,Surtees,1,0,1
+McGuire,Wolf,1,0,1
+McGuire,Shadow,1,0,1
+McGuire,Ensign,1,0,1
+McGuire,Fittipaldi,1,0,1
+McGuire,March,1,0,1
+McGuire,Brabham,1,0,1
+McGuire,"Team Lotus",1,0,1
+McGuire,Ligier,1,0,1
+McGuire,Tyrrell,1,0,1
+McGuire,Ferrari,1,0,1
+McGuire,McLaren,1,0,1
+McGuire,BRM,1,0,1
+McGuire,Penske,1,0,1
+McGuire,LEC,1,0,1
+McGuire,Hesketh,1,0,1
+McGuire,Renault,1,0,1
+McGuire,Boro,1,0,1
+McGuire,Apollon,1,0,1
+McGuire,Kojima,1,0,1
+Renault,BRM,1,0,1
+Renault,Penske,1,0,1
+Renault,LEC,1,0,1
+Renault,McGuire,1,0,1
+Renault,Boro,1,0,1
+Renault,Apollon,1,0,1
+Renault,Kojima,1,0,1
+Boro,Brabham,1,0,1
+Boro,LEC,1,0,1
+Boro,McGuire,1,0,1
+Boro,Renault,1,0,1
+Boro,Apollon,1,0,1
+Apollon,Surtees,1,0,1
+Apollon,Wolf,1,0,1
+Apollon,Shadow,1,0,1
+Apollon,Ensign,1,0,1
+Apollon,Fittipaldi,1,0,1
+Apollon,March,1,0,1
+Apollon,Brabham,1,0,1
+Apollon,"Team Lotus",1,0,1
+Apollon,Ligier,1,0,1
+Apollon,Tyrrell,1,0,1
+Apollon,Ferrari,1,0,1
+Apollon,McLaren,1,0,1
+Apollon,BRM,1,0,1
+Apollon,Penske,1,0,1
+Apollon,LEC,1,0,1
+Apollon,Hesketh,1,0,1
+Apollon,McGuire,1,0,1
+Apollon,Renault,1,0,1
+Apollon,Boro,1,0,1
+Apollon,Kojima,1,0,1
+Kojima,Brabham,1,0,1
+Kojima,LEC,1,0,1
+Kojima,McGuire,1,0,1
+Kojima,Renault,1,0,1
+Kojima,Apollon,1,0,1
+"Brabham-Alfa Romeo",Penske,1,0,1
+"Brabham-Alfa Romeo",March,1,0,1
+BRM,"Brabham-Alfa Romeo",1,0,1
+Williams,Boro,1,0,1
+Parnelli,"Brabham-Alfa Romeo",1,0,1
+Parnelli,Wolf,1,0,1
+Parnelli,Ligier,1,0,1
+Hesketh,"Brabham-Alfa Romeo",1,0,1
+Surtees,"Brabham-Alfa Romeo",1,0,1
+Brabham-Ford,Penske,1,0,1
+Brabham-Ford,March,1,0,1
+Brabham-Ford,Parnelli,1,0,1
+Brabham-Ford,Hesketh,1,0,1
+Brabham-Ford,Surtees,1,0,1
+Brabham-Ford,Boro,1,0,1
+Brabham-Ford,Maki,1,0,1
+Brabham-Ford,Kojima,1,0,1
+Boro,"Brabham-Alfa Romeo",1,0,1
+Boro,Parnelli,1,0,1
+Maki,"Brabham-Alfa Romeo",1,0,1
+Maki,Wolf,1,0,1
+Maki,Ligier,1,0,1
+Maki,Brabham-Ford,1,0,1
+Maki,Boro,1,0,1
+Maki,Kojima,1,0,1
+Kojima,"Brabham-Alfa Romeo",1,0,1
+Kojima,Williams,1,0,1
+Kojima,Parnelli,1,0,1
+Kojima,Brabham-Ford,1,0,1
+Kojima,Maki,1,0,1
+Shadow-Ford,Hesketh,1,0,1
+Shadow-Ford,March,1,0,1
+Shadow-Ford,Brabham,1,0,1
+Shadow-Ford,Tyrrell,1,0,1
+Shadow-Ford,Ferrari,1,0,1
+Shadow-Ford,McLaren,1,0,1
+Parnelli,Shadow-Ford,1,0,1
+Parnelli,"Embassy Hill",1,0,1
+Penske,Shadow-Ford,1,0,1
+Penske,"Embassy Hill",1,0,1
+BRM,Shadow-Ford,1,0,1
+BRM,"Embassy Hill",1,0,1
+Surtees,Shadow-Ford,1,0,1
+Surtees,"Embassy Hill",1,0,1
+Fittipaldi,Shadow-Ford,1,0,1
+Fittipaldi,Lola,1,0,1
+Fittipaldi,"Embassy Hill",1,0,1
+"Team Lotus",Shadow-Ford,1,0,1
+Lola,Shadow-Ford,1,0,1
+Lola,"Embassy Hill",1,0,1
+Williams,Shadow-Ford,1,0,1
+Williams,"Embassy Hill",1,0,1
+"Embassy Hill",Shadow-Ford,1,0,1
+"Embassy Hill",Hesketh,1,0,1
+"Embassy Hill",March,1,0,1
+"Embassy Hill",Brabham,1,0,1
+"Embassy Hill","Team Lotus",1,0,1
+"Embassy Hill",Tyrrell,1,0,1
+"Embassy Hill",Ferrari,1,0,1
+"Embassy Hill",McLaren,1,0,1
+Ensign,Shadow-Ford,1,0,1
+Ensign,"Embassy Hill",1,0,1
+Maki,Shadow-Ford,1,0,1
+Maki,"Embassy Hill",1,0,1
+Maki,Shadow-Matra,1,0,1
+Lyncar,Shadow-Ford,1,0,1
+Lyncar,Fittipaldi,1,0,1
+Lyncar,Williams,1,0,1
+Lyncar,"Embassy Hill",1,0,1
+Lyncar,Shadow-Matra,1,0,1
+Shadow-Matra,Shadow-Ford,1,0,1
+Shadow-Matra,Parnelli,1,0,1
+Shadow-Matra,Penske,1,0,1
+Shadow-Matra,BRM,1,0,1
+Shadow-Matra,Hesketh,1,0,1
+Shadow-Matra,Surtees,1,0,1
+Shadow-Matra,Fittipaldi,1,0,1
+Shadow-Matra,March,1,0,1
+Shadow-Matra,Brabham,1,0,1
+Shadow-Matra,"Team Lotus",1,0,1
+Shadow-Matra,Lola,1,0,1
+Shadow-Matra,Tyrrell,1,0,1
+Shadow-Matra,Ferrari,1,0,1
+Shadow-Matra,Williams,1,0,1
+Shadow-Matra,McLaren,1,0,1
+Shadow-Matra,"Embassy Hill",1,0,1
+Shadow-Matra,Ensign,1,0,1
+Shadow-Matra,Maki,1,0,1
+Shadow-Matra,Lyncar,1,0,1
+"Iso Marlboro",Lola,1,0,1
+"Iso Marlboro",Hesketh,1,0,1
+Lola,Shadow,1,0,1
+Amon,"Iso Marlboro",1,0,1
+Amon,BRM,1,0,1
+Amon,Surtees,1,0,1
+Amon,Shadow,1,0,1
+Amon,March,1,0,1
+Amon,Brabham,1,0,1
+Amon,"Team Lotus",1,0,1
+Amon,Lola,1,0,1
+Amon,Tyrrell,1,0,1
+Amon,Ferrari,1,0,1
+Amon,McLaren,1,0,1
+Amon,Hesketh,1,0,1
+Amon,Trojan,1,0,1
+Amon,Token,1,0,1
+Amon,Ensign,1,0,1
+Amon,Lyncar,1,0,1
+Amon,Maki,1,0,1
+Amon,Parnelli,1,0,1
+Amon,Penske,1,0,1
+Trojan,"Iso Marlboro",1,0,1
+Trojan,BRM,1,0,1
+Trojan,Surtees,1,0,1
+Trojan,Shadow,1,0,1
+Trojan,March,1,0,1
+Trojan,Brabham,1,0,1
+Trojan,"Team Lotus",1,0,1
+Trojan,Lola,1,0,1
+Trojan,Tyrrell,1,0,1
+Trojan,Ferrari,1,0,1
+Trojan,McLaren,1,0,1
+Trojan,Hesketh,1,0,1
+Trojan,Parnelli,1,0,1
+Token,"Iso Marlboro",1,0,1
+Token,BRM,1,0,1
+Token,Surtees,1,0,1
+Token,Shadow,1,0,1
+Token,March,1,0,1
+Token,Brabham,1,0,1
+Token,"Team Lotus",1,0,1
+Token,Lola,1,0,1
+Token,Tyrrell,1,0,1
+Token,Ferrari,1,0,1
+Token,McLaren,1,0,1
+Token,Hesketh,1,0,1
+Token,Amon,1,0,1
+Token,Trojan,1,0,1
+Token,Ensign,1,0,1
+Token,Lyncar,1,0,1
+Token,Maki,1,0,1
+Token,Parnelli,1,0,1
+Token,Penske,1,0,1
+Ensign,Amon,1,0,1
+Ensign,Trojan,1,0,1
+Ensign,Token,1,0,1
+Lyncar,"Iso Marlboro",1,0,1
+Lyncar,Shadow,1,0,1
+Lyncar,Amon,1,0,1
+Lyncar,Trojan,1,0,1
+Lyncar,Token,1,0,1
+Maki,"Iso Marlboro",1,0,1
+Maki,Amon,1,0,1
+Maki,Trojan,1,0,1
+Maki,Token,1,0,1
+Parnelli,"Iso Marlboro",1,0,1
+Penske,"Iso Marlboro",1,0,1
+Penske,Amon,1,0,1
+Penske,Trojan,1,0,1
+Penske,Token,1,0,1
+Tecno,"Iso Marlboro",1,0,1
+Tecno,Shadow,1,0,1
+Ensign,Tecno,1,0,1
+Tecno,Matra,1,0,1
+Tecno,Politoys,1,0,1
+Tecno,Connew,1,0,1
+Politoys,Matra,1,0,1
+Politoys,BRM,1,0,1
+Politoys,Surtees,1,0,1
+Politoys,March,1,0,1
+Politoys,Brabham,1,0,1
+Politoys,"Team Lotus",1,0,1
+Politoys,Tyrrell,1,0,1
+Politoys,Ferrari,1,0,1
+Politoys,McLaren,1,0,1
+Politoys,Tecno,1,0,1
+Politoys,Connew,1,0,1
+Connew,Matra,1,0,1
+Connew,BRM,1,0,1
+Connew,Surtees,1,0,1
+Connew,March,1,0,1
+Connew,Brabham,1,0,1
+Connew,"Team Lotus",1,0,1
+Connew,Tyrrell,1,0,1
+Connew,Ferrari,1,0,1
+Connew,McLaren,1,0,1
+Connew,Tecno,1,0,1
+Connew,Politoys,1,0,1
+March-Ford,BRM,1,0,1
+March-Ford,Tyrrell,1,0,1
+March-Ford,Ferrari,1,0,1
+"March-Alfa Romeo",March-Ford,1,0,1
+"March-Alfa Romeo",Lotus-Ford,1,0,1
+"March-Alfa Romeo",Matra,1,0,1
+"March-Alfa Romeo",BRM,1,0,1
+"March-Alfa Romeo",Surtees,1,0,1
+"March-Alfa Romeo",Brabham,1,0,1
+"March-Alfa Romeo",Tyrrell,1,0,1
+"March-Alfa Romeo",Ferrari,1,0,1
+"March-Alfa Romeo",McLaren,1,0,1
+"March-Alfa Romeo","Lotus-Pratt &amp; Whitney",1,0,1
+"March-Alfa Romeo",Bellasi,1,0,1
+Lotus-Ford,March-Ford,1,0,1
+Lotus-Ford,Tyrrell,1,0,1
+Matra,March-Ford,1,0,1
+Surtees,March-Ford,1,0,1
+Surtees,Lotus-Ford,1,0,1
+Brabham,March-Ford,1,0,1
+McLaren,March-Ford,1,0,1
+"Lotus-Pratt &amp; Whitney",March-Ford,1,0,1
+"Lotus-Pratt &amp; Whitney",Lotus-Ford,1,0,1
+"Lotus-Pratt &amp; Whitney",Matra,1,0,1
+"Lotus-Pratt &amp; Whitney",BRM,1,0,1
+"Lotus-Pratt &amp; Whitney",Surtees,1,0,1
+"Lotus-Pratt &amp; Whitney",Brabham,1,0,1
+"Lotus-Pratt &amp; Whitney",Tyrrell,1,0,1
+"Lotus-Pratt &amp; Whitney",Ferrari,1,0,1
+"Lotus-Pratt &amp; Whitney",McLaren,1,0,1
+Bellasi,March-Ford,1,0,1
+Bellasi,"March-Alfa Romeo",1,0,1
+Bellasi,Lotus-Ford,1,0,1
+Bellasi,McLaren,1,0,1
+Bellasi,"Lotus-Pratt &amp; Whitney",1,0,1
+McLaren-Ford,March,1,0,1
+McLaren-Ford,"Team Lotus",1,0,1
+"De Tomaso",McLaren-Ford,1,0,1
+"De Tomaso",Matra,1,0,1
+"De Tomaso",March,1,0,1
+"De Tomaso","McLaren-Alfa Romeo",1,0,1
+"De Tomaso",Surtees,1,0,1
+Brabham,McLaren-Ford,1,0,1
+"McLaren-Alfa Romeo",McLaren-Ford,1,0,1
+"McLaren-Alfa Romeo",Matra,1,0,1
+"McLaren-Alfa Romeo",BRM,1,0,1
+"McLaren-Alfa Romeo",March,1,0,1
+"McLaren-Alfa Romeo",Brabham,1,0,1
+"McLaren-Alfa Romeo","Team Lotus",1,0,1
+"McLaren-Alfa Romeo",Ferrari,1,0,1
+"McLaren-Alfa Romeo",Surtees,1,0,1
+Bellasi,McLaren-Ford,1,0,1
+Bellasi,"De Tomaso",1,0,1
+Bellasi,March,1,0,1
+Bellasi,"Team Lotus",1,0,1
+Bellasi,"McLaren-Alfa Romeo",1,0,1
+Surtees,McLaren-Ford,1,0,1
+Tyrrell,McLaren-Ford,1,0,1
+Tyrrell,"De Tomaso",1,0,1
+Tyrrell,"McLaren-Alfa Romeo",1,0,1
+Brabham-Ford,Matra-Ford,1,0,1
+BRM-Ford,Matra-Ford,1,0,1
+BRM-Ford,Brabham-Repco,1,0,1
+BRM-Ford,McLaren-Ford,1,0,1
+BRM-Ford,Brabham-Ford,1,0,1
+BRM-Ford,Lotus-Ford,1,0,1
+BRM-Ford,BRM,1,0,1
+BRM-Ford,Ferrari,1,0,1
+BRM-Ford,Cooper-Maserati,1,0,1
+Eagle-Climax,Matra-Ford,1,0,1
+Eagle-Climax,BRM-Ford,1,0,1
